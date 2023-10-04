@@ -448,4 +448,5 @@ MigrationBackup/
 
 # Custom files to ignore
 *.ipynb_checkpoints
+.ipynb_checkpoints
 .env
