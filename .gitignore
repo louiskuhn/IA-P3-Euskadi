@@ -450,3 +450,5 @@ MigrationBackup/
 *.ipynb_checkpoints
 .ipynb_checkpoints
 .env
+.virtual_documents
+.Rhistory
