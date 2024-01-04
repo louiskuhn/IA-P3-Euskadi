@@ -1,0 +1,20 @@
+/* Et comment on met des commentaires ? Et ben comme ça*/
+.page{
+	width: 780px;
+	margin: auto;
+	font-size: 16px;
+	font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.info_photos{
+	height: 250px;
+}
+
+.info{
+	float: left;
+}
+
+.photo{
+	float: right;
+}
+
