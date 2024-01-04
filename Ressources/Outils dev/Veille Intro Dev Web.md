@@ -30,5 +30,5 @@ Une trame pour orienter vos recherches :
 - Schématiser les échanges/communications entre un utilisateur, un site web et une base de données en spécifiant différents cas de figures (on peut se contenter d'un schéma simple d'une architecture client-serveur ou aller plus loin et faire figurer les méthodes HTTP selon la requête de l'utilisateur, les html retournés par le serveur web, les opérations CRUD sur la BDD, etc...)
 
 # Modalités
-3 groupes de 3 + 1 groupe de 4
+3 groupes de 3 + 1 groupe de 4  
 10min de présentation par groupe, début à 15h40
