@@ -1,0 +1,16 @@
+.multicolor {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);  
+  -webkit-background-clip: text;
+  -moz-background-clip: text; 
+  background-clip: text;
+  color: transparent;
+}
+
+h1 {
+  text-align: right;
+}
+
+body {
+  background-color: rgb(73, 72, 72);
+  color: white;
+}

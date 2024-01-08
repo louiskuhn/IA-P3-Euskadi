@@ -1,0 +1,16 @@
+<!doctype html>
+<html lang="en">
+    <head>
+      <title>NextPage</title>
+      <link rel ="stylesheet" type="text/css" href="{{ url_for('static', filename='main.css') }}">
+    </head>
+    <body>
+      <h1> Vous êtes sur la 2eme page </h1>
+      <p class="multicolor" >Vous pouvez cliquer <a href="{{ url_for('hello') }}"> là-dessus </a> 
+        pour retourner à la page d'accueil quand vous en aurez fini. Au passage, et c'est fait exprès, 
+        vous constatez que le style "centré multicolor" a été appliqué non plus à une balise h1 mais 
+        à une balise de paragraphe. <br>
+        De l'intérêt de l'attribut class pour définir des styles réutilisables par exemple.
+      </p>
+    </body>
+</html>

@@ -1,0 +1,10 @@
+h1 {
+  font-size: 2em;
+  color: greenyellow;
+  text-align: left;
+} 
+
+body {
+  background-color: grey;
+  color: white;
+}

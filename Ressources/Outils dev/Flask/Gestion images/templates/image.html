@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+    <head>
+        <title>Flask images</title>
+    </head>
+
+    <body>
+        <h1>Veuillez importer une image</h1>
+
+        <form action="{{ url_for('upload') }}" method="POST" enctype=multipart/form-data>
+            <input type="file" name="image" accept="image/*">
+            <button type="submit">Charger l'image</button>
+        </form>
+
+        <h3>L'image chargée est :</h3>
+        <p>Version sauvegardée : <img src="{{ full_filename }}" alt="uploaded_image"></p><br>
+        <p>Version sans sauvegarde : <img src="{{ base64img }}" alt="image_wo_upload"></p>
+
+
+    </body>
+</html>
+
