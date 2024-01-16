@@ -1,0 +1,36 @@
+{% extends "base.html" %}
+{% block title %}FinancialData{% endblock %}
+{% block content %}
+    <h1>Un petit financial chart</h1>
+    <form class="form-style" action="{{ url_for('finance_chart')}}" method="GET">
+        <div class="searchInput">
+            <select name="symbol">
+                <option value="">--une entreprise--</option>
+                {% for comp in companies %}
+                    <option value="{{ comp[0] }}">{{ comp[1] }} ({{ comp[0] }})</option>
+                {% endfor %}
+            </select>
+            <button type="submit"><i class="fa fa-line-chart"></i></button>
+        </div>
+    </form>
+
+    <script src="https://d3js.org/d3.v4.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
+    {% if infos %}
+    <h1>{{ infos['2. Symbol']}} - {{ infos['1. Information']}}</h1>
+    <div class="graphviz">
+        <select id="selectButton"></select>
+        <div id="my_dataviz"></div>
+    </div>
+    {% endif %}
+
+    {% if message %}
+    <h1>{{ message }}</h1>
+    {% endif %}
+
+
+    <script src=" {{ url_for('static', filename='js/plot_chart.js') }}"></script>
+    <script> plot_chart({{ data | safe }}) </script>
+
+{% endblock %}

@@ -1,0 +1,30 @@
+{% extends "base.html" %}
+{% block title %}HomePage{% endblock %}
+{% block content %}
+    <h1>Veuillez importer une image d'un chiffre manuscrit white-on-black</h1>
+
+    <form class="form-style" action="{{ url_for('predict_from_img') }}" method="POST" enctype=multipart/form-data>
+        <input type="file" name="image" accept="image/*">
+        <button type="submit">Charger l'image et reconnaître le chiffre</button>
+    </form>
+
+    {% if base64img %}
+        <h2>L'image chargée est : <img src="{{ base64img }}" alt="img_upload" width='10%' ></h2>
+    {% endif %}
+
+    {% if pred or pred==0 %}
+        <h1>Le modèle voit un : {{ pred }}</h1>
+    {% endif %}
+
+    <div style="margin-top: 10%;">
+        <h4>Autres solutions :</h4>
+        <ul>
+            <li>
+                <a href="{{ url_for('mnist3') }}">version avec canvas et sans XML</a>
+            </li>
+            <li>
+                <a href="{{ url_for('mnist') }}">version avec canvas et XML</a>
+            </li>
+        </ul>
+    </div>
+{% endblock %}

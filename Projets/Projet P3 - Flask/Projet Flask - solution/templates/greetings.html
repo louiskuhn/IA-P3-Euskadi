@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+{% block title %}Greetings{% endblock %}
+{% block content %}
+<!-------------------------------------------------------------------------------------------->
+<!-- J'utilise dans ce html jinja qui est un moteur de template. Je m'en suis servi aussi dans 
+    base.html pour les messages flash. On peut très bien faire sans mais l'intérêt est l'insertion 
+    de for, de if, else, etc dans le html -->
+    {% if sex == "male" %}
+        <h1> Bonjour Mr {{ prenom }} {{ nom }}, votre nom d'utilisateur est {{ user }}</h1>
+    {% elif sex == "female" %}
+        <h1> Bonjour Mme {{ prenom }} {{ nom }}, votre nom d'utilisateur est {{ user }}</h1>
+    {% else %}
+        <h1> Bonjour {{ prenom }} {{ nom }}, votre nom d'utilisateur est {{ user }}</h1>
+    {% endif %}
+{% endblock %}

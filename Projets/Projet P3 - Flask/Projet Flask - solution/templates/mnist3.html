@@ -1,0 +1,35 @@
+{% extends "base.html" %}
+{% block title %}HomePage{% endblock %}
+{% block content %}
+    <h1>Dessiner un chiffre dans la zone de dessin</h1>
+    <div style="width: 800px; margin: 0 auto; justify-content: center; align-items: center">
+        <canvas width="140" height="140" id="canvas" style="border:1px solid black; float: left">canvas</canvas>
+       
+        <div>
+            <form action="{{ url_for('predict_from_dataurl_wo_xml') }}" method="post" accept-charset="utf-8">
+                <input name="data" id='data' type="hidden"/>
+                <button type="submit" onclick="upload_img()">Reconnaître</button>
+            </form>
+            <input type="button" onclick="clearCanvas()" value="Effacer"/>
+        </div>
+    </div>
+
+    <script src=" {{ url_for('static', filename='js/canvas.js') }}"></script>
+    <script src=" {{ url_for('static', filename='js/img_to_dataurl_wo_xml.js') }}"></script>
+
+    {% if pred %}
+        <h2>Le modèle voit un <span style="font-style: italic;">{{ pred }}</span> dans cette image <img src="{{ base64img }}"></h2>
+    {% endif %}
+
+    <div style="margin-top: 10%;">
+        <h4>Autres solutions :</h4>
+        <ul>
+            <li>
+                <a href="{{ url_for('mnist') }}">version avec canvas et XML</a>
+            </li>
+            <li>
+                <a href="{{ url_for('mnist2') }}">version sans canvas mais à partir d'un fichier image</a>
+            </li>
+        </ul>
+    </div>
+{% endblock %}

@@ -1,0 +1,12 @@
+Flask
+mysql-connector-python
+numpy
+pandas
+matplotlib
+requests
+pybase64
+opencv-python
+scipy
+scikit-learn
+keras
+tensorflow-cpu

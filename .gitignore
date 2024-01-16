@@ -452,3 +452,5 @@ MigrationBackup/
 .env
 .virtual_documents
 .Rhistory
+**/mnist_rf.sav
+**/mnist_cnn.h5
