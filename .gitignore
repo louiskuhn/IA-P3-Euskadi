@@ -454,3 +454,4 @@ MigrationBackup/
 .Rhistory
 **/mnist_rf.sav
 **/mnist_cnn.h5
+Ressources/Deep\ Learning/Recurrent\ Neural\ Network/data/Glove
