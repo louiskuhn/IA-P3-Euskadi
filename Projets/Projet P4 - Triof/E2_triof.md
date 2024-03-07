@@ -1,12 +1,11 @@
 # Amélioration grâce à l'IA d'une application existante
 
-Ce projet est un équivalent de ce que vous pourriez faire pour votre projet E2. Il va permettre de revoir pas mal de choses notamment : 
+Ce projet est un équivalent de ce que vous pourriez faire pour votre projet E2 (ancien livrable pour le titre pro). Il va permettre de revoir pas mal de choses notamment : 
 - la gestion de projet Agile
 - un peu de dev à travers du packaging d'application avec Flask et des appels à une API externe
 - la reconnaissance d'image avec 2 approches (la seconde étant **facultative**) :
 >- une solution Cloud
 >- une solution *on-premise*, c'est-à-dire locale
-- la restitution des résultats (rapport et présentation orale)
 
 ## Contexte
 
