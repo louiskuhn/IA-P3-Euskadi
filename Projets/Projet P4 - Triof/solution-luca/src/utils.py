@@ -12,12 +12,15 @@ from msrest.authentication import ApiKeyCredentials
 
 VISION_PREDICTION_ENDPOINT = "https://triofmodeleclassificationdechet-prediction.cognitiveservices.azure.com/"
 
-vision_prediction_key = os.environ['VISION_PREDICTION_KEY']
+# vision_prediction_key = os.environ['VISION_PREDICTION_KEY'] # plus besoin de ça une fois qu'on a fait la suite avec les secrets
 
 keyVaultName = "triof-vault"
 KVUri = f"https://{keyVaultName}.vault.azure.net"
 secretName = 'triof-custom-vision-prediction-key'
 
+# Ici soit DefaultAzureCredential est vide et il utilise votre connection depuis la CLI,
+# soit on précise le client_id de l'identité managée (pour quand le code sera déployé sur App Services)
+# on peut aussi le préciser avec la variable d'environnement AZURE_CLIENT_ID dans App Services
 credential = DefaultAzureCredential(managed_identity_client_id="b382adcf-959e-4942-a9ad-b8911ce323fa")
 client = SecretClient(vault_url=KVUri, credential=credential)
 
@@ -147,15 +150,17 @@ def get_prediction_is_clean(model, filepath):
 
     img_load = image.load_img(filepath, target_size=(150, 150))
     img_array = image.img_to_array(img_load)
-    # img_array = np.expand_dims(img_array, axis=0)
     img_array /= 255. # remettre les valeurs de pixel entre 0 et 1
     img_array = img_array.reshape((1, 150, 150, 3)) # reshape correctement pour que le modèle accepte
 
     prediction = model.predict(img_array)
 
     final_pred = True
+
+    decision_threshold = 0.5 # seuil de décision
+
     try:
-        final_pred = True if prediction[0][0] < 0.5 else False
+        final_pred = True if prediction[0][0] < decision_threshold else False 
         print(prediction[0][0])
     except IndexError:
         print("clean/dirty model prediction didn't work")

@@ -9,10 +9,6 @@ import src.utils as utils
 # pip install tflite-runtime NE MARCHE QUE SUR LINUX (peut-être mac à voir)
 
 
-
-VISON_PREDICTION_ENDPOINT = "https://triofmodeleclassificationdechet-prediction.cognitiveservices.azure.com/"
-VISION_PREDICTION_RESOURCE_ID = "/subscriptions/974386b8-dfe6-43cc-94af-17335974d64a/resourceGroups/projet_triof/providers/Microsoft.CognitiveServices/accounts/triofmodeleclassificationdechet-Prediction"
-
 base_image_location = "camera"
 
 UPLOAD_FOLDER = 'static/uploaded_images'
@@ -47,6 +43,7 @@ def home():
     return render_template('home.html')
 
 
+# En appelant Custom Vision avec l'url de son API
 @app.route('/start', methods=['GET', 'POST'])
 def insert():
     utils.open_waste_slot()
@@ -86,7 +83,7 @@ def insert():
 
     return render_template('insert.html')
 
-
+# en appelant Custom Vision depuis la SDK Azure Custom Vision
 @app.route('/start_sdk', methods=['GET', 'POST'])
 def insert_sdk():
 
