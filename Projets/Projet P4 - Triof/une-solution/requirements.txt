@@ -1,0 +1,7 @@
+flask
+matplotlib
+numpy
+pillow
+requests
+scikit-image
+tflite-runtime

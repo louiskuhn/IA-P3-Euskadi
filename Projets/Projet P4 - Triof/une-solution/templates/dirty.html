@@ -1,0 +1,57 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Triof</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/static/css/main.css" />
+		<noscript><link rel="stylesheet" href="/static/css/noscript.css" /></noscript>
+
+        <style>
+            #wrapper:before{
+                content: normal;
+            }
+        </style>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main">
+						<header>														
+							<p>Urgh, gross...go wash it you lazy b**** and come back with a clean trash</p>
+						</header>
+
+						<div>
+							<img
+								width=200
+								src="{{ url_for('static', filename = 'images/camera/'+picture_taken) }}"
+								alt="No waste picture taken"
+							/>
+						</div>
+						<form method="post" action="/waste/dirty-clean">
+							<div class="fields">
+		
+								<input type="hidden" name="img" value="{{ picture_taken }}">
+		
+                                <div class="field">
+                                    <input type="submit" value="It's clean !"/>
+                                </div>
+							</div>
+						</form>
+					</section>
+			</div>
+
+		<!-- Scripts -->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-preload\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
+
+	</body>
+</html>

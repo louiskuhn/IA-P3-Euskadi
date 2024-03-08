@@ -1,0 +1,3 @@
+# Custom files to ignore
+/model_dirtyclean/saved_model/
+/static/model/model_dirtyclean.tflite
