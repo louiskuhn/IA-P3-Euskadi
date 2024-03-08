@@ -1,0 +1,89 @@
+<!DOCTYPE HTML>
+
+<html>
+
+<head>
+	<title>Triof</title>
+	<meta charset="utf-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+	<link rel="stylesheet" href="/static/css/main.css" />
+	<noscript>
+		<link rel="stylesheet" href="/static/css/noscript.css" />
+	</noscript>
+</head>
+
+<body class="is-preload">
+
+	<!-- Wrapper -->
+	<div id="wrapper">
+
+		<!-- Main -->
+		<section id="main">
+			<header>
+				<p>Machine is ready, insert the waste please ! </p>
+			</header>
+
+			<p>
+			<form method=post enctype=multipart/form-data>
+				<input type=file name=file>
+
+				<input type=submit value=Upload>
+			</form>
+			{% if image_name is defined %}
+			<img width=150 src="{{ url_for('static', filename = 'uploaded_images/' + image_name) }}" />
+			{% else %}
+			<img width=150
+				src="https://www.gabpproperty.com/media/catalog/product/cache/7/image/730x/0dc2d03fe217f8c83829496872af24a0/r/e/rec7.jpg" />
+			{% endif %}
+
+			</p>
+			<hr>
+
+			<div>
+				{% if predictions is defined %}
+				{% for prediction in predictions %}
+				<div>
+					{% if prediction.tagName is defined %}
+					<p>{{ prediction.tagName }}: <b>{{ prediction.probability*100 }}%</b></p>
+					{% else %}
+					<p>{{ prediction.tag_name }}: <b>{{ prediction.probability*100 }}%</b></p>
+					{% endif %}
+				</div>
+				{% endfor %}
+				{% else %}
+				<p>No predictions yet</p>
+				{% endif %}
+				{% if is_clean is defined %}
+				<p>WARNING: Garbage is too dirty to recycle!</p>
+				{% endif %}
+			</div>
+			<!-- <div>
+							<ul class="actions special">
+								<li><a href="/waste/pick-type" class="button">Dechêt déposé</a></li>
+							</ul>
+						</div> -->
+
+
+		</section>
+
+		<!-- Footer -->
+		<footer id="footer">
+			<ul class="copyright">
+				<li>&copy; Jane Doe</li>
+				<li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+			</ul>
+		</footer>
+
+	</div>
+
+	<!-- Scripts -->
+	<script>
+		if ('addEventListener' in window) {
+			window.addEventListener('load', function () { document.body.className = document.body.className.replace(/\bis-preload\b/, ''); });
+			document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+		}
+	</script>
+
+</body>
+
+</html>

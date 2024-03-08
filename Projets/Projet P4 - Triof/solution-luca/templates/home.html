@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+
+<html>
+	<head>
+		<title>Triof</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="/static/css/main.css" />
+		<noscript><link rel="stylesheet" href="/static/css/noscript.css" /></noscript>
+	</head>
+	<body class="is-preload">
+
+		<!-- Wrapper -->
+			<div id="wrapper">
+
+				<!-- Main -->
+					<section id="main">
+						<header>
+							<span class="avatar"><img src="/static/images/avatar.jpg" alt="" /></span>
+							<h1>Triof</h1>
+							<p>Recycler pour préserver</p>
+						</header>
+
+						<hr >
+
+						<div>
+							<ul class="actions special">
+								<li><a href="/start" class="button">Nouveau déchet</a></li>
+							</ul>
+						</div>
+
+						<div>
+							<ul class="actions special">
+								<li><a href="{{url_for('insert_sdk')}}" class="button">Nouveau déchet (sdk)</a></li>
+							</ul>
+						</div>
+	
+
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="copyright">
+							<li>&copy; Jane Doe</li><li>Design: <a href="http://html5up.net">HTML5 UP</a></li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script>
+				if ('addEventListener' in window) {
+					window.addEventListener('load', function() { document.body.className = document.body.className.replace(/\bis-preload\b/, ''); });
+					document.body.className += (navigator.userAgent.match(/(MSIE|rv:11\.0)/) ? ' is-ie' : '');
+				}
+			</script>
+
+	</body>
+</html>
