@@ -1,0 +1,65 @@
+{% extends "base.html" %}
+{% block title %}FinancialData{% endblock %}
+{% block content %}
+    <h1>Page de recherche des données financières</h1>
+    <form class="form-style" action="{{ url_for('finance_data')}}" method="POST">
+        <div class="searchInput">
+            <input type="text" placeholder="Saisir une grooooosse entreprise.." name="search">
+            <button type="submit"><i class="fa fa-search"></i></button>
+        </div>
+    </form>
+
+    {% if search %}
+        <form class="form-style" action="{{ url_for('finance_data')}}" method="POST">
+            {% if companies|length > 0 %}
+                    <h2>Plusieurs résultats pour "{{ search }}", en sélectionner un :</h2>
+                    <fieldset>
+                        {% for name, tick in companies %}
+                        <div>
+                            <input type="radio" name="company" value="{{ tick }}"/>
+                            <label for="company">{{ name }} ({{ tick }})</label>
+                        </div>
+                        {% endfor %}
+                        <button type="submit">Et z'est bartiiii</button>
+                    </fieldset>
+            {% elif companies|length == 0%}         
+            <h2>Aucun résultat pour "{{ search }}"</h2>
+            {% endif %}
+        </form>
+    {% endif %}
+
+    {% if ticker %}
+        <h1>Résultats obtenus pour {{ ticker }}</h1>
+        {% if quotes %}
+            <h1>{{ quotes.companyName }} - {{ quotes.stockType }} - {{ quotes.exchange }}</h1>
+        {% endif %}
+        <div class="quotes-news">
+            <div class="row">
+                <div class="column-quotes">
+                    {% if quotes %}
+                        <ul>
+                            {% for key in quotes.primaryData %}
+                                <li>{{ key | upper }} : {{ quotes.primaryData[key] }}</li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+
+                    <form class="form-style" style="border: none;" action="{{ url_for('finance_chart')}}" method="GET">
+                        <input type="text" name="symbol" value="{{ ticker }}" style="display: none;">
+                        <button type="submit">Voir des <i class="fa fa-line-chart"></i></button>
+                    </form>
+                </div>
+
+                <div class="column-news">
+                    {% if news %}
+                        <ul>
+                            {% for n in news %}
+                                <li><strong>{{ n.pubDate[:18] }} :</strong> {{ n.title }} <a href="{{ n.link }}" target="_blank">...plus</a></li>
+                            {% endfor %}
+                        </ul>
+                    {% endif %}
+                </div>
+            </div>
+        </div>
+    {% endif %}
+{% endblock %}

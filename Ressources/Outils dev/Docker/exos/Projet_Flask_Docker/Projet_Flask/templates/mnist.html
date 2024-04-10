@@ -1,0 +1,39 @@
+{% extends "base.html" %}
+{% block title %}HomePage{% endblock %}
+{% block content %}
+    <h1>Dessiner un chiffre dans la zone de dessin</h1>
+    <div style="width: 800px; margin: 0 auto; justify-content: center; align-items: center">
+        <canvas width="140" height="140" id="canvas" style="border:1px solid black; float: left">canvas</canvas>
+        
+        <div>
+            <input type="button" onclick="upload_img()" value="Reconnaître"/> 
+            <input type="button" onclick="clearCanvas()" value="Effacer"/>
+        </div>
+        
+        <div>
+            <h2>Prédiction obtenue par random forest : <span id="predRF" style="font-style: italic;"></span></h2>
+            <h2>Prédiction obtenue par convolution (CNN) : <span id="predCNN" style="font-style: italic;"></span></h2>
+        </div>
+    </div>
+
+    <script src=" {{ url_for('static', filename='js/canvas.js') }}"></script>
+    <script src=" {{ url_for('static', filename='js/img_to_dataurl.js') }}"></script>
+
+    <form method="post" accept-charset="utf-8" name="form1">
+        <input name="data" id='data' type="hidden"/>
+    </form>
+
+
+    <div style="margin-top: 10%;">
+        <h4>Autres solutions :</h4>
+        <ul>
+            <li>
+                <a href="{{ url_for('mnist3') }}">version avec canvas et sans XML</a>
+            </li>
+            <li>
+                <a href="{{ url_for('mnist2') }}">version sans canvas mais à partir d'un fichier image</a>
+            </li>
+        </ul>
+    </div>
+    
+{% endblock %}

@@ -1,0 +1,46 @@
+<!doctype html>
+<html>
+    <head>
+        {% block head %}
+        <link rel="stylesheet" href="{{ url_for('static', filename='main.css') }}">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+        <title>Intro à Flask - {% block title %}{% endblock %}</title>
+        {% endblock %}
+    </head>
+
+    <body>
+        <div id="barre">
+            <ul>
+                <li><a href="{{ url_for('home') }}">Home</a></li>
+                <li><a href="{{ url_for('formulaire') }}">Form</a></li>
+                <li><a href="{{ url_for('see_users') }}">Users</a></li>
+                <li><a href="{{ url_for('page_stats') }}">Stats</a></li>
+                <li><a href="{{ url_for('finance_data') }}">Finance</a></li>
+                <li><a href="{{ url_for('finance_chart') }}">Chart</a></li>
+                <li><a href="{{ url_for('mnist') }}">MNIST</a></li>
+              </ul>
+        </div>
+        <!-------------------------------------------------------------------------------------------->
+        <!--Le bloc qui suit permet l'affichage des messages flash par exemple si le pseudo est déjà
+            utilisé, si la base n'est pas encore créée etc...Il s'utilise avec la fonction flash dans
+            le .py, c'est pas fondamental mais c'est un petit plus, je vous laisse vous renseigner -->
+       {% with messages = get_flashed_messages(with_categories=true) %}
+            {% if messages %}
+                {% for category, message in messages %}
+                    <div class="alert-{{ category }}" role="alert">
+                        <span class="closebtn" onclick="this.parentElement.style.display='none';">&times;</span>
+                        {{ message }}
+                    </div>
+                {% endfor %}
+            {% endif %}
+        {% endwith %}
+
+        <div id="content">{% block content %}{% endblock %}</div>
+
+        <div id="footer">
+        {% block footer %}
+        <p>&copy; Copiraïte 2020 par LK</p>
+        {% endblock %}
+        </div>
+    </body>
+</html>

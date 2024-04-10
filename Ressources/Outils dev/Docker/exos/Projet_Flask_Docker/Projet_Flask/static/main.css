@@ -1,0 +1,222 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;300;400;500;600;700&display=swap');
+*{
+  font-family: 'Poppins', sans-serif;
+}
+
+h1 {
+  font-size: 2em;
+  color: rgb(65, 64, 133);
+  text-align: center;
+} 
+
+body {
+  background-color: grey;
+  color: #333;
+  margin: 0;                            /*supression des marges de la page*/
+  display: flex;                        /*pour qu'ensuite les éléments puissent modifier leurs dimensions et s'adapter à l'espace disponible */
+  flex-direction: column;               /*la flexibilité sera verticale*/
+  min-height: 100vh;                    /*on utilisera la totalité de la page*/
+}
+
+/********* Le content *********/
+#content {
+  flex: 1;                              /*c'est donc l'id content qui sera flexible et utilisera toute la hauteur de la page*/
+}                                       /*au dessus il y a la barre de navigation et en dessous le footer*/
+
+/*l'utilisation de la propriété de flexibilité a ici un seul but (assez limité mais ça permet de
+découvrir un peu le fonctionnement) il s'agit de conserver le footer toujours en bas de page...*/
+
+
+
+/********* La barre de navigation *********/
+#barre ul {
+  list-style-type: none;                /*pour définir la puce des listes, ici on en met pas*/
+  margin: 0;                            /*les marges : c'est l'espace à l'extérieur de l'élément, par rapport à la page*/
+  padding: 0;                           /*padding : c'est l'espace à l'intérieur de l'élément pour son contenu, par exemple pour la zone de texte dans une box*/
+  overflow: hidden;                     /*propriété pour la gestion du fait qu'un contenu dépasse de son contenant, ici ça devrait pas arriver donc il est caché*/
+  background-color: #333;
+}
+#barre li {
+  float: left;
+  border-right:1px solid #bbb;
+}
+#barre li a {
+  display: block;                       /*affichage des éléments sous forme de bloc, comme la balise <p> par exemple*/
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;                /*pour ajouter des lignes au texte (underline, overline, line-through...) */
+}
+#barre li a:hover {                     /*hover pour définir un style lorsque le curseur est au dessus de l'élément*/
+  background-color: #111;             /*ici on choisit de changer la couleur*/
+}
+
+/********* Le bas de page *********/
+#footer p{
+  text-align: center;
+}
+
+
+/********* Les messages flash avec la petite croix pour fermer *********/
+.alert-error {
+  padding: 20px;
+  background-color: #f81111;
+  color: white;
+}
+.alert-warning {
+  padding: 20px;
+  background-color: #f5875b;
+  color: white;
+}
+.alert-success {
+  padding: 20px;
+  background-color: #6ace4c;
+  color: white;
+}
+.closebtn {                               /*la petite croix pour fermer*/
+  margin-left: 15px;
+  color: white;
+  font-weight: bold;
+  float: right;                           /*pour que la croix soit située à droite*/
+  font-size: 22px;
+  line-height: 20px;
+  cursor: pointer;                        /*pour définir la forme du curseur lorsqu'on est au-dessus de l'élément*/
+  transition: 0.3s;
+}
+.closebtn:hover {
+  color: black;
+}
+
+/********* Les tableaux *********/
+table {
+  margin: auto;                           /*permet de centrer le tableau sur la page*/
+  border-collapse:collapse;               /*choix du style de bordure*/
+  width:60%;                              /*pour que les tables occupent 60% de la page*/
+}
+th, td {
+  border:1px solid white;
+  /*width:100%;*/
+}
+td {
+  text-align:left;
+}
+
+/********* Le formulaire *********/
+.form-style{
+	width: 30%;
+	background: #FAFAFA;
+	margin: auto;
+	box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+	border-radius: 10px;
+	border: 6px solid rgb(65, 64, 133);
+  padding: 10px 25px;
+}
+
+.form-style ul{
+  padding: 10px 20px;
+}
+
+.form-style ul li{
+	list-style:none;
+	display: block;
+	min-height: 35px;
+  font-size: 20px;
+}
+
+.form-style input{
+	border-radius: 5px;
+  float: right;
+}
+
+.form-style input[type=radio]{
+  display: inline-block;
+  float: none;
+}
+
+.form-style input[type=file]{
+  display: inline-block;
+  float: none;
+}
+
+.form-style button {
+	background-color: rgb(65, 64, 133);
+	display: inline-block;
+	cursor: pointer;
+	color: #FFFFFF;
+	padding: 8px 18px;
+	text-decoration: none;
+	font-size: 20px;
+  border-radius: 5px;
+  width : 100%;
+  margin: auto;
+  margin-top: 10px;
+}
+
+.form-style button:hover {
+	background-color: #b65f2c;
+}
+
+/* CSS spécifique à la barre de recherche */
+.searchInput {
+  display: flex;
+  margin: auto;
+  box-shadow: none;
+	border-radius: 5px;
+	border: 3px solid rgb(65, 64, 133);
+}
+
+.searchInput input[type=text] {
+  width: 80%;
+}
+
+.searchInput select {
+  width: 80%;
+}
+
+.searchInput button {
+  width: 20%;
+  margin: auto;
+}
+
+/* Résultats de l'appel API devapi.ai */
+.quotes-news {
+	width: 60%;
+	background: #FAFAFA;
+	margin: auto;
+	box-shadow: 1px 1px 25px rgba(0, 0, 0, 0.35);
+	border-radius: 10px;
+	border: 6px solid rgb(65, 64, 133);
+  padding: 10px 25px;
+}
+
+.quotes-news ul{
+  padding: 10px 10px;
+}
+
+.quotes-news ul li{
+	list-style:none;
+	display: block;
+	min-height: 35px;
+}
+
+.quotes-news .row {
+  display: flex;
+}
+
+.quotes-news .column-quotes {
+  flex: 40%;
+  font-size: 16px;
+}
+
+.quotes-news .column-news {
+  flex: 60%;
+  font-size: 14px;
+  max-height: 550px;
+  overflow-y: scroll;
+}
+
+/* Graphique Finance */
+.graphviz {
+  width: 60%;
+  margin: 0 auto;
+}

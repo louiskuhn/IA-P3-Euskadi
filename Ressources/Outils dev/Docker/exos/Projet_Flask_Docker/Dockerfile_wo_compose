@@ -1,0 +1,20 @@
+FROM python:3.10
+
+ARG arg_pwd
+
+ENV DB_HOST="mdb_container"
+ENV DB_USER="root"
+ENV DB_PASSWORD=$arg_pwd
+ENV DB="app_db"
+
+COPY Projet_Flask/ /src
+
+WORKDIR /src
+
+RUN apt-get update && apt-get install ffmpeg libsm6 libxext6  -y
+
+RUN pip install -r requirements.txt
+
+EXPOSE 5000
+ 
+CMD ["python", "script_app.py"]

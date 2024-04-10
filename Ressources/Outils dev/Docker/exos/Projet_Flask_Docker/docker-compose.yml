@@ -1,0 +1,33 @@
+version: '3'
+
+services:
+    app:
+        build: .
+        depends_on:
+            db:
+                condition: service_healthy
+        environment:
+            - DB_HOST=db
+            - DB_USER=root
+            - DB_PASSWORD=$DB_PASSWORD
+            - DB=app_db
+        ports:
+            - 5000:5000
+        volumes:
+            - ./Projet_Flask:/src           
+    db:
+        image: mariadb:latest
+        environment:
+            - MYSQL_ROOT_PASSWORD=$DB_PASSWORD
+            - MYSQL_DATABASE=app_db
+        volumes:
+            - mariadb_data:/var/lib/mysql
+        healthcheck:
+            test: "mariadb $$MYSQL_DATABASE -uroot -p$$MYSQL_ROOT_PASSWORD -e 'SELECT 1;'"
+            interval: 2s
+            timeout: 2s
+            retries: 10
+
+volumes:
+    mariadb_data:
+        driver: local
