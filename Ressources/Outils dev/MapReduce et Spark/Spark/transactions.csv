@@ -1,0 +1,3001 @@
+account_sender_name,country_sender,account_receiver_name,country_receiver,datetime_timestamp,amount
+Nissan,US,Elon Musk,SPA,0,8192372
+McKesson,JAP,Elon Musk,SWI,1000,4428350
+McKesson,UK,Tesla,SPA,2000,863811
+ConocoPhillips,CHI,John Coulberg,ITA,3000,7330833
+McKesson,JAP,Altaran,FR,4000,5167665
+Altaran,SPA,McKesson,FR,5000,830825
+McKesson,SP,Nissan,CHI,6000,5123100
+Exxon Mobil,CHI,Tesla,SWI,7000,3198840
+Altaran,US,Laurent Alexandre,SPA,8000,5408199
+Altaran,JAP,Nissan,ITA,9000,7215787
+General Motos,SP,Nissan,CHI,10000,1195163
+ConocoPhillips,FR,John Coulberg,SWI,11000,4151347
+Tesla,ITA,McKesson,FR,12000,9880808
+Elon Musk,SPA,Walmart,SWI,13000,7469322
+Nissan,JAP,Elon Musk,FR,14000,2787412
+Laurent Alexandre,JAP,Tesla,SPA,15000,332765
+Exxon Mobil,JAP,Laurent Alexandre,GER,16000,9772174
+Elon Musk,CHI,Renault,US,17000,6517624
+Chevron,SWI,Laurent Alexandre,GER,18000,9910309
+Nissan,FR,Laurent Alexandre,US,19000,744248
+John Coulberg,SWI,General Motos,FR,20000,3401135
+ConocoPhillips,SPA,Activision Blizard,US,21000,6725135
+Renault,US,Exxon Mobil,FR,22000,1728865
+Altaran,CHI,Tesla,SPA,23000,7834943
+General Motos,JAP,McKesson,SWI,24000,1402585
+ConocoPhillips,UK,Activision Blizard,SP,25000,7028453
+Activision Blizard,SWI,General Motos,SWI,26000,2972876
+Walmart,SWI,Exxon Mobil,FR,27000,876409
+Chevron,SPA,Elon Musk,SPA,28000,6372831
+Nissan,CHI,Laurent Alexandre,UK,29000,7638812
+Tesla,UK,Elon Musk,SWI,30000,4532433
+John Coulberg,UK,General Motos,JAP,31000,2095767
+Activision Blizard,GER,General Motos,SWI,32000,4815187
+Nissan,UK,Tesla,SP,33000,172406
+Tesla,SWI,General Motos,US,34000,3702947
+Elon Musk,SWI,Altaran,JAP,35000,8564913
+Nissan,SPA,Laurent Alexandre,GER,36000,4416831
+McKesson,SPA,Laurent Alexandre,SPA,37000,8282631
+Elon Musk,GER,General Motos,UK,38000,867346
+ConocoPhillips,SP,Nissan,US,39000,6553793
+ConocoPhillips,SP,McKesson,UK,40000,5128249
+ConocoPhillips,UK,Laurent Alexandre,SPA,41000,5650330
+Renault,SWI,Activision Blizard,ITA,42000,3582815
+Tesla,SPA,Elon Musk,CHI,43000,5862887
+Laurent Alexandre,US,McKesson,SWI,44000,5626345
+Tesla,SPA,Exxon Mobil,SPA,45000,8580364
+General Motos,GER,ConocoPhillips,UK,46000,4605096
+Tesla,US,Altaran,US,47000,8086095
+Chevron,CHI,General Motos,SP,48000,6585985
+Nissan,CHI,McKesson,UK,49000,6822933
+Laurent Alexandre,US,McKesson,SWI,50000,915904
+Tesla,SWI,Tesla,SWI,51000,2186722
+McKesson,FR,Renault,UK,52000,4636359
+McKesson,UK,Laurent Alexandre,SWI,53000,7900361
+ConocoPhillips,CHI,Chevron,CHI,54000,3318130
+Activision Blizard,US,McKesson,SP,55000,6502044
+Activision Blizard,US,Elon Musk,ITA,56000,4450525
+General Motos,CHI,McKesson,SPA,57000,9798534
+Tesla,FR,Chevron,SWI,58000,6840434
+Walmart,GER,Tesla,SWI,59000,6324019
+Walmart,UK,Renault,SWI,60000,5191485
+Renault,US,Walmart,SWI,61000,7205943
+Tesla,ITA,Laurent Alexandre,GER,62000,1919197
+Tesla,US,Altaran,GER,63000,1203585
+Chevron,ITA,Walmart,JAP,64000,554048
+Elon Musk,SWI,Nissan,GER,65000,3102267
+Chevron,GER,Laurent Alexandre,GER,66000,2616121
+Renault,US,Altaran,SP,67000,4320933
+Elon Musk,CHI,Tesla,FR,68000,8325270
+Laurent Alexandre,SPA,General Motos,GER,69000,5781498
+McKesson,SPA,Nissan,JAP,70000,8901668
+John Coulberg,GER,General Motos,ITA,71000,5856520
+ConocoPhillips,SPA,Elon Musk,SP,72000,7492604
+General Motos,CHI,Walmart,SPA,73000,3816163
+Activision Blizard,SPA,General Motos,US,74000,6640631
+Activision Blizard,SP,Activision Blizard,JAP,75000,7095199
+Nissan,JAP,Elon Musk,CHI,76000,2751175
+McKesson,SP,John Coulberg,GER,77000,9341399
+McKesson,SP,McKesson,CHI,78000,3441509
+Activision Blizard,ITA,ConocoPhillips,FR,79000,1547690
+Walmart,SPA,Chevron,SWI,80000,3860497
+General Motos,CHI,Walmart,GER,81000,3105599
+McKesson,UK,General Motos,SP,82000,8977412
+Exxon Mobil,UK,Tesla,SWI,83000,1363992
+John Coulberg,SP,Elon Musk,SWI,84000,6412132
+Elon Musk,SP,John Coulberg,JAP,85000,6036370
+Tesla,US,Chevron,JAP,86000,2095979
+Laurent Alexandre,FR,Activision Blizard,SWI,87000,8019988
+Activision Blizard,CHI,Elon Musk,JAP,88000,9002376
+Elon Musk,US,John Coulberg,JAP,89000,491579
+Chevron,GER,Renault,SP,90000,2473456
+Exxon Mobil,UK,General Motos,UK,91000,3893287
+Nissan,FR,McKesson,US,92000,6005378
+Tesla,SPA,Elon Musk,US,93000,7636505
+Exxon Mobil,SWI,Chevron,FR,94000,1975958
+Walmart,FR,Laurent Alexandre,SWI,95000,660870
+Exxon Mobil,GER,General Motos,CHI,96000,2278965
+Altaran,GER,Renault,ITA,97000,5369623
+John Coulberg,UK,General Motos,FR,98000,9249572
+General Motos,SWI,Exxon Mobil,SPA,99000,5466054
+McKesson,JAP,Renault,SPA,100000,5683766
+Renault,JAP,McKesson,ITA,101000,5603067
+Walmart,ITA,John Coulberg,US,102000,1551232
+ConocoPhillips,SPA,Altaran,ITA,103000,2173360
+Elon Musk,SP,Elon Musk,US,104000,4747815
+ConocoPhillips,UK,McKesson,SWI,105000,8287790
+Walmart,SPA,Tesla,ITA,106000,9857158
+McKesson,US,Elon Musk,SP,107000,6296302
+John Coulberg,SPA,General Motos,ITA,108000,1700593
+Altaran,JAP,McKesson,UK,109000,726951
+McKesson,JAP,McKesson,UK,110000,6136012
+McKesson,ITA,Chevron,SWI,111000,6625826
+Tesla,JAP,Elon Musk,US,112000,5098319
+General Motos,SP,Elon Musk,SP,113000,9285737
+Walmart,GER,Walmart,UK,114000,2834080
+Elon Musk,CHI,General Motos,SP,115000,56146
+Tesla,SP,Exxon Mobil,SWI,116000,7889134
+Nissan,FR,Exxon Mobil,SPA,117000,801626
+Altaran,SP,Walmart,JAP,118000,2188513
+General Motos,US,Tesla,SP,119000,5280588
+Tesla,CHI,Exxon Mobil,JAP,120000,5598286
+Exxon Mobil,GER,Exxon Mobil,SPA,121000,8457280
+McKesson,SP,Elon Musk,SP,122000,4627687
+Renault,SPA,Nissan,SPA,123000,5983248
+Chevron,UK,Activision Blizard,SWI,124000,5094157
+Exxon Mobil,SP,Nissan,UK,125000,5160282
+General Motos,UK,Altaran,US,126000,6174508
+Chevron,FR,Elon Musk,SWI,127000,2228049
+Walmart,GER,Walmart,ITA,128000,2572512
+Elon Musk,SPA,Exxon Mobil,JAP,129000,7615052
+Walmart,SWI,Laurent Alexandre,SWI,130000,5563994
+John Coulberg,ITA,McKesson,CHI,131000,3438354
+Renault,CHI,Walmart,FR,132000,7990499
+Walmart,GER,ConocoPhillips,SPA,133000,4622213
+Laurent Alexandre,JAP,Chevron,CHI,134000,1765143
+Activision Blizard,SP,John Coulberg,GER,135000,313423
+Exxon Mobil,SP,McKesson,CHI,136000,3273338
+Elon Musk,CHI,Walmart,FR,137000,1163886
+McKesson,SPA,ConocoPhillips,SPA,138000,2702137
+Chevron,JAP,Walmart,CHI,139000,7375326
+McKesson,SPA,Exxon Mobil,SPA,140000,2550751
+Nissan,SPA,Nissan,ITA,141000,4185299
+Activision Blizard,FR,McKesson,UK,142000,592827
+ConocoPhillips,JAP,Tesla,JAP,143000,474814
+Elon Musk,ITA,Walmart,ITA,144000,8230033
+Altaran,UK,Tesla,US,145000,6583204
+Walmart,US,Elon Musk,GER,146000,3129116
+General Motos,FR,McKesson,GER,147000,2265031
+Activision Blizard,FR,John Coulberg,US,148000,7070046
+Chevron,ITA,Elon Musk,JAP,149000,2361016
+John Coulberg,FR,ConocoPhillips,UK,150000,1370295
+John Coulberg,CHI,Altaran,JAP,151000,9243859
+Renault,CHI,Elon Musk,ITA,152000,4213253
+Altaran,FR,John Coulberg,FR,153000,9928975
+Activision Blizard,GER,John Coulberg,SP,154000,8764018
+Nissan,GER,Activision Blizard,JAP,155000,7025653
+General Motos,SWI,Chevron,GER,156000,1068550
+ConocoPhillips,FR,Tesla,US,157000,4747275
+Activision Blizard,ITA,Elon Musk,ITA,158000,3029402
+Exxon Mobil,CHI,General Motos,JAP,159000,4589759
+John Coulberg,SWI,Nissan,JAP,160000,6088673
+Laurent Alexandre,JAP,Renault,GER,161000,8727555
+Chevron,US,Walmart,GER,162000,5307728
+Chevron,JAP,ConocoPhillips,GER,163000,1771023
+Chevron,US,Walmart,CHI,164000,8884873
+Exxon Mobil,US,McKesson,SP,165000,5192682
+Elon Musk,SWI,Activision Blizard,ITA,166000,7974646
+ConocoPhillips,US,ConocoPhillips,SWI,167000,961208
+Renault,SWI,General Motos,SPA,168000,3475799
+Walmart,GER,Laurent Alexandre,ITA,169000,2219182
+Tesla,CHI,John Coulberg,JAP,170000,7742403
+Exxon Mobil,ITA,Chevron,SPA,171000,8400501
+ConocoPhillips,ITA,Exxon Mobil,UK,172000,5101919
+Activision Blizard,US,Activision Blizard,US,173000,4235927
+Renault,UK,Chevron,SWI,174000,6782791
+Laurent Alexandre,FR,Chevron,FR,175000,6614773
+Nissan,US,Elon Musk,SPA,176000,3012968
+Renault,JAP,Tesla,UK,177000,126060
+ConocoPhillips,SP,Walmart,US,178000,7957679
+Exxon Mobil,SPA,Activision Blizard,SPA,179000,1875330
+Tesla,CHI,Chevron,JAP,180000,7573237
+Elon Musk,UK,Walmart,SP,181000,9005201
+General Motos,FR,Elon Musk,FR,182000,488187
+Tesla,ITA,Activision Blizard,US,183000,2788372
+McKesson,US,Altaran,SWI,184000,4042703
+Nissan,SP,Activision Blizard,SPA,185000,1337163
+Laurent Alexandre,SWI,Nissan,GER,186000,8956689
+John Coulberg,SPA,Chevron,SWI,187000,6356001
+Laurent Alexandre,SPA,Laurent Alexandre,ITA,188000,8667432
+General Motos,CHI,Activision Blizard,JAP,189000,2412618
+Walmart,FR,Tesla,SP,190000,7028161
+McKesson,ITA,Laurent Alexandre,US,191000,1676265
+McKesson,ITA,Renault,SP,192000,3437098
+Renault,JAP,Renault,CHI,193000,4802397
+Activision Blizard,ITA,General Motos,JAP,194000,712661
+Renault,US,Laurent Alexandre,FR,195000,5802540
+Renault,SPA,Tesla,CHI,196000,9001012
+Tesla,JAP,ConocoPhillips,UK,197000,771218
+McKesson,GER,Renault,FR,198000,5009005
+Laurent Alexandre,US,Nissan,FR,199000,8965723
+Renault,FR,Elon Musk,SPA,200000,3060812
+Chevron,JAP,Altaran,SWI,201000,8391321
+Elon Musk,FR,Tesla,SP,202000,1237256
+McKesson,SWI,ConocoPhillips,FR,203000,3688000
+Activision Blizard,FR,Chevron,SPA,204000,9428901
+Exxon Mobil,SWI,General Motos,SPA,205000,4908361
+Walmart,SP,Renault,FR,206000,7953736
+Chevron,ITA,Chevron,SWI,207000,87742
+ConocoPhillips,SP,Renault,JAP,208000,7553761
+Altaran,UK,Chevron,GER,209000,9996064
+Tesla,GER,Laurent Alexandre,JAP,210000,3845673
+Chevron,GER,General Motos,JAP,211000,734645
+Chevron,SPA,Laurent Alexandre,SP,212000,6116914
+Laurent Alexandre,SWI,Elon Musk,SWI,213000,7117271
+ConocoPhillips,GER,Tesla,GER,214000,5304220
+Altaran,US,Chevron,UK,215000,8646430
+Chevron,SWI,General Motos,SPA,216000,8250014
+Altaran,CHI,Renault,SPA,217000,9487127
+ConocoPhillips,SPA,Tesla,SWI,218000,1798930
+Elon Musk,GER,Activision Blizard,SPA,219000,784606
+Laurent Alexandre,CHI,Elon Musk,SWI,220000,1025528
+Tesla,SWI,Chevron,SWI,221000,5004597
+ConocoPhillips,SPA,Renault,CHI,222000,2515949
+ConocoPhillips,UK,Altaran,US,223000,4616530
+Laurent Alexandre,SWI,General Motos,FR,224000,8617658
+ConocoPhillips,SP,Tesla,SP,225000,5830691
+McKesson,SWI,General Motos,SPA,226000,9099009
+Laurent Alexandre,SWI,Exxon Mobil,US,227000,3469853
+Nissan,SWI,Walmart,SPA,228000,7073554
+Exxon Mobil,CHI,Altaran,SWI,229000,6113632
+Chevron,SWI,Nissan,SP,230000,6889283
+ConocoPhillips,CHI,Chevron,US,231000,3032314
+Exxon Mobil,CHI,Altaran,FR,232000,1056667
+Chevron,CHI,Exxon Mobil,ITA,233000,4025200
+Altaran,ITA,Elon Musk,SWI,234000,6205103
+Walmart,CHI,Activision Blizard,JAP,235000,7932007
+Altaran,SPA,ConocoPhillips,FR,236000,563276
+ConocoPhillips,UK,Nissan,SWI,237000,9531264
+Nissan,ITA,Walmart,GER,238000,9323966
+Laurent Alexandre,CHI,McKesson,SP,239000,1740486
+Laurent Alexandre,SWI,General Motos,SP,240000,2517106
+Chevron,CHI,Activision Blizard,US,241000,1598083
+Exxon Mobil,FR,General Motos,FR,242000,9817840
+ConocoPhillips,SPA,Exxon Mobil,CHI,243000,2695021
+Activision Blizard,SPA,Exxon Mobil,SPA,244000,9248980
+Chevron,FR,Walmart,ITA,245000,2157550
+Walmart,UK,General Motos,GER,246000,5446623
+Chevron,UK,Laurent Alexandre,CHI,247000,6746615
+Renault,UK,Altaran,JAP,248000,3547081
+Tesla,GER,Renault,UK,249000,1195768
+ConocoPhillips,ITA,Nissan,SP,250000,7453140
+General Motos,CHI,Renault,JAP,251000,7750323
+Renault,ITA,Altaran,UK,252000,1777867
+Activision Blizard,GER,Nissan,FR,253000,530117
+Exxon Mobil,SWI,ConocoPhillips,ITA,254000,7484224
+McKesson,SP,Nissan,UK,255000,9213626
+Chevron,SP,Altaran,ITA,256000,7776001
+Exxon Mobil,GER,McKesson,US,257000,4556995
+Renault,US,ConocoPhillips,SWI,258000,7288042
+Activision Blizard,GER,Elon Musk,SPA,259000,4010648
+Altaran,UK,Activision Blizard,CHI,260000,5571267
+John Coulberg,SP,Laurent Alexandre,SP,261000,6583634
+Altaran,SPA,Nissan,JAP,262000,912760
+Chevron,FR,John Coulberg,UK,263000,7639177
+Exxon Mobil,ITA,Tesla,GER,264000,2548860
+General Motos,UK,Laurent Alexandre,JAP,265000,2335183
+Exxon Mobil,FR,Laurent Alexandre,CHI,266000,9837600
+Nissan,SWI,Nissan,SP,267000,7388634
+Elon Musk,CHI,McKesson,SPA,268000,1579896
+Renault,GER,McKesson,JAP,269000,1384879
+John Coulberg,JAP,McKesson,SP,270000,143362
+Renault,SP,Walmart,JAP,271000,4869287
+Exxon Mobil,UK,Renault,ITA,272000,816584
+Renault,CHI,Laurent Alexandre,SPA,273000,8444264
+Laurent Alexandre,SPA,Elon Musk,JAP,274000,3065340
+Activision Blizard,SP,Tesla,SWI,275000,9452316
+Walmart,SP,McKesson,US,276000,3204958
+Chevron,SP,Activision Blizard,FR,277000,5804376
+General Motos,JAP,Renault,CHI,278000,4664243
+Nissan,CHI,Renault,JAP,279000,6181047
+Renault,SWI,McKesson,JAP,280000,5417658
+Altaran,SPA,Walmart,ITA,281000,8276075
+Tesla,CHI,Tesla,SPA,282000,1890782
+Nissan,SWI,General Motos,US,283000,7429552
+Laurent Alexandre,FR,General Motos,UK,284000,2495184
+Renault,ITA,Chevron,SP,285000,1659556
+General Motos,FR,Activision Blizard,SP,286000,6210898
+McKesson,FR,General Motos,SWI,287000,3578656
+Nissan,SPA,Tesla,SPA,288000,8902414
+Nissan,CHI,General Motos,FR,289000,2225744
+Exxon Mobil,US,Altaran,SPA,290000,9352491
+ConocoPhillips,SPA,ConocoPhillips,SP,291000,6706889
+Chevron,SP,Activision Blizard,SWI,292000,7943219
+Tesla,CHI,Activision Blizard,SP,293000,310702
+Altaran,SPA,John Coulberg,UK,294000,1512690
+Elon Musk,SWI,Chevron,US,295000,8781183
+Elon Musk,GER,Renault,JAP,296000,9720901
+Chevron,JAP,Tesla,US,297000,1341007
+Tesla,CHI,Tesla,FR,298000,8835249
+Activision Blizard,SPA,McKesson,SP,299000,535555
+Exxon Mobil,SP,Altaran,FR,300000,1821001
+ConocoPhillips,UK,McKesson,US,301000,7173939
+Renault,FR,Chevron,SP,302000,6905789
+Walmart,CHI,Tesla,FR,303000,4959870
+ConocoPhillips,JAP,Altaran,SPA,304000,440388
+McKesson,CHI,ConocoPhillips,SWI,305000,4074234
+Altaran,ITA,Exxon Mobil,ITA,306000,5673983
+Tesla,GER,ConocoPhillips,UK,307000,5275071
+Laurent Alexandre,GER,John Coulberg,SWI,308000,7480889
+Renault,SP,Elon Musk,JAP,309000,2662404
+Tesla,SP,Activision Blizard,SWI,310000,5820088
+John Coulberg,ITA,McKesson,SP,311000,399960
+Tesla,CHI,Chevron,ITA,312000,8657486
+John Coulberg,GER,Elon Musk,FR,313000,5351642
+Elon Musk,SWI,Laurent Alexandre,GER,314000,7143776
+Laurent Alexandre,ITA,John Coulberg,GER,315000,7173705
+John Coulberg,JAP,Altaran,SPA,316000,3113296
+McKesson,CHI,Walmart,CHI,317000,281811
+Exxon Mobil,SWI,John Coulberg,UK,318000,8605637
+McKesson,FR,Renault,GER,319000,5322258
+General Motos,US,Exxon Mobil,CHI,320000,6721165
+McKesson,FR,Walmart,CHI,321000,6599128
+Walmart,SPA,Activision Blizard,UK,322000,1803116
+Altaran,UK,Exxon Mobil,SPA,323000,829360
+Nissan,FR,Chevron,CHI,324000,461667
+John Coulberg,FR,Altaran,GER,325000,3080065
+Tesla,JAP,Laurent Alexandre,CHI,326000,8194213
+Nissan,ITA,Nissan,CHI,327000,4663044
+Laurent Alexandre,JAP,Exxon Mobil,US,328000,8120562
+ConocoPhillips,US,McKesson,SWI,329000,8195531
+Elon Musk,SPA,Exxon Mobil,JAP,330000,1390712
+Tesla,FR,Elon Musk,SPA,331000,964740
+Renault,SPA,Elon Musk,SPA,332000,9194279
+Exxon Mobil,FR,Activision Blizard,CHI,333000,8238755
+Elon Musk,JAP,Renault,US,334000,2960779
+Tesla,ITA,Laurent Alexandre,ITA,335000,9240501
+Laurent Alexandre,SP,Activision Blizard,ITA,336000,9785831
+Nissan,UK,Elon Musk,ITA,337000,2506298
+Tesla,US,Activision Blizard,ITA,338000,2234066
+McKesson,UK,Walmart,UK,339000,865639
+General Motos,FR,Elon Musk,SPA,340000,5169370
+Walmart,JAP,McKesson,SP,341000,9943708
+Nissan,GER,Tesla,FR,342000,5873950
+Walmart,UK,ConocoPhillips,SPA,343000,5040320
+ConocoPhillips,SPA,Renault,SWI,344000,3917993
+Nissan,JAP,Exxon Mobil,JAP,345000,5808748
+Renault,UK,Tesla,SPA,346000,2480977
+McKesson,SWI,Activision Blizard,US,347000,2817782
+Walmart,ITA,Altaran,SP,348000,2629142
+General Motos,GER,Nissan,SPA,349000,6877191
+Exxon Mobil,CHI,Exxon Mobil,UK,350000,3238256
+Altaran,US,McKesson,GER,351000,8278123
+Nissan,ITA,McKesson,CHI,352000,6952367
+Tesla,CHI,John Coulberg,US,353000,7546387
+ConocoPhillips,US,Elon Musk,GER,354000,1443215
+Renault,ITA,General Motos,US,355000,1079355
+Nissan,UK,General Motos,GER,356000,9240579
+Walmart,SP,Chevron,JAP,357000,6800138
+John Coulberg,JAP,John Coulberg,SWI,358000,7512888
+John Coulberg,SWI,Chevron,GER,359000,2878450
+Chevron,FR,Laurent Alexandre,CHI,360000,3074054
+Renault,SWI,McKesson,SWI,361000,8528548
+Renault,JAP,General Motos,UK,362000,8086308
+General Motos,US,Tesla,FR,363000,1939497
+Activision Blizard,SPA,Chevron,CHI,364000,656594
+John Coulberg,SP,Tesla,FR,365000,8597985
+Exxon Mobil,US,Laurent Alexandre,FR,366000,330135
+Walmart,SPA,Chevron,FR,367000,8663073
+McKesson,ITA,Exxon Mobil,SWI,368000,2814383
+Altaran,SPA,John Coulberg,SPA,369000,9154428
+Renault,US,Activision Blizard,US,370000,5644008
+Nissan,GER,Walmart,US,371000,429158
+Elon Musk,US,General Motos,UK,372000,2822343
+Chevron,JAP,Elon Musk,ITA,373000,3101363
+Walmart,SPA,McKesson,ITA,374000,5369451
+Altaran,SPA,Activision Blizard,US,375000,2060149
+Exxon Mobil,SP,ConocoPhillips,FR,376000,1369060
+General Motos,UK,Nissan,US,377000,9725658
+Renault,JAP,Chevron,UK,378000,4139239
+McKesson,SPA,Walmart,CHI,379000,2887089
+Tesla,SP,McKesson,GER,380000,6386212
+Nissan,UK,Renault,US,381000,7087330
+Exxon Mobil,ITA,Tesla,SP,382000,9244051
+Exxon Mobil,CHI,General Motos,SPA,383000,2842861
+Altaran,SWI,Altaran,GER,384000,7058861
+Exxon Mobil,CHI,ConocoPhillips,SWI,385000,360341
+ConocoPhillips,GER,ConocoPhillips,JAP,386000,8931005
+Altaran,US,Walmart,CHI,387000,5255247
+Exxon Mobil,US,Renault,UK,388000,6814550
+Laurent Alexandre,GER,Tesla,UK,389000,6490687
+Renault,SPA,Walmart,SP,390000,1902035
+Altaran,FR,General Motos,US,391000,9462687
+Renault,FR,ConocoPhillips,FR,392000,1120130
+John Coulberg,SP,John Coulberg,FR,393000,179964
+ConocoPhillips,ITA,Elon Musk,GER,394000,1148110
+Activision Blizard,SWI,Altaran,GER,395000,1207168
+Renault,SPA,General Motos,ITA,396000,9980463
+Laurent Alexandre,CHI,McKesson,US,397000,6135804
+McKesson,ITA,McKesson,JAP,398000,639053
+Tesla,SWI,John Coulberg,FR,399000,4093084
+McKesson,SP,McKesson,US,400000,3800678
+Renault,SP,Renault,GER,401000,2282529
+Tesla,ITA,McKesson,CHI,402000,7441732
+Tesla,ITA,ConocoPhillips,SWI,403000,8381492
+General Motos,SP,Walmart,US,404000,6841000
+Renault,SP,Tesla,SPA,405000,4721896
+General Motos,GER,Laurent Alexandre,US,406000,197294
+John Coulberg,US,McKesson,SP,407000,3657740
+Activision Blizard,CHI,Activision Blizard,GER,408000,7406561
+Nissan,SP,John Coulberg,SPA,409000,2767507
+Nissan,SWI,John Coulberg,US,410000,6269064
+Nissan,JAP,McKesson,SWI,411000,3001833
+Tesla,US,Altaran,JAP,412000,9501059
+Laurent Alexandre,FR,John Coulberg,SPA,413000,6582088
+ConocoPhillips,JAP,General Motos,SP,414000,2374207
+Laurent Alexandre,UK,John Coulberg,GER,415000,755600
+Activision Blizard,US,Altaran,UK,416000,851038
+Nissan,SPA,Altaran,SP,417000,7046782
+General Motos,ITA,Exxon Mobil,JAP,418000,761238
+Tesla,FR,Exxon Mobil,US,419000,9300639
+John Coulberg,ITA,John Coulberg,JAP,420000,8527840
+Laurent Alexandre,GER,Nissan,UK,421000,1003901
+Elon Musk,UK,Altaran,US,422000,9261625
+Laurent Alexandre,SPA,ConocoPhillips,SP,423000,1607433
+Exxon Mobil,SWI,Elon Musk,GER,424000,9617915
+Chevron,JAP,Altaran,US,425000,7998292
+Laurent Alexandre,GER,Nissan,SP,426000,108768
+McKesson,US,John Coulberg,UK,427000,8300676
+Exxon Mobil,US,General Motos,GER,428000,265158
+Nissan,SP,ConocoPhillips,CHI,429000,1856571
+Tesla,US,Tesla,SWI,430000,2382178
+Chevron,FR,Elon Musk,SWI,431000,7558430
+Elon Musk,JAP,Nissan,GER,432000,1880793
+General Motos,UK,Exxon Mobil,SPA,433000,9961452
+Nissan,UK,Nissan,SWI,434000,3250840
+Elon Musk,GER,Altaran,CHI,435000,1904860
+Tesla,UK,Nissan,ITA,436000,2188312
+Laurent Alexandre,GER,Laurent Alexandre,SP,437000,6286714
+General Motos,FR,McKesson,US,438000,6659748
+ConocoPhillips,US,McKesson,SPA,439000,3511062
+ConocoPhillips,SWI,Laurent Alexandre,GER,440000,9188020
+Walmart,CHI,Activision Blizard,ITA,441000,218475
+McKesson,CHI,Laurent Alexandre,JAP,442000,7216979
+Altaran,SWI,McKesson,GER,443000,6516842
+ConocoPhillips,SP,McKesson,JAP,444000,764650
+ConocoPhillips,SPA,Walmart,UK,445000,1081868
+McKesson,FR,John Coulberg,GER,446000,968105
+John Coulberg,UK,Tesla,SPA,447000,6480318
+Exxon Mobil,CHI,Altaran,CHI,448000,4169919
+ConocoPhillips,FR,Activision Blizard,US,449000,4880856
+Tesla,CHI,Exxon Mobil,CHI,450000,1950916
+Activision Blizard,SPA,ConocoPhillips,CHI,451000,8647354
+Elon Musk,SWI,Elon Musk,SPA,452000,3802079
+Exxon Mobil,FR,Altaran,SPA,453000,7512516
+Exxon Mobil,GER,Nissan,SWI,454000,8782667
+Tesla,US,Exxon Mobil,US,455000,5097904
+McKesson,CHI,Walmart,JAP,456000,3839938
+Tesla,SPA,General Motos,US,457000,9867873
+Walmart,ITA,General Motos,SP,458000,1222002
+Activision Blizard,US,John Coulberg,SPA,459000,5796863
+General Motos,SPA,Walmart,JAP,460000,7312426
+ConocoPhillips,SPA,Renault,SPA,461000,5739486
+Tesla,SPA,Altaran,US,462000,8249437
+General Motos,US,Nissan,SWI,463000,7318483
+Exxon Mobil,SWI,Tesla,CHI,464000,8434505
+John Coulberg,UK,General Motos,GER,465000,2086476
+Activision Blizard,CHI,Renault,SP,466000,5653956
+Nissan,ITA,Elon Musk,SPA,467000,3809332
+Altaran,UK,Exxon Mobil,US,468000,7787255
+Nissan,FR,Chevron,US,469000,555532
+Activision Blizard,GER,Chevron,SP,470000,1311560
+Nissan,SWI,John Coulberg,SP,471000,4285081
+Walmart,SP,Tesla,GER,472000,5612360
+John Coulberg,SP,Renault,ITA,473000,5778319
+ConocoPhillips,JAP,General Motos,SPA,474000,9753185
+Exxon Mobil,SPA,John Coulberg,SPA,475000,1864437
+ConocoPhillips,SPA,McKesson,SP,476000,5262957
+Chevron,ITA,Nissan,GER,477000,6418963
+Walmart,FR,Elon Musk,GER,478000,871324
+Tesla,UK,John Coulberg,UK,479000,8236432
+Tesla,SWI,Laurent Alexandre,FR,480000,3757093
+General Motos,SP,McKesson,GER,481000,2147279
+General Motos,CHI,Activision Blizard,UK,482000,5109017
+Altaran,CHI,Renault,GER,483000,2087507
+Tesla,SPA,Altaran,UK,484000,5207789
+Renault,FR,Tesla,JAP,485000,6443138
+ConocoPhillips,US,John Coulberg,US,486000,6372061
+Elon Musk,GER,General Motos,SP,487000,8564967
+McKesson,ITA,Altaran,GER,488000,9681792
+Nissan,ITA,Elon Musk,UK,489000,9301565
+Chevron,SWI,Altaran,ITA,490000,1566435
+Renault,SWI,Activision Blizard,FR,491000,9608925
+Walmart,SP,Exxon Mobil,SPA,492000,9437172
+Renault,GER,Renault,FR,493000,159401
+Walmart,UK,Nissan,SP,494000,3909148
+Laurent Alexandre,SP,ConocoPhillips,CHI,495000,6198895
+Renault,SPA,Nissan,SP,496000,4525422
+ConocoPhillips,SP,Tesla,US,497000,4223568
+Walmart,SPA,Renault,SP,498000,1176119
+McKesson,SWI,Altaran,US,499000,8565183
+Walmart,ITA,Renault,ITA,500000,6803876
+McKesson,UK,ConocoPhillips,SPA,501000,513754
+Tesla,ITA,Chevron,SPA,502000,9199334
+Tesla,ITA,McKesson,US,503000,8861723
+Altaran,SP,Exxon Mobil,GER,504000,6899410
+Elon Musk,UK,Chevron,SWI,505000,3661450
+Nissan,UK,ConocoPhillips,ITA,506000,6168854
+Exxon Mobil,SWI,Exxon Mobil,JAP,507000,5265879
+General Motos,UK,Nissan,FR,508000,3859745
+Renault,UK,Exxon Mobil,SPA,509000,9667745
+Laurent Alexandre,GER,ConocoPhillips,GER,510000,437048
+John Coulberg,US,Nissan,GER,511000,7315563
+John Coulberg,SWI,Altaran,JAP,512000,2975374
+General Motos,SP,McKesson,SPA,513000,1310812
+Exxon Mobil,US,John Coulberg,JAP,514000,8660650
+General Motos,JAP,Renault,GER,515000,4286575
+Activision Blizard,ITA,Nissan,FR,516000,3557561
+Elon Musk,SPA,McKesson,GER,517000,6574908
+McKesson,JAP,Tesla,FR,518000,3254063
+Renault,JAP,Renault,SP,519000,6080804
+Altaran,SPA,Nissan,GER,520000,1993336
+General Motos,US,Exxon Mobil,SP,521000,3508424
+General Motos,SWI,General Motos,JAP,522000,1985783
+McKesson,CHI,Nissan,CHI,523000,7648189
+Exxon Mobil,JAP,Tesla,JAP,524000,8748663
+ConocoPhillips,CHI,John Coulberg,FR,525000,3946359
+Renault,JAP,Renault,FR,526000,5087103
+Renault,FR,ConocoPhillips,SP,527000,1999848
+Walmart,ITA,Elon Musk,US,528000,6565515
+Activision Blizard,FR,McKesson,FR,529000,4228712
+Exxon Mobil,ITA,General Motos,JAP,530000,9992830
+McKesson,SP,Renault,FR,531000,8752077
+John Coulberg,SPA,Renault,UK,532000,4826668
+McKesson,SP,Chevron,GER,533000,3343953
+McKesson,SPA,John Coulberg,SP,534000,568041
+Chevron,CHI,Altaran,FR,535000,406479
+Nissan,ITA,McKesson,CHI,536000,2980370
+Chevron,ITA,McKesson,FR,537000,4172965
+Exxon Mobil,GER,Renault,SP,538000,5188373
+Altaran,SPA,Activision Blizard,SP,539000,8493588
+ConocoPhillips,SWI,Exxon Mobil,JAP,540000,3950072
+Walmart,ITA,Elon Musk,SPA,541000,9592446
+Nissan,SWI,Nissan,SPA,542000,445303
+McKesson,US,Tesla,US,543000,6979409
+Walmart,SPA,Nissan,SPA,544000,3982545
+Walmart,FR,Elon Musk,GER,545000,4202181
+Walmart,GER,Renault,UK,546000,7184917
+John Coulberg,SP,Exxon Mobil,US,547000,9630711
+Tesla,FR,General Motos,SP,548000,6895077
+ConocoPhillips,CHI,Activision Blizard,SPA,549000,2001054
+Walmart,SWI,Activision Blizard,JAP,550000,3006502
+Tesla,CHI,Chevron,SP,551000,5636366
+ConocoPhillips,SP,General Motos,GER,552000,4713495
+Laurent Alexandre,CHI,Altaran,CHI,553000,1030039
+Laurent Alexandre,SPA,Chevron,JAP,554000,926536
+ConocoPhillips,ITA,Laurent Alexandre,ITA,555000,8317750
+Altaran,SPA,Tesla,US,556000,8731961
+John Coulberg,FR,McKesson,JAP,557000,8558755
+ConocoPhillips,SWI,Walmart,GER,558000,8290918
+Renault,ITA,Activision Blizard,FR,559000,2767949
+ConocoPhillips,JAP,Altaran,SWI,560000,5477955
+Tesla,SWI,Walmart,FR,561000,5599018
+Laurent Alexandre,SWI,Laurent Alexandre,US,562000,8172550
+Exxon Mobil,SP,ConocoPhillips,ITA,563000,1217985
+Laurent Alexandre,CHI,Altaran,US,564000,2450414
+Altaran,SWI,Walmart,UK,565000,633430
+Exxon Mobil,ITA,Chevron,UK,566000,2482222
+Activision Blizard,JAP,ConocoPhillips,SPA,567000,9465467
+Renault,SPA,McKesson,SPA,568000,313119
+Elon Musk,UK,Tesla,US,569000,9573667
+McKesson,GER,McKesson,CHI,570000,9402250
+Activision Blizard,SWI,Activision Blizard,CHI,571000,4185174
+Laurent Alexandre,JAP,Renault,JAP,572000,6976134
+Elon Musk,FR,Tesla,US,573000,9777076
+Tesla,SWI,Exxon Mobil,SWI,574000,7985304
+Chevron,ITA,McKesson,SP,575000,1454339
+Tesla,FR,Laurent Alexandre,SWI,576000,6126506
+Nissan,UK,Walmart,SWI,577000,7656664
+Exxon Mobil,ITA,Exxon Mobil,SWI,578000,5102799
+McKesson,SPA,Activision Blizard,SPA,579000,2882665
+ConocoPhillips,SWI,Nissan,JAP,580000,821503
+Laurent Alexandre,FR,Chevron,US,581000,1445893
+Activision Blizard,US,Activision Blizard,JAP,582000,5796121
+Elon Musk,SP,Tesla,UK,583000,6528219
+General Motos,FR,Activision Blizard,SP,584000,4857305
+Renault,ITA,Tesla,SP,585000,4775673
+John Coulberg,GER,McKesson,FR,586000,6458454
+General Motos,SP,Renault,FR,587000,8184100
+Renault,US,Exxon Mobil,US,588000,9142678
+Walmart,US,Elon Musk,UK,589000,203322
+Renault,CHI,Tesla,SP,590000,5946781
+General Motos,US,Exxon Mobil,ITA,591000,8757771
+Nissan,ITA,Nissan,CHI,592000,9612694
+Altaran,FR,Laurent Alexandre,SWI,593000,4803400
+Tesla,JAP,ConocoPhillips,SPA,594000,9564230
+McKesson,SPA,Nissan,SWI,595000,7729846
+Exxon Mobil,SP,Exxon Mobil,UK,596000,7017647
+ConocoPhillips,JAP,Elon Musk,SP,597000,6910200
+ConocoPhillips,ITA,Altaran,SP,598000,750292
+Walmart,JAP,Walmart,US,599000,2051112
+Renault,SP,Exxon Mobil,FR,600000,2564359
+Walmart,SPA,Activision Blizard,ITA,601000,1722455
+Renault,CHI,Altaran,JAP,602000,1798743
+Laurent Alexandre,SPA,Renault,JAP,603000,9381374
+Nissan,SP,Laurent Alexandre,US,604000,6042059
+Laurent Alexandre,FR,Tesla,SP,605000,2717438
+Nissan,ITA,Elon Musk,ITA,606000,90736
+Laurent Alexandre,SPA,Laurent Alexandre,FR,607000,4999245
+Altaran,CHI,Nissan,JAP,608000,967562
+Walmart,SWI,Renault,ITA,609000,4429628
+Renault,SP,Chevron,JAP,610000,7564452
+Renault,SWI,McKesson,SPA,611000,5457562
+Chevron,JAP,Laurent Alexandre,JAP,612000,5679867
+Tesla,GER,Elon Musk,SPA,613000,3445815
+Tesla,UK,ConocoPhillips,SP,614000,4282984
+John Coulberg,CHI,Exxon Mobil,SP,615000,6377896
+General Motos,SP,Chevron,SP,616000,575553
+McKesson,US,Renault,SP,617000,5544776
+Chevron,SWI,Tesla,SP,618000,9711745
+Altaran,UK,Altaran,FR,619000,7541267
+Walmart,SP,Activision Blizard,SP,620000,9145590
+Altaran,JAP,ConocoPhillips,SWI,621000,7383248
+Exxon Mobil,JAP,General Motos,CHI,622000,758717
+General Motos,GER,Exxon Mobil,CHI,623000,9198451
+Tesla,GER,John Coulberg,GER,624000,758184
+Altaran,ITA,Elon Musk,SWI,625000,4342063
+McKesson,CHI,General Motos,GER,626000,367098
+Tesla,GER,Walmart,SWI,627000,9010462
+ConocoPhillips,SP,Elon Musk,ITA,628000,6047392
+Nissan,SPA,Walmart,US,629000,9966964
+Tesla,SWI,Nissan,FR,630000,897361
+Exxon Mobil,FR,Exxon Mobil,SP,631000,6031703
+Activision Blizard,SPA,General Motos,UK,632000,5973754
+Tesla,ITA,McKesson,SPA,633000,5722290
+Altaran,CHI,Elon Musk,ITA,634000,2376769
+Activision Blizard,SWI,John Coulberg,SPA,635000,2669981
+Chevron,SP,Tesla,CHI,636000,5686990
+McKesson,UK,McKesson,SP,637000,4828215
+McKesson,SWI,Altaran,FR,638000,8467115
+Renault,CHI,Walmart,SWI,639000,7218778
+McKesson,SPA,Nissan,SP,640000,1677438
+Laurent Alexandre,US,Renault,FR,641000,353004
+Activision Blizard,UK,Exxon Mobil,UK,642000,9555801
+Altaran,US,Elon Musk,FR,643000,7258604
+Altaran,ITA,McKesson,GER,644000,8949857
+Activision Blizard,JAP,Activision Blizard,FR,645000,1801517
+General Motos,FR,Activision Blizard,SP,646000,2238324
+Elon Musk,FR,Altaran,GER,647000,7139678
+Nissan,FR,Chevron,ITA,648000,846137
+Altaran,CHI,Nissan,SWI,649000,59053
+Nissan,SWI,Activision Blizard,US,650000,2399972
+Tesla,UK,Elon Musk,SWI,651000,2939908
+Nissan,GER,Elon Musk,JAP,652000,5761800
+Altaran,CHI,Renault,FR,653000,7500796
+McKesson,ITA,General Motos,SPA,654000,3323195
+Exxon Mobil,UK,McKesson,FR,655000,9086311
+Activision Blizard,SP,Renault,SWI,656000,2978998
+John Coulberg,SPA,Tesla,SPA,657000,1658677
+Walmart,FR,Laurent Alexandre,JAP,658000,5399448
+Exxon Mobil,ITA,ConocoPhillips,GER,659000,9282526
+Activision Blizard,JAP,Elon Musk,CHI,660000,308715
+ConocoPhillips,JAP,Walmart,ITA,661000,7786605
+Activision Blizard,SWI,Renault,UK,662000,9521699
+Laurent Alexandre,CHI,Renault,SPA,663000,5985842
+Nissan,SPA,Elon Musk,GER,664000,9889251
+Activision Blizard,FR,John Coulberg,SP,665000,8555505
+Activision Blizard,US,ConocoPhillips,SPA,666000,6837880
+Chevron,SP,McKesson,JAP,667000,6784416
+Laurent Alexandre,FR,Elon Musk,SP,668000,308649
+Tesla,UK,Walmart,JAP,669000,8421638
+Renault,CHI,ConocoPhillips,US,670000,4865644
+Elon Musk,SPA,McKesson,JAP,671000,6590458
+Renault,SWI,Renault,UK,672000,9521610
+Tesla,ITA,Tesla,FR,673000,1058195
+McKesson,FR,General Motos,GER,674000,7420431
+Exxon Mobil,UK,Walmart,SWI,675000,5870904
+McKesson,SWI,Altaran,FR,676000,9572599
+Tesla,FR,Tesla,ITA,677000,9096694
+John Coulberg,SPA,Exxon Mobil,US,678000,9598948
+ConocoPhillips,SPA,Elon Musk,FR,679000,2959710
+Walmart,CHI,Chevron,JAP,680000,5657296
+ConocoPhillips,GER,Elon Musk,SWI,681000,1882764
+Exxon Mobil,GER,Nissan,SWI,682000,9352658
+Altaran,US,Elon Musk,US,683000,5721166
+Tesla,ITA,John Coulberg,GER,684000,540797
+Tesla,CHI,Tesla,SWI,685000,88696
+Altaran,SP,Elon Musk,JAP,686000,5258158
+Walmart,SWI,McKesson,SWI,687000,8386397
+Walmart,FR,Chevron,UK,688000,9913358
+John Coulberg,FR,Activision Blizard,GER,689000,278062
+Laurent Alexandre,SWI,McKesson,UK,690000,4602015
+Elon Musk,ITA,Activision Blizard,SP,691000,2163853
+Altaran,FR,Walmart,SPA,692000,9192913
+Laurent Alexandre,CHI,Chevron,SWI,693000,7941682
+Activision Blizard,ITA,Activision Blizard,FR,694000,9725937
+John Coulberg,SWI,John Coulberg,GER,695000,9662070
+Renault,JAP,Renault,FR,696000,813465
+Tesla,SPA,John Coulberg,JAP,697000,7670165
+Altaran,UK,Activision Blizard,SP,698000,4284531
+Renault,SP,Tesla,JAP,699000,5163367
+Chevron,ITA,Laurent Alexandre,GER,700000,328585
+General Motos,US,McKesson,US,701000,7767167
+Exxon Mobil,US,McKesson,SPA,702000,4070823
+Exxon Mobil,SPA,John Coulberg,FR,703000,8668269
+ConocoPhillips,US,John Coulberg,FR,704000,9385399
+Renault,CHI,ConocoPhillips,JAP,705000,5692819
+Nissan,SPA,Laurent Alexandre,SP,706000,4715855
+Exxon Mobil,SP,Laurent Alexandre,SPA,707000,5567507
+Walmart,SWI,Elon Musk,US,708000,8789099
+Laurent Alexandre,ITA,Elon Musk,CHI,709000,7775874
+ConocoPhillips,SP,Walmart,ITA,710000,5818857
+Elon Musk,US,McKesson,SWI,711000,5109876
+Tesla,GER,Activision Blizard,SPA,712000,8911763
+General Motos,FR,Walmart,UK,713000,2308009
+Renault,SP,General Motos,GER,714000,8568249
+General Motos,CHI,Altaran,SP,715000,6270798
+Laurent Alexandre,FR,Laurent Alexandre,US,716000,9022522
+General Motos,UK,Altaran,GER,717000,2275050
+Altaran,UK,Laurent Alexandre,CHI,718000,5726307
+Exxon Mobil,US,Nissan,CHI,719000,8328254
+Nissan,SPA,Walmart,FR,720000,2795740
+Tesla,GER,Altaran,SPA,721000,9252355
+ConocoPhillips,UK,Tesla,FR,722000,9024200
+Activision Blizard,FR,Tesla,US,723000,8556736
+Nissan,CHI,Activision Blizard,ITA,724000,737779
+John Coulberg,CHI,Walmart,GER,725000,5869295
+Altaran,JAP,General Motos,ITA,726000,2038916
+Walmart,CHI,Elon Musk,GER,727000,9194918
+McKesson,ITA,Tesla,SPA,728000,3773889
+General Motos,SPA,Exxon Mobil,US,729000,8563687
+Laurent Alexandre,UK,Exxon Mobil,SPA,730000,7353373
+McKesson,SPA,Tesla,GER,731000,3567971
+Nissan,SP,Tesla,UK,732000,8151557
+Activision Blizard,US,General Motos,SP,733000,2358702
+Walmart,ITA,McKesson,ITA,734000,8769323
+Tesla,US,ConocoPhillips,JAP,735000,4795571
+McKesson,CHI,Chevron,SP,736000,9006290
+Elon Musk,SPA,Laurent Alexandre,SP,737000,1926935
+Activision Blizard,CHI,McKesson,SPA,738000,4999803
+ConocoPhillips,UK,Renault,SPA,739000,9802391
+Tesla,SPA,Nissan,GER,740000,6010887
+Altaran,SPA,John Coulberg,SPA,741000,6355044
+Exxon Mobil,US,John Coulberg,SWI,742000,7016942
+Nissan,US,Laurent Alexandre,US,743000,9473129
+Altaran,CHI,General Motos,ITA,744000,1328577
+Altaran,SWI,ConocoPhillips,ITA,745000,6061762
+Walmart,SWI,ConocoPhillips,SPA,746000,5732025
+McKesson,JAP,Nissan,FR,747000,3134704
+McKesson,UK,McKesson,UK,748000,2429568
+Tesla,US,Altaran,US,749000,7179163
+Laurent Alexandre,ITA,Nissan,SP,750000,5421603
+Activision Blizard,US,Renault,SP,751000,4777219
+Walmart,SP,ConocoPhillips,UK,752000,9631629
+Walmart,SWI,ConocoPhillips,SWI,753000,3541183
+McKesson,US,Altaran,SPA,754000,3646675
+Renault,SPA,Exxon Mobil,US,755000,8505761
+Activision Blizard,UK,Activision Blizard,FR,756000,7050588
+Laurent Alexandre,GER,Exxon Mobil,GER,757000,9903423
+Walmart,SP,Laurent Alexandre,JAP,758000,7488053
+Activision Blizard,GER,Walmart,SP,759000,6404388
+Tesla,JAP,Renault,SWI,760000,900510
+Renault,CHI,John Coulberg,GER,761000,4413653
+McKesson,SPA,Elon Musk,SWI,762000,6673446
+Activision Blizard,SP,Laurent Alexandre,FR,763000,3251548
+Activision Blizard,ITA,ConocoPhillips,UK,764000,1159550
+Tesla,US,Altaran,SP,765000,1242973
+Exxon Mobil,SP,John Coulberg,SP,766000,9190399
+ConocoPhillips,US,Renault,ITA,767000,8365446
+Nissan,ITA,Chevron,FR,768000,4263666
+Laurent Alexandre,SP,Chevron,UK,769000,6267512
+Renault,SPA,Activision Blizard,FR,770000,1972478
+Walmart,SP,Tesla,JAP,771000,8844362
+Walmart,SPA,Chevron,JAP,772000,2588314
+Walmart,CHI,ConocoPhillips,SWI,773000,4049950
+Nissan,US,Elon Musk,ITA,774000,4300546
+General Motos,JAP,Renault,US,775000,6078425
+General Motos,CHI,Elon Musk,SWI,776000,1865219
+Activision Blizard,SPA,Altaran,SP,777000,9121054
+General Motos,SWI,ConocoPhillips,SPA,778000,7958949
+Laurent Alexandre,JAP,Elon Musk,ITA,779000,4835017
+Laurent Alexandre,SWI,Activision Blizard,FR,780000,8321474
+Exxon Mobil,CHI,Altaran,US,781000,8004438
+McKesson,SPA,Walmart,SWI,782000,5902075
+Activision Blizard,GER,Walmart,GER,783000,5896992
+Activision Blizard,US,Nissan,US,784000,4459781
+John Coulberg,JAP,Nissan,FR,785000,165631
+Walmart,JAP,McKesson,GER,786000,5602254
+Walmart,SPA,John Coulberg,US,787000,4284271
+McKesson,GER,Altaran,SWI,788000,2611093
+Chevron,JAP,Chevron,GER,789000,3443021
+Laurent Alexandre,SWI,Laurent Alexandre,US,790000,4924202
+Renault,US,John Coulberg,JAP,791000,1205322
+Renault,SP,Nissan,US,792000,4677346
+Exxon Mobil,FR,ConocoPhillips,UK,793000,1430770
+Activision Blizard,SP,Laurent Alexandre,SPA,794000,9580389
+Laurent Alexandre,SP,John Coulberg,GER,795000,4340733
+McKesson,JAP,Walmart,SP,796000,6477559
+Exxon Mobil,GER,Tesla,US,797000,4595773
+McKesson,JAP,Tesla,UK,798000,6847395
+Altaran,CHI,Activision Blizard,GER,799000,4965636
+Exxon Mobil,SP,Chevron,US,800000,3131679
+Altaran,GER,Chevron,ITA,801000,1014910
+Tesla,SPA,Chevron,SP,802000,2351992
+Renault,GER,Elon Musk,UK,803000,2455875
+ConocoPhillips,FR,Laurent Alexandre,SWI,804000,6455370
+Exxon Mobil,FR,Chevron,FR,805000,7025180
+McKesson,US,Renault,CHI,806000,5994485
+Laurent Alexandre,CHI,Nissan,GER,807000,6293938
+Activision Blizard,SWI,McKesson,JAP,808000,500908
+McKesson,UK,Altaran,CHI,809000,1874243
+Renault,CHI,General Motos,US,810000,8768145
+Laurent Alexandre,JAP,Nissan,US,811000,7325961
+McKesson,UK,Tesla,GER,812000,4979129
+Tesla,US,Renault,SP,813000,4378863
+General Motos,FR,Activision Blizard,SP,814000,9070448
+John Coulberg,FR,Laurent Alexandre,SWI,815000,2415936
+Nissan,SP,Elon Musk,SPA,816000,5936107
+Elon Musk,US,Renault,SWI,817000,2099113
+Exxon Mobil,US,General Motos,US,818000,3214031
+John Coulberg,ITA,Altaran,US,819000,5236350
+Exxon Mobil,SPA,Elon Musk,JAP,820000,7513580
+Altaran,ITA,McKesson,SPA,821000,6532644
+Renault,JAP,ConocoPhillips,ITA,822000,2376854
+Elon Musk,JAP,McKesson,GER,823000,6528923
+Laurent Alexandre,UK,Tesla,SP,824000,859490
+Walmart,FR,ConocoPhillips,SPA,825000,1640242
+Walmart,SPA,Activision Blizard,SPA,826000,9467913
+Chevron,SWI,ConocoPhillips,SP,827000,7880747
+McKesson,ITA,Nissan,SP,828000,9698655
+Chevron,US,Exxon Mobil,GER,829000,2757944
+John Coulberg,ITA,ConocoPhillips,FR,830000,4480233
+Altaran,CHI,Renault,SWI,831000,7395861
+Chevron,SWI,Chevron,CHI,832000,8610448
+Exxon Mobil,SPA,Tesla,GER,833000,1565844
+Nissan,FR,Renault,CHI,834000,1906717
+Altaran,SWI,Elon Musk,SWI,835000,9041595
+Renault,JAP,John Coulberg,SP,836000,1810639
+Chevron,SP,ConocoPhillips,FR,837000,2351120
+Laurent Alexandre,SPA,Chevron,SP,838000,2521773
+Exxon Mobil,SPA,Chevron,UK,839000,4454567
+Exxon Mobil,UK,Tesla,JAP,840000,4138814
+Exxon Mobil,SWI,Tesla,US,841000,62347
+General Motos,SPA,John Coulberg,SP,842000,5489469
+Elon Musk,FR,Renault,ITA,843000,9958879
+Chevron,ITA,Nissan,SPA,844000,3820876
+Walmart,SP,Tesla,UK,845000,5794465
+Chevron,SP,Renault,FR,846000,7889465
+Walmart,UK,Exxon Mobil,SP,847000,6207397
+Walmart,SPA,McKesson,US,848000,3875202
+Altaran,SWI,John Coulberg,JAP,849000,2402855
+Laurent Alexandre,SPA,Chevron,US,850000,2113796
+Altaran,GER,General Motos,UK,851000,9635661
+Walmart,SPA,Renault,JAP,852000,2900013
+Renault,SPA,Walmart,CHI,853000,5219715
+Activision Blizard,FR,Renault,GER,854000,9216615
+Exxon Mobil,GER,Renault,UK,855000,7428165
+General Motos,SWI,Walmart,SWI,856000,4308749
+Elon Musk,SP,Chevron,FR,857000,2907087
+Elon Musk,GER,General Motos,UK,858000,7131328
+Elon Musk,CHI,Tesla,GER,859000,4034803
+Nissan,JAP,Activision Blizard,UK,860000,6285696
+Renault,UK,Walmart,SPA,861000,8020881
+Exxon Mobil,ITA,Tesla,SP,862000,1813630
+Walmart,SP,John Coulberg,UK,863000,979691
+Nissan,ITA,Elon Musk,UK,864000,5790986
+Chevron,CHI,ConocoPhillips,SP,865000,6221703
+John Coulberg,SWI,Elon Musk,SP,866000,9470915
+ConocoPhillips,SPA,Walmart,CHI,867000,3587093
+Renault,SWI,Altaran,SWI,868000,5343928
+McKesson,SWI,Laurent Alexandre,ITA,869000,5602606
+ConocoPhillips,GER,Activision Blizard,ITA,870000,3487682
+Chevron,US,Laurent Alexandre,CHI,871000,8749643
+Activision Blizard,SP,ConocoPhillips,SP,872000,7781609
+Renault,JAP,Activision Blizard,SWI,873000,4693085
+McKesson,CHI,Laurent Alexandre,SPA,874000,9328380
+Nissan,ITA,Altaran,CHI,875000,1727270
+Nissan,SWI,ConocoPhillips,JAP,876000,6808935
+Chevron,CHI,Chevron,UK,877000,4456477
+Exxon Mobil,US,Walmart,FR,878000,5236838
+Chevron,JAP,Tesla,FR,879000,3827754
+Tesla,CHI,Renault,FR,880000,5720271
+Tesla,SWI,McKesson,JAP,881000,9306716
+Tesla,SP,John Coulberg,UK,882000,2718711
+Exxon Mobil,JAP,Activision Blizard,JAP,883000,6165597
+Exxon Mobil,ITA,Nissan,ITA,884000,9386091
+McKesson,CHI,Elon Musk,UK,885000,5775024
+Activision Blizard,US,McKesson,SP,886000,9894340
+Exxon Mobil,SWI,Activision Blizard,US,887000,6404997
+Nissan,GER,Nissan,SPA,888000,3192061
+ConocoPhillips,ITA,John Coulberg,JAP,889000,7635538
+Altaran,GER,Altaran,SP,890000,6545706
+Nissan,UK,Laurent Alexandre,SP,891000,3364349
+John Coulberg,SP,Chevron,JAP,892000,6670961
+Renault,ITA,Renault,SP,893000,5951218
+John Coulberg,SPA,McKesson,SPA,894000,6024664
+Nissan,GER,ConocoPhillips,SPA,895000,5428533
+Tesla,SPA,Nissan,SP,896000,315533
+Altaran,JAP,Walmart,ITA,897000,1353228
+Tesla,CHI,John Coulberg,SP,898000,8488784
+Tesla,UK,General Motos,ITA,899000,8913912
+Walmart,SWI,ConocoPhillips,CHI,900000,5682629
+Walmart,SWI,General Motos,GER,901000,2518953
+Walmart,SP,Walmart,GER,902000,8578164
+ConocoPhillips,UK,Altaran,US,903000,3648804
+Walmart,SWI,Altaran,SP,904000,3114913
+Altaran,UK,Exxon Mobil,UK,905000,4569933
+Renault,SP,Chevron,US,906000,9656720
+Walmart,UK,Renault,GER,907000,7999292
+Chevron,CHI,Walmart,GER,908000,5700659
+Elon Musk,US,Tesla,ITA,909000,9730872
+General Motos,SPA,Tesla,SWI,910000,597125
+Tesla,FR,General Motos,SP,911000,2486574
+Nissan,GER,McKesson,CHI,912000,3413908
+Chevron,JAP,Chevron,FR,913000,8715402
+General Motos,ITA,Exxon Mobil,UK,914000,7437950
+Tesla,UK,General Motos,SPA,915000,2220593
+Tesla,ITA,Chevron,FR,916000,7551328
+Renault,SPA,John Coulberg,SPA,917000,4472976
+Walmart,ITA,Laurent Alexandre,FR,918000,385842
+John Coulberg,FR,General Motos,US,919000,9443006
+Exxon Mobil,ITA,ConocoPhillips,UK,920000,3305010
+Walmart,CHI,McKesson,SPA,921000,5849966
+Altaran,SWI,General Motos,CHI,922000,6308424
+John Coulberg,FR,ConocoPhillips,CHI,923000,7943422
+Altaran,FR,Laurent Alexandre,SWI,924000,35579
+Altaran,SP,Altaran,ITA,925000,4691850
+Tesla,JAP,John Coulberg,SPA,926000,2565282
+Altaran,UK,Laurent Alexandre,US,927000,9132488
+Laurent Alexandre,FR,Laurent Alexandre,FR,928000,160573
+Nissan,FR,Nissan,SWI,929000,931148
+Nissan,JAP,Exxon Mobil,ITA,930000,4005704
+General Motos,SWI,Renault,CHI,931000,543971
+Elon Musk,SP,Tesla,US,932000,5275566
+Chevron,JAP,Activision Blizard,CHI,933000,228518
+Renault,JAP,Elon Musk,FR,934000,3170168
+John Coulberg,CHI,Activision Blizard,US,935000,8424339
+McKesson,FR,Exxon Mobil,FR,936000,6715846
+Walmart,ITA,McKesson,JAP,937000,6208665
+Walmart,SWI,Tesla,SP,938000,463711
+Elon Musk,CHI,Activision Blizard,ITA,939000,862912
+Nissan,SWI,Nissan,JAP,940000,3317905
+Activision Blizard,GER,Tesla,ITA,941000,8462811
+Elon Musk,JAP,John Coulberg,SP,942000,7525153
+Activision Blizard,SWI,Laurent Alexandre,FR,943000,2995527
+Exxon Mobil,SPA,John Coulberg,CHI,944000,7835357
+Activision Blizard,CHI,McKesson,SP,945000,9598819
+Renault,JAP,Renault,SWI,946000,81613
+Renault,SWI,Elon Musk,UK,947000,6256996
+Nissan,US,Laurent Alexandre,GER,948000,9737392
+Chevron,SWI,Tesla,JAP,949000,209586
+Elon Musk,SPA,General Motos,SWI,950000,2335070
+Elon Musk,JAP,Elon Musk,US,951000,9294243
+General Motos,SPA,Activision Blizard,FR,952000,7048636
+ConocoPhillips,JAP,Altaran,ITA,953000,5550995
+McKesson,FR,Chevron,CHI,954000,1608403
+Laurent Alexandre,SP,McKesson,CHI,955000,8469412
+Chevron,SP,Walmart,GER,956000,7486327
+ConocoPhillips,US,Exxon Mobil,UK,957000,8722030
+John Coulberg,SP,McKesson,CHI,958000,2387168
+Elon Musk,GER,Altaran,CHI,959000,8468451
+John Coulberg,JAP,Laurent Alexandre,CHI,960000,2552673
+Laurent Alexandre,GER,Walmart,SP,961000,1951907
+Laurent Alexandre,SWI,Walmart,SPA,962000,6778160
+Chevron,UK,Renault,SWI,963000,3346258
+Chevron,JAP,Nissan,UK,964000,3420471
+Walmart,SP,Exxon Mobil,CHI,965000,2312194
+Elon Musk,SPA,Renault,US,966000,9011814
+Activision Blizard,GER,Chevron,US,967000,7949105
+Chevron,SWI,Chevron,GER,968000,1417728
+Nissan,ITA,Laurent Alexandre,ITA,969000,7550884
+John Coulberg,JAP,Activision Blizard,SP,970000,8589338
+General Motos,FR,John Coulberg,FR,971000,3954661
+Renault,US,Elon Musk,UK,972000,9217835
+General Motos,ITA,Altaran,FR,973000,6956065
+Walmart,SP,Renault,FR,974000,5167879
+John Coulberg,JAP,Chevron,CHI,975000,3714631
+Nissan,JAP,Exxon Mobil,GER,976000,6321336
+McKesson,SPA,Activision Blizard,US,977000,6831870
+General Motos,SP,General Motos,JAP,978000,2907875
+General Motos,JAP,McKesson,SWI,979000,3702119
+Walmart,GER,Chevron,UK,980000,7492163
+Laurent Alexandre,JAP,Elon Musk,JAP,981000,5765596
+Renault,SP,ConocoPhillips,FR,982000,1529753
+General Motos,SPA,General Motos,SP,983000,3249685
+Activision Blizard,GER,Exxon Mobil,SP,984000,1468038
+Laurent Alexandre,FR,Chevron,SP,985000,1025071
+Chevron,SWI,Elon Musk,SPA,986000,8795730
+John Coulberg,CHI,Renault,US,987000,1791416
+Altaran,SPA,John Coulberg,US,988000,5932700
+Tesla,SP,John Coulberg,SPA,989000,2739248
+Nissan,CHI,John Coulberg,SP,990000,4664137
+Chevron,JAP,Tesla,ITA,991000,1435782
+Nissan,FR,Exxon Mobil,JAP,992000,7216064
+Walmart,ITA,Chevron,CHI,993000,1459650
+General Motos,US,Elon Musk,FR,994000,2891574
+Renault,SP,Activision Blizard,JAP,995000,2068878
+Renault,UK,Nissan,ITA,996000,7250357
+Activision Blizard,SP,Renault,GER,997000,5610190
+Exxon Mobil,FR,John Coulberg,JAP,998000,8974388
+Renault,FR,Chevron,UK,999000,29571
+Altaran,US,General Motos,US,1000000,81061
+Elon Musk,SWI,Tesla,SP,1001000,2186560
+Laurent Alexandre,GER,Altaran,SPA,1002000,3039290
+John Coulberg,FR,Tesla,UK,1003000,6316989
+Chevron,SWI,John Coulberg,ITA,1004000,4383364
+Elon Musk,SP,Elon Musk,CHI,1005000,7032141
+ConocoPhillips,SWI,Elon Musk,SP,1006000,6610576
+Altaran,JAP,Altaran,UK,1007000,1203629
+Laurent Alexandre,JAP,Chevron,CHI,1008000,4785938
+Nissan,ITA,John Coulberg,ITA,1009000,5439626
+John Coulberg,SP,Chevron,SP,1010000,1421936
+Chevron,FR,Elon Musk,SWI,1011000,1134132
+Altaran,JAP,General Motos,GER,1012000,6279869
+General Motos,US,McKesson,CHI,1013000,9287875
+General Motos,US,John Coulberg,SWI,1014000,6894930
+ConocoPhillips,CHI,Elon Musk,JAP,1015000,1538675
+Tesla,GER,John Coulberg,SPA,1016000,8748970
+General Motos,CHI,Tesla,GER,1017000,2049408
+ConocoPhillips,SPA,Tesla,US,1018000,4453955
+ConocoPhillips,ITA,Tesla,SPA,1019000,782187
+Activision Blizard,UK,General Motos,CHI,1020000,3179386
+Altaran,SPA,Activision Blizard,UK,1021000,2699316
+Activision Blizard,FR,Walmart,CHI,1022000,1050903
+Walmart,JAP,ConocoPhillips,GER,1023000,9913393
+Tesla,ITA,Exxon Mobil,GER,1024000,3027839
+Altaran,SPA,Walmart,SP,1025000,4308640
+Elon Musk,JAP,Activision Blizard,US,1026000,9881126
+Activision Blizard,UK,Elon Musk,GER,1027000,592900
+ConocoPhillips,CHI,General Motos,JAP,1028000,9818712
+ConocoPhillips,SWI,Tesla,GER,1029000,7865249
+ConocoPhillips,UK,Renault,ITA,1030000,2498092
+Renault,UK,Activision Blizard,US,1031000,1092655
+Exxon Mobil,GER,Chevron,FR,1032000,678412
+Walmart,GER,Altaran,CHI,1033000,7655385
+Tesla,CHI,Tesla,FR,1034000,9880762
+Altaran,CHI,Walmart,SPA,1035000,9005725
+Exxon Mobil,SWI,Tesla,CHI,1036000,3717943
+Elon Musk,JAP,Tesla,UK,1037000,604218
+McKesson,UK,General Motos,SP,1038000,9456029
+Activision Blizard,SWI,Chevron,FR,1039000,7188335
+Tesla,ITA,Laurent Alexandre,SP,1040000,8768935
+McKesson,SP,Chevron,FR,1041000,8776861
+Renault,SPA,Renault,GER,1042000,7116394
+Chevron,GER,Elon Musk,GER,1043000,6596072
+Activision Blizard,SWI,Renault,SP,1044000,855504
+McKesson,UK,Renault,JAP,1045000,2188558
+Chevron,UK,General Motos,CHI,1046000,3801480
+McKesson,SP,Nissan,JAP,1047000,6460360
+John Coulberg,GER,John Coulberg,CHI,1048000,3301016
+Exxon Mobil,GER,ConocoPhillips,GER,1049000,1964418
+Tesla,SWI,Elon Musk,ITA,1050000,6938906
+Renault,CHI,Tesla,FR,1051000,9500790
+McKesson,JAP,Walmart,JAP,1052000,8995965
+Renault,JAP,Renault,ITA,1053000,9510064
+Activision Blizard,US,Laurent Alexandre,CHI,1054000,2566478
+McKesson,US,McKesson,JAP,1055000,4504775
+ConocoPhillips,SP,Renault,JAP,1056000,26991
+Chevron,SP,General Motos,FR,1057000,6527703
+Altaran,UK,Elon Musk,SPA,1058000,5496859
+General Motos,UK,Tesla,CHI,1059000,2168827
+Tesla,FR,Tesla,FR,1060000,1427214
+Chevron,ITA,Chevron,CHI,1061000,9239417
+General Motos,US,Exxon Mobil,US,1062000,1163776
+General Motos,JAP,Renault,GER,1063000,9496090
+Tesla,SWI,Altaran,CHI,1064000,3742547
+Exxon Mobil,GER,Tesla,SWI,1065000,2127926
+Laurent Alexandre,US,Elon Musk,US,1066000,4954279
+Exxon Mobil,SWI,Nissan,UK,1067000,2909012
+Altaran,FR,Laurent Alexandre,ITA,1068000,8373247
+Chevron,SP,McKesson,CHI,1069000,9788847
+Exxon Mobil,US,Altaran,SWI,1070000,1380530
+General Motos,CHI,General Motos,UK,1071000,294676
+General Motos,GER,Nissan,JAP,1072000,4719302
+Walmart,US,John Coulberg,GER,1073000,1600063
+Laurent Alexandre,UK,Tesla,UK,1074000,9467543
+Exxon Mobil,SP,Laurent Alexandre,CHI,1075000,8159208
+General Motos,CHI,John Coulberg,UK,1076000,3883692
+Walmart,SPA,Exxon Mobil,GER,1077000,8040881
+Laurent Alexandre,SPA,Exxon Mobil,SP,1078000,4235704
+Exxon Mobil,UK,Renault,UK,1079000,2127709
+Altaran,SP,Renault,SP,1080000,8678709
+Elon Musk,CHI,ConocoPhillips,SPA,1081000,7519372
+ConocoPhillips,JAP,Exxon Mobil,ITA,1082000,2665086
+Elon Musk,GER,Activision Blizard,US,1083000,1379104
+Chevron,CHI,Tesla,GER,1084000,4507812
+Elon Musk,SP,John Coulberg,ITA,1085000,6378927
+Tesla,SP,Chevron,US,1086000,4863514
+Activision Blizard,CHI,Walmart,SP,1087000,2356803
+Nissan,SWI,Altaran,CHI,1088000,1555495
+Exxon Mobil,US,Activision Blizard,GER,1089000,3409362
+Chevron,UK,Laurent Alexandre,JAP,1090000,8658914
+Laurent Alexandre,SWI,ConocoPhillips,SPA,1091000,4034914
+Chevron,CHI,Laurent Alexandre,FR,1092000,6949600
+Chevron,FR,Altaran,UK,1093000,8443542
+John Coulberg,ITA,John Coulberg,UK,1094000,2304534
+ConocoPhillips,UK,Renault,SP,1095000,5098879
+Elon Musk,US,Altaran,FR,1096000,2373152
+Elon Musk,SPA,McKesson,SWI,1097000,7617916
+Activision Blizard,US,McKesson,GER,1098000,9191455
+Exxon Mobil,JAP,Renault,SWI,1099000,6757921
+Exxon Mobil,SP,John Coulberg,GER,1100000,7128800
+Tesla,JAP,Elon Musk,UK,1101000,5901524
+ConocoPhillips,JAP,Renault,ITA,1102000,3479630
+Walmart,JAP,General Motos,FR,1103000,2174660
+McKesson,JAP,Laurent Alexandre,UK,1104000,9184173
+Renault,SP,Exxon Mobil,SP,1105000,970809
+McKesson,SPA,Altaran,CHI,1106000,1943179
+Altaran,SWI,Tesla,SPA,1107000,2145934
+Nissan,ITA,Altaran,ITA,1108000,6409540
+Exxon Mobil,UK,Nissan,SWI,1109000,4239332
+ConocoPhillips,GER,Elon Musk,GER,1110000,3739168
+Laurent Alexandre,GER,Elon Musk,SP,1111000,8367472
+ConocoPhillips,GER,Walmart,JAP,1112000,8285790
+John Coulberg,SP,Activision Blizard,US,1113000,4770802
+John Coulberg,FR,Renault,CHI,1114000,6027113
+Renault,JAP,Renault,CHI,1115000,4587488
+Altaran,SPA,Tesla,SWI,1116000,4086961
+McKesson,UK,Renault,US,1117000,4466126
+General Motos,SP,Laurent Alexandre,SWI,1118000,2650777
+Elon Musk,GER,McKesson,GER,1119000,9846290
+Altaran,FR,McKesson,SPA,1120000,3539106
+Walmart,UK,General Motos,SP,1121000,5176297
+Nissan,SPA,Activision Blizard,SPA,1122000,4247890
+Exxon Mobil,ITA,ConocoPhillips,UK,1123000,4898100
+Tesla,SP,Nissan,US,1124000,3472475
+General Motos,CHI,General Motos,FR,1125000,6928829
+Tesla,ITA,ConocoPhillips,SP,1126000,79067
+Elon Musk,SPA,Tesla,UK,1127000,9814534
+ConocoPhillips,GER,Exxon Mobil,FR,1128000,1686669
+Laurent Alexandre,SP,John Coulberg,SPA,1129000,8712308
+Activision Blizard,FR,John Coulberg,JAP,1130000,3308417
+Activision Blizard,FR,Activision Blizard,JAP,1131000,2977546
+Chevron,CHI,Tesla,SP,1132000,5492782
+Walmart,US,Exxon Mobil,FR,1133000,5966828
+General Motos,SWI,General Motos,GER,1134000,6693630
+Nissan,SP,Exxon Mobil,JAP,1135000,2657024
+General Motos,ITA,Laurent Alexandre,ITA,1136000,2794008
+John Coulberg,ITA,Elon Musk,FR,1137000,6556843
+Activision Blizard,GER,Elon Musk,ITA,1138000,8218099
+General Motos,US,Renault,US,1139000,4664717
+Altaran,SP,Exxon Mobil,GER,1140000,9157283
+Elon Musk,ITA,Walmart,SPA,1141000,1360561
+Laurent Alexandre,CHI,Activision Blizard,ITA,1142000,7975136
+Altaran,US,Nissan,CHI,1143000,3523543
+Tesla,SPA,Renault,SWI,1144000,8391717
+General Motos,GER,Elon Musk,US,1145000,9184293
+Elon Musk,JAP,McKesson,FR,1146000,9062092
+McKesson,FR,Tesla,CHI,1147000,5949686
+John Coulberg,GER,Renault,GER,1148000,9340594
+Chevron,UK,ConocoPhillips,JAP,1149000,3305139
+Exxon Mobil,ITA,Tesla,GER,1150000,2526622
+McKesson,GER,General Motos,SWI,1151000,8897917
+Activision Blizard,SWI,Walmart,FR,1152000,2186199
+McKesson,JAP,Activision Blizard,SPA,1153000,7397360
+General Motos,SWI,Elon Musk,US,1154000,3731150
+Elon Musk,SPA,Renault,ITA,1155000,5340123
+Exxon Mobil,CHI,Renault,JAP,1156000,1622267
+Nissan,US,ConocoPhillips,CHI,1157000,4229963
+McKesson,ITA,John Coulberg,SWI,1158000,8249109
+General Motos,SP,Exxon Mobil,SP,1159000,1934478
+Altaran,SPA,Elon Musk,SWI,1160000,6288268
+Laurent Alexandre,CHI,John Coulberg,FR,1161000,1838363
+Exxon Mobil,ITA,John Coulberg,ITA,1162000,1033770
+Altaran,GER,Altaran,FR,1163000,722527
+Elon Musk,JAP,McKesson,US,1164000,1462822
+Altaran,CHI,Elon Musk,SPA,1165000,1367729
+Exxon Mobil,SP,Altaran,US,1166000,1701561
+Activision Blizard,FR,Elon Musk,SPA,1167000,6952198
+ConocoPhillips,SPA,McKesson,SP,1168000,2207737
+Laurent Alexandre,FR,John Coulberg,CHI,1169000,2350797
+Nissan,JAP,Elon Musk,JAP,1170000,3288879
+Altaran,GER,Elon Musk,US,1171000,4959760
+Renault,FR,Nissan,GER,1172000,4624855
+Chevron,JAP,John Coulberg,FR,1173000,6638891
+Walmart,GER,Laurent Alexandre,US,1174000,7179366
+McKesson,SP,Altaran,GER,1175000,5204484
+McKesson,SWI,General Motos,CHI,1176000,4535692
+General Motos,SPA,Tesla,US,1177000,9351953
+Renault,GER,Altaran,UK,1178000,2362758
+Chevron,FR,Altaran,US,1179000,7469648
+ConocoPhillips,SPA,Renault,CHI,1180000,2528321
+Walmart,SP,General Motos,FR,1181000,5366156
+Tesla,SWI,Walmart,GER,1182000,6068961
+ConocoPhillips,ITA,McKesson,SPA,1183000,6124712
+Altaran,US,Tesla,ITA,1184000,4528770
+John Coulberg,SP,Nissan,GER,1185000,5648294
+Exxon Mobil,JAP,McKesson,FR,1186000,3204251
+General Motos,JAP,Chevron,UK,1187000,9962569
+Tesla,JAP,Elon Musk,CHI,1188000,5596438
+Walmart,SPA,Walmart,GER,1189000,5835874
+Chevron,SPA,Renault,JAP,1190000,5902470
+Chevron,JAP,McKesson,CHI,1191000,1757542
+Activision Blizard,US,Altaran,JAP,1192000,1056486
+Exxon Mobil,UK,Elon Musk,JAP,1193000,2699232
+Nissan,GER,John Coulberg,GER,1194000,9292381
+Nissan,SPA,Renault,ITA,1195000,8153448
+ConocoPhillips,US,Tesla,SPA,1196000,3841879
+Elon Musk,FR,Nissan,SPA,1197000,764596
+Activision Blizard,SPA,McKesson,SP,1198000,6444624
+Renault,UK,McKesson,FR,1199000,6203039
+General Motos,SPA,Laurent Alexandre,JAP,1200000,5192496
+General Motos,GER,John Coulberg,SPA,1201000,9145628
+Activision Blizard,US,Nissan,JAP,1202000,4372694
+Tesla,SP,Walmart,ITA,1203000,7482083
+Altaran,CHI,Laurent Alexandre,UK,1204000,2588615
+John Coulberg,FR,Exxon Mobil,ITA,1205000,557911
+Exxon Mobil,GER,Elon Musk,ITA,1206000,9086435
+McKesson,SP,Walmart,SP,1207000,2105139
+Renault,SP,General Motos,GER,1208000,2993425
+Exxon Mobil,GER,ConocoPhillips,SWI,1209000,9748475
+McKesson,SP,Nissan,JAP,1210000,6673692
+Nissan,SWI,Altaran,GER,1211000,3753286
+Nissan,SPA,Tesla,JAP,1212000,9594238
+John Coulberg,GER,Exxon Mobil,JAP,1213000,9851261
+Walmart,US,Renault,SPA,1214000,5735951
+Chevron,ITA,Nissan,ITA,1215000,7319129
+Activision Blizard,CHI,Elon Musk,SP,1216000,6130760
+Laurent Alexandre,US,Walmart,UK,1217000,9976372
+Elon Musk,JAP,Laurent Alexandre,SP,1218000,4627106
+Exxon Mobil,US,McKesson,UK,1219000,6911855
+Laurent Alexandre,UK,General Motos,CHI,1220000,3369125
+Altaran,ITA,Exxon Mobil,SP,1221000,7650510
+General Motos,US,Exxon Mobil,ITA,1222000,3792066
+Laurent Alexandre,FR,Tesla,FR,1223000,9803158
+Nissan,GER,Chevron,US,1224000,1519382
+John Coulberg,JAP,Tesla,CHI,1225000,5185314
+Laurent Alexandre,SPA,John Coulberg,UK,1226000,4013095
+Tesla,GER,Exxon Mobil,SWI,1227000,3674960
+Renault,UK,Elon Musk,SP,1228000,4707528
+Activision Blizard,GER,General Motos,CHI,1229000,688173
+John Coulberg,ITA,General Motos,SP,1230000,8963903
+Altaran,SWI,ConocoPhillips,ITA,1231000,6348680
+Tesla,SPA,Activision Blizard,SP,1232000,6675771
+Exxon Mobil,US,McKesson,SPA,1233000,6961124
+John Coulberg,FR,Elon Musk,SWI,1234000,7577355
+Nissan,FR,Nissan,UK,1235000,306646
+Activision Blizard,UK,Elon Musk,FR,1236000,6754001
+McKesson,UK,Chevron,SP,1237000,3219816
+ConocoPhillips,UK,John Coulberg,CHI,1238000,4958211
+Nissan,FR,Renault,JAP,1239000,8029890
+Walmart,GER,John Coulberg,GER,1240000,6074641
+General Motos,ITA,Chevron,UK,1241000,1061490
+Walmart,GER,Chevron,GER,1242000,1305383
+Nissan,SWI,Walmart,JAP,1243000,7337374
+John Coulberg,ITA,Altaran,US,1244000,1253885
+Exxon Mobil,SP,Walmart,SPA,1245000,9044235
+Elon Musk,GER,Renault,FR,1246000,6023344
+ConocoPhillips,SWI,Tesla,JAP,1247000,8349852
+John Coulberg,SPA,Exxon Mobil,GER,1248000,6064598
+John Coulberg,ITA,Nissan,SP,1249000,6395119
+Altaran,SP,Exxon Mobil,CHI,1250000,6787815
+McKesson,SWI,Activision Blizard,CHI,1251000,7065692
+Elon Musk,US,ConocoPhillips,GER,1252000,4683961
+Tesla,ITA,Nissan,SPA,1253000,200126
+Walmart,GER,Activision Blizard,ITA,1254000,3347311
+Elon Musk,GER,ConocoPhillips,SPA,1255000,7497365
+Activision Blizard,CHI,Laurent Alexandre,US,1256000,8963643
+Laurent Alexandre,JAP,Altaran,GER,1257000,2131624
+Elon Musk,UK,Renault,UK,1258000,5939565
+Exxon Mobil,SP,Activision Blizard,SWI,1259000,7995789
+Chevron,GER,General Motos,SPA,1260000,7352357
+Elon Musk,GER,Activision Blizard,SWI,1261000,6544748
+Nissan,UK,Chevron,UK,1262000,4865816
+Elon Musk,US,General Motos,JAP,1263000,9410077
+Chevron,GER,Laurent Alexandre,SWI,1264000,5910377
+ConocoPhillips,CHI,Activision Blizard,FR,1265000,6979626
+Elon Musk,CHI,Renault,ITA,1266000,9101508
+Renault,GER,Nissan,CHI,1267000,2537592
+General Motos,GER,Tesla,UK,1268000,2645153
+Altaran,SPA,Exxon Mobil,CHI,1269000,288759
+McKesson,UK,Walmart,JAP,1270000,6785406
+General Motos,FR,Exxon Mobil,FR,1271000,9333896
+Laurent Alexandre,US,John Coulberg,GER,1272000,7153611
+General Motos,CHI,Renault,US,1273000,3574263
+McKesson,SPA,Tesla,JAP,1274000,5387945
+John Coulberg,GER,John Coulberg,SWI,1275000,3037881
+John Coulberg,SWI,John Coulberg,CHI,1276000,3304474
+Chevron,ITA,ConocoPhillips,UK,1277000,7888510
+Elon Musk,CHI,Chevron,ITA,1278000,892428
+McKesson,SWI,Elon Musk,UK,1279000,1514372
+Elon Musk,JAP,ConocoPhillips,UK,1280000,8232879
+Activision Blizard,GER,John Coulberg,US,1281000,1153713
+Tesla,GER,Exxon Mobil,SP,1282000,6757392
+Chevron,JAP,Walmart,JAP,1283000,291948
+Chevron,UK,Activision Blizard,ITA,1284000,201307
+Elon Musk,UK,Activision Blizard,JAP,1285000,7987037
+John Coulberg,SP,Nissan,SPA,1286000,3951384
+General Motos,GER,Chevron,SP,1287000,8205422
+Renault,SPA,Elon Musk,UK,1288000,7127326
+John Coulberg,UK,John Coulberg,CHI,1289000,7986602
+General Motos,ITA,Renault,JAP,1290000,9843045
+Nissan,SPA,Exxon Mobil,ITA,1291000,5514479
+Laurent Alexandre,SP,Nissan,SP,1292000,5366810
+Nissan,ITA,Altaran,SP,1293000,6261317
+Tesla,US,Altaran,FR,1294000,1726270
+Renault,FR,John Coulberg,SWI,1295000,2297298
+McKesson,US,Renault,US,1296000,331573
+McKesson,UK,Chevron,SWI,1297000,795091
+Activision Blizard,JAP,Exxon Mobil,SWI,1298000,5622006
+Renault,GER,Laurent Alexandre,SPA,1299000,6048121
+Exxon Mobil,JAP,Nissan,UK,1300000,2172521
+Chevron,GER,Altaran,JAP,1301000,7330740
+Elon Musk,SWI,ConocoPhillips,SP,1302000,6039630
+Chevron,CHI,ConocoPhillips,SPA,1303000,5018044
+Walmart,CHI,Renault,US,1304000,329718
+ConocoPhillips,CHI,General Motos,CHI,1305000,4635688
+Walmart,GER,Renault,JAP,1306000,5829326
+Activision Blizard,JAP,McKesson,JAP,1307000,4036860
+General Motos,UK,Walmart,SP,1308000,6272711
+ConocoPhillips,FR,Exxon Mobil,JAP,1309000,184909
+General Motos,SP,Laurent Alexandre,GER,1310000,2536469
+Tesla,US,Renault,UK,1311000,2334010
+McKesson,UK,Altaran,ITA,1312000,9171440
+General Motos,CHI,Activision Blizard,JAP,1313000,2633314
+Activision Blizard,ITA,Renault,CHI,1314000,8584219
+Renault,ITA,Laurent Alexandre,ITA,1315000,3687394
+Activision Blizard,SWI,John Coulberg,SWI,1316000,9144646
+Renault,UK,Renault,JAP,1317000,759483
+Walmart,SWI,Exxon Mobil,FR,1318000,6053295
+Walmart,GER,Exxon Mobil,CHI,1319000,2202408
+John Coulberg,ITA,Elon Musk,SP,1320000,1752341
+Tesla,SPA,Chevron,ITA,1321000,262775
+Activision Blizard,FR,McKesson,JAP,1322000,1809032
+Walmart,FR,Tesla,SP,1323000,4237728
+Laurent Alexandre,GER,Laurent Alexandre,UK,1324000,2566257
+Tesla,US,Elon Musk,FR,1325000,5229927
+Tesla,GER,Walmart,CHI,1326000,3112940
+Exxon Mobil,SPA,Tesla,SWI,1327000,6090056
+General Motos,SPA,McKesson,JAP,1328000,3028914
+Exxon Mobil,JAP,John Coulberg,SWI,1329000,1062228
+Walmart,GER,General Motos,CHI,1330000,6181174
+Exxon Mobil,SP,Exxon Mobil,UK,1331000,2441015
+Laurent Alexandre,ITA,Laurent Alexandre,UK,1332000,6067626
+Tesla,US,Laurent Alexandre,GER,1333000,8293107
+Tesla,US,Tesla,GER,1334000,5217712
+Renault,ITA,Altaran,CHI,1335000,8053151
+Chevron,CHI,ConocoPhillips,GER,1336000,4418395
+Renault,UK,Activision Blizard,GER,1337000,1753615
+Renault,FR,McKesson,FR,1338000,3990149
+McKesson,SPA,McKesson,SPA,1339000,9331432
+ConocoPhillips,FR,ConocoPhillips,GER,1340000,8460881
+Walmart,GER,Exxon Mobil,SWI,1341000,321852
+Tesla,SPA,Exxon Mobil,UK,1342000,7001046
+Renault,UK,Elon Musk,ITA,1343000,862467
+General Motos,FR,Walmart,SWI,1344000,1684748
+Laurent Alexandre,SPA,Exxon Mobil,SPA,1345000,2421119
+Laurent Alexandre,UK,Nissan,FR,1346000,369213
+Laurent Alexandre,SP,Altaran,SWI,1347000,5323188
+Nissan,FR,John Coulberg,US,1348000,3766007
+Laurent Alexandre,SP,Activision Blizard,SWI,1349000,717650
+Exxon Mobil,UK,ConocoPhillips,SWI,1350000,7010076
+Exxon Mobil,GER,Elon Musk,CHI,1351000,2708185
+ConocoPhillips,CHI,Chevron,US,1352000,9470189
+Nissan,ITA,McKesson,ITA,1353000,5110682
+Tesla,ITA,John Coulberg,JAP,1354000,8917410
+Elon Musk,ITA,ConocoPhillips,FR,1355000,6555033
+McKesson,ITA,Exxon Mobil,JAP,1356000,5089678
+ConocoPhillips,US,Altaran,CHI,1357000,6938075
+Laurent Alexandre,GER,Tesla,FR,1358000,2729250
+Chevron,FR,Activision Blizard,JAP,1359000,7270272
+Elon Musk,SP,Elon Musk,UK,1360000,9058460
+Renault,UK,Walmart,ITA,1361000,275977
+Nissan,JAP,Tesla,SP,1362000,3352819
+Elon Musk,SPA,ConocoPhillips,FR,1363000,4143219
+ConocoPhillips,GER,General Motos,ITA,1364000,9320431
+Renault,US,Exxon Mobil,UK,1365000,3768211
+Laurent Alexandre,US,John Coulberg,SWI,1366000,6414099
+Elon Musk,GER,Renault,CHI,1367000,8312966
+Exxon Mobil,UK,Nissan,SPA,1368000,9183615
+Laurent Alexandre,ITA,Activision Blizard,SWI,1369000,7995813
+Exxon Mobil,SWI,ConocoPhillips,SWI,1370000,8289092
+Nissan,SWI,McKesson,SP,1371000,1725866
+Nissan,UK,Walmart,SWI,1372000,4274893
+Elon Musk,UK,Tesla,GER,1373000,151655
+Activision Blizard,UK,Nissan,FR,1374000,795933
+Nissan,FR,Altaran,SPA,1375000,1916013
+Walmart,CHI,John Coulberg,SPA,1376000,8205101
+McKesson,UK,McKesson,US,1377000,5716081
+Chevron,FR,Elon Musk,SPA,1378000,1685898
+Activision Blizard,US,Tesla,JAP,1379000,2357263
+John Coulberg,SPA,Tesla,SWI,1380000,6445183
+Laurent Alexandre,GER,Activision Blizard,ITA,1381000,6505499
+General Motos,SP,Activision Blizard,US,1382000,6524361
+McKesson,SWI,Nissan,SPA,1383000,2942470
+McKesson,JAP,Elon Musk,FR,1384000,2697358
+Nissan,ITA,Activision Blizard,JAP,1385000,5846277
+Chevron,SWI,Nissan,SPA,1386000,7946017
+Exxon Mobil,US,Elon Musk,UK,1387000,7542499
+Altaran,SP,Tesla,UK,1388000,5655518
+Nissan,SWI,Renault,SWI,1389000,1172671
+Activision Blizard,UK,Elon Musk,GER,1390000,4425353
+Nissan,SPA,Activision Blizard,FR,1391000,2232474
+Renault,FR,Laurent Alexandre,US,1392000,4613864
+Elon Musk,FR,Exxon Mobil,SWI,1393000,2478939
+ConocoPhillips,SPA,Elon Musk,CHI,1394000,7132689
+Nissan,SWI,McKesson,SWI,1395000,1227270
+Elon Musk,JAP,John Coulberg,SWI,1396000,1333775
+Nissan,GER,Laurent Alexandre,CHI,1397000,5917348
+Tesla,ITA,John Coulberg,UK,1398000,1532634
+ConocoPhillips,SP,Renault,US,1399000,5768619
+ConocoPhillips,US,Renault,FR,1400000,6248132
+ConocoPhillips,SWI,Tesla,US,1401000,8589357
+Nissan,SWI,Renault,SPA,1402000,9724196
+Tesla,SWI,Exxon Mobil,CHI,1403000,5659918
+Elon Musk,SP,McKesson,ITA,1404000,7203669
+Elon Musk,SP,Elon Musk,FR,1405000,6706338
+McKesson,SWI,Activision Blizard,GER,1406000,1438968
+Laurent Alexandre,ITA,Tesla,JAP,1407000,1067749
+Nissan,SPA,Renault,SWI,1408000,1139390
+Walmart,FR,Altaran,US,1409000,1549853
+Walmart,GER,Nissan,UK,1410000,4621760
+Walmart,SPA,Walmart,US,1411000,6733327
+Elon Musk,JAP,Renault,GER,1412000,2522086
+McKesson,US,Altaran,JAP,1413000,8076809
+Activision Blizard,GER,John Coulberg,ITA,1414000,3881934
+Laurent Alexandre,ITA,General Motos,SWI,1415000,4267239
+Chevron,UK,John Coulberg,ITA,1416000,8102368
+Elon Musk,FR,Exxon Mobil,SPA,1417000,7968610
+Activision Blizard,JAP,Exxon Mobil,CHI,1418000,3469449
+Chevron,ITA,Activision Blizard,SPA,1419000,6163217
+Walmart,FR,ConocoPhillips,CHI,1420000,4342892
+Tesla,JAP,McKesson,FR,1421000,2512251
+Elon Musk,UK,General Motos,SWI,1422000,6594883
+ConocoPhillips,GER,Elon Musk,JAP,1423000,1693200
+John Coulberg,ITA,Tesla,SPA,1424000,8735111
+Elon Musk,SP,Laurent Alexandre,UK,1425000,7339047
+Walmart,GER,John Coulberg,GER,1426000,2052227
+Walmart,GER,John Coulberg,SP,1427000,9442061
+Nissan,SWI,Chevron,SP,1428000,5142454
+ConocoPhillips,UK,Nissan,UK,1429000,9278502
+Activision Blizard,ITA,John Coulberg,SP,1430000,8912568
+Tesla,ITA,Chevron,SWI,1431000,115623
+General Motos,GER,Walmart,GER,1432000,6392072
+John Coulberg,SPA,Nissan,FR,1433000,9943106
+Nissan,SPA,Tesla,SPA,1434000,4809857
+Elon Musk,SP,Elon Musk,CHI,1435000,2320223
+Nissan,SWI,Activision Blizard,SWI,1436000,6747277
+General Motos,SWI,Altaran,SWI,1437000,5702741
+John Coulberg,SP,Laurent Alexandre,SP,1438000,5814006
+Tesla,SP,Laurent Alexandre,SWI,1439000,2397637
+Tesla,SPA,Tesla,ITA,1440000,6831452
+John Coulberg,SP,Exxon Mobil,GER,1441000,4205594
+Altaran,SPA,Tesla,GER,1442000,9836701
+General Motos,FR,Laurent Alexandre,SWI,1443000,134108
+John Coulberg,UK,General Motos,JAP,1444000,2434298
+Walmart,FR,ConocoPhillips,SWI,1445000,3385363
+ConocoPhillips,US,Elon Musk,SWI,1446000,8609339
+Elon Musk,SP,Walmart,FR,1447000,4876513
+Tesla,FR,Exxon Mobil,CHI,1448000,6241456
+Elon Musk,UK,Elon Musk,SWI,1449000,2165515
+Altaran,UK,Walmart,US,1450000,7028675
+Tesla,US,Altaran,US,1451000,5923820
+Nissan,US,Altaran,US,1452000,7609582
+Walmart,SP,Elon Musk,UK,1453000,8451321
+Altaran,US,Exxon Mobil,GER,1454000,211396
+Altaran,FR,Altaran,SWI,1455000,6384274
+Tesla,SWI,McKesson,JAP,1456000,4875446
+Tesla,UK,ConocoPhillips,US,1457000,137401
+Exxon Mobil,ITA,Nissan,SPA,1458000,1181935
+Chevron,SWI,Exxon Mobil,SWI,1459000,8637105
+Chevron,UK,McKesson,JAP,1460000,7152035
+Activision Blizard,CHI,Renault,UK,1461000,1339238
+Nissan,JAP,Walmart,SWI,1462000,5303263
+Elon Musk,CHI,Walmart,SP,1463000,8903261
+Nissan,UK,Exxon Mobil,FR,1464000,850651
+Exxon Mobil,UK,Laurent Alexandre,JAP,1465000,2841924
+General Motos,ITA,General Motos,SWI,1466000,2099752
+Nissan,SWI,Exxon Mobil,JAP,1467000,5359185
+Tesla,CHI,Walmart,US,1468000,3585156
+Activision Blizard,CHI,ConocoPhillips,JAP,1469000,9927777
+Nissan,FR,McKesson,SP,1470000,5478882
+Laurent Alexandre,SWI,General Motos,GER,1471000,1272997
+Chevron,JAP,General Motos,SP,1472000,6367192
+ConocoPhillips,SPA,Laurent Alexandre,SPA,1473000,8235060
+Laurent Alexandre,UK,John Coulberg,SP,1474000,40237
+Exxon Mobil,JAP,Elon Musk,UK,1475000,8884646
+Walmart,SPA,Elon Musk,UK,1476000,2955623
+Elon Musk,US,Altaran,SPA,1477000,5673718
+Elon Musk,US,ConocoPhillips,FR,1478000,8491550
+Renault,GER,Exxon Mobil,ITA,1479000,6636151
+Tesla,CHI,McKesson,FR,1480000,1845660
+Nissan,SPA,Renault,UK,1481000,752990
+Laurent Alexandre,ITA,Renault,UK,1482000,4622600
+ConocoPhillips,JAP,John Coulberg,CHI,1483000,3289709
+Nissan,SWI,Walmart,UK,1484000,6189808
+Tesla,SPA,Tesla,US,1485000,7191553
+Elon Musk,FR,Activision Blizard,GER,1486000,8325188
+General Motos,FR,McKesson,FR,1487000,657782
+Laurent Alexandre,CHI,ConocoPhillips,SPA,1488000,9745223
+Tesla,UK,Walmart,JAP,1489000,9230741
+McKesson,US,Renault,CHI,1490000,158517
+Chevron,FR,Chevron,SWI,1491000,2597819
+Chevron,FR,Tesla,FR,1492000,1674339
+Elon Musk,FR,Renault,SWI,1493000,3978474
+Tesla,SPA,ConocoPhillips,CHI,1494000,1534900
+McKesson,SWI,John Coulberg,SPA,1495000,4663530
+Exxon Mobil,US,John Coulberg,SPA,1496000,6989343
+ConocoPhillips,US,Altaran,US,1497000,4156023
+Renault,FR,General Motos,GER,1498000,3463969
+John Coulberg,US,McKesson,SPA,1499000,5087635
+Nissan,CHI,McKesson,JAP,1500000,5258592
+Altaran,ITA,McKesson,JAP,1501000,736675
+Altaran,SWI,ConocoPhillips,SWI,1502000,7596432
+Altaran,CHI,Elon Musk,ITA,1503000,683159
+Altaran,JAP,Exxon Mobil,FR,1504000,6131510
+Exxon Mobil,CHI,Tesla,SPA,1505000,5068422
+ConocoPhillips,SPA,Nissan,SP,1506000,7237327
+Laurent Alexandre,SPA,Walmart,SPA,1507000,3119244
+ConocoPhillips,SPA,Laurent Alexandre,UK,1508000,1781443
+John Coulberg,FR,Elon Musk,UK,1509000,8544732
+Laurent Alexandre,FR,Elon Musk,JAP,1510000,5595880
+Nissan,GER,John Coulberg,SPA,1511000,3722398
+Tesla,SP,Tesla,US,1512000,32284
+Laurent Alexandre,ITA,John Coulberg,ITA,1513000,2682472
+Walmart,CHI,Renault,CHI,1514000,1010239
+ConocoPhillips,GER,Altaran,US,1515000,1600550
+ConocoPhillips,FR,Renault,FR,1516000,6615567
+Chevron,SP,Altaran,UK,1517000,584419
+Elon Musk,SPA,Walmart,SP,1518000,6936903
+McKesson,SPA,Exxon Mobil,GER,1519000,3586614
+ConocoPhillips,SP,General Motos,JAP,1520000,204482
+Tesla,ITA,Altaran,ITA,1521000,3046959
+Elon Musk,ITA,ConocoPhillips,JAP,1522000,3807145
+Nissan,FR,ConocoPhillips,CHI,1523000,5971877
+Tesla,FR,Tesla,FR,1524000,9003302
+McKesson,FR,Activision Blizard,US,1525000,5595011
+Tesla,US,ConocoPhillips,UK,1526000,6647297
+Renault,SPA,Exxon Mobil,CHI,1527000,7273935
+Exxon Mobil,SP,Exxon Mobil,UK,1528000,2912755
+ConocoPhillips,SP,Altaran,ITA,1529000,9705086
+Altaran,FR,Elon Musk,SWI,1530000,1513515
+McKesson,US,Nissan,FR,1531000,6876505
+Chevron,US,Walmart,UK,1532000,9168341
+Activision Blizard,SPA,Exxon Mobil,ITA,1533000,8358492
+Renault,SWI,Walmart,UK,1534000,6740873
+ConocoPhillips,SWI,McKesson,UK,1535000,3280086
+Renault,CHI,Nissan,JAP,1536000,3179143
+Laurent Alexandre,SPA,Walmart,ITA,1537000,3165334
+Laurent Alexandre,US,Renault,SPA,1538000,7825875
+Laurent Alexandre,SWI,Tesla,CHI,1539000,6692030
+Laurent Alexandre,SPA,McKesson,FR,1540000,9904294
+Nissan,US,Altaran,UK,1541000,8658818
+Altaran,SP,Walmart,ITA,1542000,9301192
+Nissan,FR,Activision Blizard,JAP,1543000,6539312
+General Motos,JAP,Activision Blizard,SWI,1544000,3848229
+Tesla,UK,Chevron,SP,1545000,4067544
+Nissan,US,Elon Musk,GER,1546000,3241445
+John Coulberg,ITA,Nissan,US,1547000,3098798
+McKesson,SP,McKesson,JAP,1548000,9779093
+McKesson,FR,ConocoPhillips,UK,1549000,7038973
+Tesla,SP,Laurent Alexandre,ITA,1550000,2132034
+Walmart,UK,Chevron,US,1551000,7643940
+Nissan,JAP,Activision Blizard,GER,1552000,3728521
+McKesson,FR,John Coulberg,SP,1553000,2463480
+Tesla,JAP,Nissan,SPA,1554000,1845691
+ConocoPhillips,FR,John Coulberg,UK,1555000,6032124
+John Coulberg,SWI,John Coulberg,ITA,1556000,8040180
+Elon Musk,SPA,Altaran,US,1557000,2262855
+ConocoPhillips,ITA,Walmart,ITA,1558000,8776684
+McKesson,FR,Renault,FR,1559000,8933395
+General Motos,JAP,Nissan,UK,1560000,9348090
+McKesson,FR,McKesson,UK,1561000,1714578
+McKesson,SPA,Altaran,SWI,1562000,858778
+McKesson,US,John Coulberg,UK,1563000,5944251
+Altaran,ITA,Tesla,CHI,1564000,5691443
+Walmart,SP,General Motos,ITA,1565000,8792576
+Renault,SP,Activision Blizard,CHI,1566000,7388622
+Activision Blizard,ITA,Walmart,SPA,1567000,5789391
+Tesla,SPA,Tesla,CHI,1568000,7008441
+Exxon Mobil,FR,Chevron,US,1569000,2909180
+Tesla,CHI,Chevron,CHI,1570000,7538065
+John Coulberg,US,Elon Musk,FR,1571000,6923448
+Activision Blizard,UK,John Coulberg,US,1572000,6786993
+Nissan,SP,Tesla,UK,1573000,2762140
+Exxon Mobil,FR,Nissan,UK,1574000,939355
+Walmart,JAP,Renault,GER,1575000,5581299
+Walmart,SP,Activision Blizard,GER,1576000,1417891
+ConocoPhillips,GER,Chevron,JAP,1577000,3014714
+Elon Musk,JAP,McKesson,SWI,1578000,9414404
+McKesson,SP,Elon Musk,CHI,1579000,2008405
+Exxon Mobil,GER,Nissan,UK,1580000,7541468
+Altaran,SWI,McKesson,ITA,1581000,7162915
+Chevron,JAP,McKesson,SPA,1582000,383401
+McKesson,JAP,Laurent Alexandre,CHI,1583000,4945766
+Altaran,GER,Activision Blizard,JAP,1584000,6176648
+Nissan,SWI,Chevron,UK,1585000,3577225
+John Coulberg,US,John Coulberg,UK,1586000,2893449
+Activision Blizard,FR,McKesson,CHI,1587000,8659148
+McKesson,JAP,Chevron,CHI,1588000,1313403
+Nissan,GER,Altaran,UK,1589000,5414249
+McKesson,SWI,John Coulberg,FR,1590000,4618018
+Elon Musk,SP,Tesla,JAP,1591000,6993169
+Chevron,SP,Exxon Mobil,SWI,1592000,4997637
+Chevron,CHI,Tesla,US,1593000,3600471
+General Motos,SP,McKesson,SP,1594000,2643047
+General Motos,UK,McKesson,CHI,1595000,1299652
+General Motos,SP,McKesson,US,1596000,8790562
+ConocoPhillips,CHI,Altaran,US,1597000,5787832
+Nissan,FR,Tesla,US,1598000,7631200
+Elon Musk,UK,Walmart,SPA,1599000,575872
+Nissan,ITA,ConocoPhillips,FR,1600000,2320945
+John Coulberg,ITA,Renault,GER,1601000,26582
+Renault,US,General Motos,CHI,1602000,6760977
+General Motos,UK,Nissan,SWI,1603000,181894
+Elon Musk,FR,Exxon Mobil,GER,1604000,1602065
+Elon Musk,GER,Tesla,SWI,1605000,4364596
+Activision Blizard,FR,Nissan,ITA,1606000,3361309
+Laurent Alexandre,UK,Exxon Mobil,US,1607000,1778133
+Nissan,CHI,Elon Musk,US,1608000,359615
+Walmart,SP,Altaran,CHI,1609000,2215630
+Elon Musk,SP,Renault,FR,1610000,3830049
+Tesla,GER,Tesla,UK,1611000,1569427
+Activision Blizard,US,ConocoPhillips,SWI,1612000,2607175
+Exxon Mobil,FR,Altaran,FR,1613000,7002410
+Altaran,GER,Tesla,FR,1614000,5383083
+Chevron,SPA,Renault,GER,1615000,4332846
+Activision Blizard,SP,Nissan,SP,1616000,462104
+Renault,SPA,Exxon Mobil,UK,1617000,2179699
+Walmart,CHI,Elon Musk,JAP,1618000,1619350
+Renault,UK,ConocoPhillips,FR,1619000,7224594
+Laurent Alexandre,SWI,Renault,CHI,1620000,6289809
+Altaran,GER,Renault,UK,1621000,2924258
+Nissan,SWI,Chevron,US,1622000,3945827
+John Coulberg,JAP,ConocoPhillips,UK,1623000,8002887
+Activision Blizard,SP,Laurent Alexandre,SP,1624000,9557008
+Renault,SP,Exxon Mobil,GER,1625000,1329436
+Tesla,JAP,Exxon Mobil,GER,1626000,2656419
+Tesla,SP,John Coulberg,JAP,1627000,7861896
+Renault,US,Activision Blizard,US,1628000,2274912
+Renault,ITA,ConocoPhillips,SP,1629000,3917078
+Tesla,SWI,Laurent Alexandre,UK,1630000,6903789
+Chevron,SPA,Exxon Mobil,UK,1631000,3133286
+Nissan,JAP,General Motos,CHI,1632000,9842568
+General Motos,GER,McKesson,SP,1633000,1132089
+McKesson,CHI,Elon Musk,UK,1634000,4486838
+John Coulberg,UK,Activision Blizard,CHI,1635000,5170398
+Laurent Alexandre,CHI,ConocoPhillips,UK,1636000,7556049
+Elon Musk,ITA,Walmart,SPA,1637000,8125772
+Elon Musk,SP,Nissan,US,1638000,2429586
+General Motos,SWI,Exxon Mobil,UK,1639000,4341805
+General Motos,UK,Laurent Alexandre,SPA,1640000,3806818
+ConocoPhillips,UK,Activision Blizard,US,1641000,8598315
+Laurent Alexandre,GER,Exxon Mobil,US,1642000,4833400
+ConocoPhillips,SWI,Renault,SP,1643000,4168335
+Altaran,GER,Walmart,UK,1644000,877135
+McKesson,ITA,Renault,GER,1645000,8127639
+Altaran,UK,Elon Musk,ITA,1646000,4558338
+McKesson,CHI,ConocoPhillips,SWI,1647000,128568
+Chevron,GER,Walmart,CHI,1648000,7941728
+John Coulberg,US,Walmart,ITA,1649000,7980281
+John Coulberg,US,Chevron,UK,1650000,6657729
+Exxon Mobil,SPA,Tesla,GER,1651000,2800610
+ConocoPhillips,US,Chevron,GER,1652000,4971954
+Chevron,UK,Activision Blizard,ITA,1653000,3506563
+Renault,ITA,John Coulberg,US,1654000,9387354
+Altaran,GER,Nissan,CHI,1655000,145423
+Exxon Mobil,SPA,Altaran,SWI,1656000,663074
+ConocoPhillips,US,Nissan,CHI,1657000,3909410
+Renault,US,Nissan,GER,1658000,5786251
+Nissan,JAP,Walmart,JAP,1659000,3817697
+Walmart,SP,Renault,US,1660000,549023
+Activision Blizard,FR,Elon Musk,ITA,1661000,897144
+Altaran,US,ConocoPhillips,CHI,1662000,8498251
+Chevron,UK,Nissan,FR,1663000,8445150
+Activision Blizard,JAP,Walmart,GER,1664000,6781835
+Renault,SP,Elon Musk,SWI,1665000,4944091
+Altaran,SP,Chevron,GER,1666000,7686458
+Laurent Alexandre,UK,Tesla,SP,1667000,2901130
+Nissan,SP,Chevron,SWI,1668000,5190024
+Laurent Alexandre,JAP,Nissan,SPA,1669000,3558459
+Chevron,UK,Nissan,CHI,1670000,1138792
+Tesla,SP,Chevron,GER,1671000,5350787
+General Motos,SPA,General Motos,GER,1672000,5578823
+Elon Musk,CHI,Activision Blizard,SP,1673000,909889
+McKesson,FR,General Motos,ITA,1674000,5997790
+General Motos,FR,John Coulberg,GER,1675000,5347258
+John Coulberg,JAP,Renault,JAP,1676000,2257459
+Altaran,SP,Altaran,SP,1677000,2298918
+John Coulberg,CHI,Walmart,SP,1678000,7502476
+Walmart,ITA,John Coulberg,US,1679000,3348819
+Tesla,UK,ConocoPhillips,SP,1680000,3919711
+Walmart,JAP,Altaran,ITA,1681000,1866658
+McKesson,JAP,General Motos,UK,1682000,1744922
+Altaran,FR,McKesson,UK,1683000,3239232
+Elon Musk,UK,Laurent Alexandre,GER,1684000,4882621
+Altaran,JAP,Exxon Mobil,ITA,1685000,4034263
+Altaran,JAP,General Motos,SPA,1686000,6587758
+Activision Blizard,SPA,ConocoPhillips,SP,1687000,8341506
+General Motos,UK,Activision Blizard,FR,1688000,6995661
+Nissan,US,Exxon Mobil,JAP,1689000,6795854
+Exxon Mobil,SWI,McKesson,FR,1690000,587801
+John Coulberg,ITA,Activision Blizard,SWI,1691000,843694
+Chevron,GER,Nissan,SWI,1692000,9512023
+McKesson,UK,McKesson,GER,1693000,1229246
+General Motos,SPA,ConocoPhillips,SPA,1694000,3780603
+ConocoPhillips,SWI,Elon Musk,CHI,1695000,9062643
+Walmart,ITA,John Coulberg,US,1696000,5536679
+Exxon Mobil,SPA,John Coulberg,FR,1697000,1992510
+General Motos,GER,Walmart,JAP,1698000,9263816
+Chevron,US,ConocoPhillips,SPA,1699000,7395046
+Renault,GER,Walmart,SP,1700000,2958264
+Renault,CHI,Activision Blizard,JAP,1701000,734662
+Elon Musk,SP,Activision Blizard,ITA,1702000,6010698
+Elon Musk,UK,Renault,ITA,1703000,2163123
+Exxon Mobil,US,Exxon Mobil,GER,1704000,3742354
+Renault,US,General Motos,JAP,1705000,5562831
+Renault,US,Laurent Alexandre,SP,1706000,5318313
+Nissan,ITA,Renault,UK,1707000,5955675
+General Motos,UK,Elon Musk,SWI,1708000,717941
+McKesson,SWI,ConocoPhillips,FR,1709000,3866261
+Activision Blizard,JAP,Exxon Mobil,GER,1710000,8500615
+Walmart,FR,Tesla,GER,1711000,859312
+McKesson,SWI,Activision Blizard,ITA,1712000,6243171
+Tesla,UK,Activision Blizard,JAP,1713000,2182616
+ConocoPhillips,JAP,Renault,SP,1714000,596479
+Exxon Mobil,UK,John Coulberg,SWI,1715000,5237501
+General Motos,GER,Walmart,SWI,1716000,8941118
+Laurent Alexandre,US,ConocoPhillips,SP,1717000,4616235
+Laurent Alexandre,ITA,ConocoPhillips,SWI,1718000,351385
+Laurent Alexandre,US,Activision Blizard,JAP,1719000,9790781
+ConocoPhillips,UK,Nissan,CHI,1720000,3254585
+McKesson,JAP,Tesla,GER,1721000,4642269
+Tesla,ITA,Chevron,ITA,1722000,5746052
+ConocoPhillips,US,John Coulberg,SP,1723000,5826213
+Laurent Alexandre,FR,Chevron,SPA,1724000,5295261
+Altaran,SPA,ConocoPhillips,JAP,1725000,4587037
+Tesla,FR,Exxon Mobil,FR,1726000,9822896
+Altaran,FR,Chevron,FR,1727000,53896
+Altaran,SP,ConocoPhillips,ITA,1728000,1609609
+Activision Blizard,SP,Altaran,SWI,1729000,3666008
+Altaran,US,Altaran,SPA,1730000,8333120
+Activision Blizard,US,Chevron,SWI,1731000,5572415
+Exxon Mobil,FR,Nissan,US,1732000,5521155
+Nissan,CHI,Activision Blizard,ITA,1733000,6452191
+Laurent Alexandre,CHI,Chevron,SP,1734000,8088551
+John Coulberg,ITA,Exxon Mobil,CHI,1735000,7479236
+Walmart,UK,Tesla,SP,1736000,6527686
+Tesla,ITA,Chevron,SPA,1737000,3694239
+Elon Musk,SPA,General Motos,US,1738000,8995593
+Renault,SP,McKesson,SPA,1739000,292520
+Walmart,CHI,Walmart,ITA,1740000,8086491
+Elon Musk,SPA,Altaran,JAP,1741000,5244909
+Walmart,US,Exxon Mobil,JAP,1742000,1879237
+Nissan,US,Exxon Mobil,GER,1743000,9033731
+Altaran,CHI,Altaran,SWI,1744000,4240921
+McKesson,CHI,Altaran,JAP,1745000,1350308
+McKesson,UK,Walmart,ITA,1746000,1230824
+John Coulberg,SP,Nissan,JAP,1747000,2936333
+Chevron,SP,Tesla,CHI,1748000,2681903
+John Coulberg,UK,Renault,JAP,1749000,4436765
+ConocoPhillips,SPA,Tesla,UK,1750000,4713947
+General Motos,CHI,Renault,ITA,1751000,9322123
+Tesla,SP,Walmart,US,1752000,2973235
+Chevron,GER,Laurent Alexandre,SPA,1753000,9861211
+Tesla,GER,Chevron,UK,1754000,5438062
+Altaran,FR,ConocoPhillips,CHI,1755000,6822343
+Laurent Alexandre,UK,McKesson,SWI,1756000,781623
+Chevron,SPA,John Coulberg,SWI,1757000,6578935
+Laurent Alexandre,GER,Chevron,GER,1758000,2681496
+Chevron,CHI,Laurent Alexandre,ITA,1759000,8325191
+Tesla,GER,Chevron,UK,1760000,8107324
+Chevron,SPA,Exxon Mobil,JAP,1761000,9431795
+John Coulberg,CHI,Altaran,UK,1762000,888349
+Elon Musk,ITA,Altaran,UK,1763000,3979261
+Walmart,SPA,Tesla,SP,1764000,8778651
+Chevron,SP,Renault,SPA,1765000,1529089
+Nissan,UK,Renault,JAP,1766000,8235088
+Altaran,GER,Nissan,GER,1767000,4731065
+Tesla,GER,Walmart,SPA,1768000,360324
+Laurent Alexandre,ITA,Walmart,JAP,1769000,3235105
+McKesson,ITA,Renault,JAP,1770000,4221606
+Nissan,UK,Activision Blizard,GER,1771000,8847606
+Altaran,SP,Renault,GER,1772000,128087
+Renault,UK,Walmart,UK,1773000,6185358
+Nissan,US,Tesla,JAP,1774000,3686576
+Activision Blizard,US,Laurent Alexandre,JAP,1775000,9323807
+Exxon Mobil,FR,Altaran,SPA,1776000,6262245
+Altaran,US,General Motos,SP,1777000,8720499
+Nissan,CHI,ConocoPhillips,US,1778000,1526744
+John Coulberg,SP,McKesson,CHI,1779000,8159018
+Activision Blizard,ITA,John Coulberg,SWI,1780000,3677395
+John Coulberg,ITA,Altaran,GER,1781000,8120229
+Renault,SPA,ConocoPhillips,US,1782000,2163430
+Exxon Mobil,UK,Chevron,JAP,1783000,7952114
+McKesson,SPA,Activision Blizard,ITA,1784000,1453366
+McKesson,SWI,McKesson,CHI,1785000,68232
+Elon Musk,SP,Nissan,GER,1786000,8558555
+Chevron,GER,Nissan,CHI,1787000,5706628
+Altaran,US,ConocoPhillips,GER,1788000,9269112
+John Coulberg,GER,ConocoPhillips,JAP,1789000,4131459
+Renault,JAP,Laurent Alexandre,FR,1790000,1656758
+Elon Musk,SPA,John Coulberg,SPA,1791000,2375317
+Activision Blizard,UK,Activision Blizard,JAP,1792000,5733264
+ConocoPhillips,JAP,Laurent Alexandre,UK,1793000,9266649
+Walmart,US,Exxon Mobil,SPA,1794000,3497424
+John Coulberg,US,McKesson,CHI,1795000,356853
+Laurent Alexandre,ITA,Altaran,SPA,1796000,4523415
+Elon Musk,GER,ConocoPhillips,SWI,1797000,1127139
+Elon Musk,JAP,Chevron,US,1798000,5038021
+Nissan,FR,Activision Blizard,ITA,1799000,4082668
+John Coulberg,UK,ConocoPhillips,US,1800000,3136718
+Laurent Alexandre,UK,Exxon Mobil,US,1801000,3018689
+Walmart,SPA,Chevron,SWI,1802000,8559971
+Renault,CHI,Walmart,SWI,1803000,526023
+Laurent Alexandre,US,Chevron,ITA,1804000,523933
+Walmart,GER,Activision Blizard,UK,1805000,7755422
+Chevron,UK,McKesson,SWI,1806000,9220960
+Laurent Alexandre,FR,McKesson,SWI,1807000,9603047
+Walmart,SP,Altaran,CHI,1808000,4308300
+Laurent Alexandre,ITA,John Coulberg,ITA,1809000,3331686
+ConocoPhillips,JAP,Laurent Alexandre,UK,1810000,4695790
+Renault,FR,Nissan,UK,1811000,2780754
+Elon Musk,GER,Nissan,SWI,1812000,3574514
+Altaran,SPA,Renault,SP,1813000,2548117
+Elon Musk,SWI,ConocoPhillips,US,1814000,4745764
+ConocoPhillips,SWI,General Motos,SPA,1815000,7503447
+McKesson,CHI,Nissan,UK,1816000,9144421
+Exxon Mobil,SWI,Laurent Alexandre,CHI,1817000,2051166
+ConocoPhillips,SWI,Altaran,SWI,1818000,636881
+Tesla,ITA,Exxon Mobil,UK,1819000,1157945
+Nissan,GER,Renault,SWI,1820000,7973227
+Exxon Mobil,SWI,Nissan,SWI,1821000,5484301
+General Motos,JAP,General Motos,JAP,1822000,5013604
+Laurent Alexandre,UK,Laurent Alexandre,SWI,1823000,6327413
+McKesson,CHI,John Coulberg,US,1824000,2518202
+Tesla,SWI,McKesson,GER,1825000,1044429
+Activision Blizard,ITA,Walmart,FR,1826000,5930305
+Tesla,SPA,ConocoPhillips,FR,1827000,5431892
+Renault,US,McKesson,FR,1828000,7385055
+Renault,GER,Altaran,JAP,1829000,9572678
+Tesla,US,Exxon Mobil,GER,1830000,7006993
+Elon Musk,US,John Coulberg,SPA,1831000,4936029
+Tesla,ITA,John Coulberg,UK,1832000,6546157
+McKesson,FR,McKesson,GER,1833000,4343688
+McKesson,UK,General Motos,UK,1834000,6384642
+Chevron,GER,Activision Blizard,UK,1835000,6563923
+Elon Musk,GER,McKesson,GER,1836000,4597657
+Chevron,UK,Chevron,SP,1837000,7610314
+ConocoPhillips,ITA,John Coulberg,ITA,1838000,2349310
+Tesla,GER,McKesson,SPA,1839000,5334138
+Chevron,SPA,Altaran,UK,1840000,8557052
+Laurent Alexandre,SWI,John Coulberg,US,1841000,7447092
+ConocoPhillips,SWI,Nissan,UK,1842000,3000261
+Altaran,FR,John Coulberg,GER,1843000,1363628
+Activision Blizard,SPA,Elon Musk,JAP,1844000,7593504
+Walmart,FR,Altaran,SWI,1845000,7942858
+General Motos,SPA,Tesla,ITA,1846000,9475992
+John Coulberg,JAP,Renault,ITA,1847000,1383600
+Tesla,ITA,Walmart,US,1848000,6230605
+Altaran,ITA,Altaran,CHI,1849000,5868391
+McKesson,FR,Activision Blizard,SWI,1850000,1843624
+Exxon Mobil,SPA,Renault,FR,1851000,1826382
+Renault,SP,Tesla,ITA,1852000,9933772
+Elon Musk,FR,Exxon Mobil,ITA,1853000,1952129
+Elon Musk,JAP,Tesla,JAP,1854000,9614050
+Activision Blizard,FR,Walmart,JAP,1855000,1856726
+Elon Musk,CHI,John Coulberg,ITA,1856000,1523552
+Walmart,FR,Walmart,UK,1857000,3768490
+Nissan,ITA,General Motos,UK,1858000,7926747
+Renault,SWI,Altaran,FR,1859000,249426
+Nissan,US,McKesson,SWI,1860000,922574
+Elon Musk,SPA,Laurent Alexandre,FR,1861000,2664224
+General Motos,ITA,Renault,UK,1862000,2065095
+Activision Blizard,CHI,Exxon Mobil,FR,1863000,5280253
+Laurent Alexandre,US,ConocoPhillips,US,1864000,345135
+Chevron,SPA,Nissan,SWI,1865000,4939079
+Tesla,GER,John Coulberg,GER,1866000,8555828
+McKesson,SWI,ConocoPhillips,SWI,1867000,2050134
+Altaran,CHI,Chevron,CHI,1868000,6901020
+Renault,US,General Motos,SPA,1869000,2634964
+Renault,GER,Altaran,SP,1870000,2301691
+John Coulberg,FR,Tesla,CHI,1871000,3002325
+Laurent Alexandre,SP,Tesla,GER,1872000,6315051
+Laurent Alexandre,ITA,Altaran,ITA,1873000,8490927
+Walmart,CHI,Elon Musk,US,1874000,7917587
+McKesson,UK,Elon Musk,CHI,1875000,3458313
+ConocoPhillips,SPA,Elon Musk,JAP,1876000,1688855
+Altaran,SPA,McKesson,ITA,1877000,2463396
+General Motos,SPA,John Coulberg,SP,1878000,8338465
+Laurent Alexandre,GER,Altaran,JAP,1879000,5579819
+Laurent Alexandre,SP,Elon Musk,CHI,1880000,4574591
+Activision Blizard,UK,ConocoPhillips,SPA,1881000,7164998
+Chevron,FR,Tesla,SWI,1882000,3810351
+Chevron,SPA,McKesson,UK,1883000,1479336
+John Coulberg,UK,Renault,US,1884000,9851978
+Tesla,CHI,Chevron,SPA,1885000,6825636
+John Coulberg,ITA,General Motos,ITA,1886000,7018272
+Renault,SWI,Walmart,CHI,1887000,8997587
+Elon Musk,GER,Renault,SP,1888000,3125037
+Tesla,SWI,Altaran,UK,1889000,7875232
+Tesla,US,Activision Blizard,US,1890000,3239800
+General Motos,SP,Walmart,GER,1891000,3772568
+John Coulberg,JAP,Renault,UK,1892000,42442
+Elon Musk,GER,Exxon Mobil,SP,1893000,2292392
+McKesson,SP,Altaran,CHI,1894000,8442806
+Renault,JAP,Elon Musk,CHI,1895000,1430464
+Renault,US,McKesson,SP,1896000,2063461
+Exxon Mobil,ITA,Chevron,US,1897000,6547325
+Walmart,FR,Laurent Alexandre,UK,1898000,1208326
+Tesla,FR,McKesson,US,1899000,2703426
+Elon Musk,FR,Tesla,SPA,1900000,6972478
+Activision Blizard,JAP,Renault,FR,1901000,401918
+Altaran,SP,Nissan,SPA,1902000,894006
+Laurent Alexandre,ITA,Altaran,ITA,1903000,2287600
+Chevron,SP,John Coulberg,JAP,1904000,2449737
+McKesson,SP,Exxon Mobil,SPA,1905000,8941798
+Chevron,FR,John Coulberg,CHI,1906000,59084
+Renault,SPA,General Motos,JAP,1907000,2617705
+John Coulberg,US,McKesson,SP,1908000,8603018
+John Coulberg,SWI,Altaran,SWI,1909000,8048226
+Renault,SWI,Tesla,US,1910000,1673479
+Chevron,SWI,Laurent Alexandre,SPA,1911000,3326655
+Nissan,CHI,John Coulberg,ITA,1912000,3871530
+Walmart,CHI,Altaran,ITA,1913000,1705989
+Altaran,SPA,Exxon Mobil,FR,1914000,8112948
+Renault,SWI,John Coulberg,SP,1915000,3381116
+Elon Musk,US,Laurent Alexandre,US,1916000,8940246
+Nissan,JAP,General Motos,SPA,1917000,6659193
+McKesson,FR,Renault,JAP,1918000,785922
+John Coulberg,GER,McKesson,US,1919000,6633706
+Elon Musk,SWI,Tesla,JAP,1920000,8560133
+Activision Blizard,GER,Activision Blizard,JAP,1921000,4947122
+Elon Musk,SPA,Chevron,GER,1922000,4784998
+John Coulberg,SWI,Laurent Alexandre,ITA,1923000,319843
+ConocoPhillips,SP,General Motos,ITA,1924000,1524401
+Altaran,UK,Exxon Mobil,SPA,1925000,2376327
+Exxon Mobil,SWI,General Motos,ITA,1926000,4263762
+Activision Blizard,US,Laurent Alexandre,ITA,1927000,4025826
+Laurent Alexandre,GER,McKesson,UK,1928000,6523325
+Activision Blizard,ITA,Laurent Alexandre,FR,1929000,1860766
+John Coulberg,JAP,Tesla,SP,1930000,500439
+Tesla,JAP,John Coulberg,SWI,1931000,5531169
+Nissan,UK,Laurent Alexandre,CHI,1932000,7296639
+Altaran,UK,Chevron,GER,1933000,3229574
+Elon Musk,SP,John Coulberg,US,1934000,3421361
+Tesla,JAP,ConocoPhillips,US,1935000,3847386
+John Coulberg,JAP,Activision Blizard,CHI,1936000,3828000
+Altaran,GER,Exxon Mobil,JAP,1937000,281612
+Tesla,ITA,Activision Blizard,JAP,1938000,7341729
+Renault,GER,Altaran,GER,1939000,4956669
+Exxon Mobil,SP,Elon Musk,JAP,1940000,9057391
+Tesla,UK,General Motos,GER,1941000,3297637
+Tesla,JAP,Tesla,UK,1942000,7772116
+John Coulberg,CHI,McKesson,ITA,1943000,235649
+ConocoPhillips,JAP,Tesla,US,1944000,7669653
+Altaran,US,Nissan,ITA,1945000,9214056
+Activision Blizard,SWI,ConocoPhillips,UK,1946000,5261620
+Laurent Alexandre,SPA,Exxon Mobil,GER,1947000,5243758
+Renault,UK,Exxon Mobil,ITA,1948000,1744124
+John Coulberg,UK,McKesson,US,1949000,2273206
+McKesson,GER,McKesson,JAP,1950000,5457375
+Tesla,FR,Renault,ITA,1951000,388217
+ConocoPhillips,US,General Motos,JAP,1952000,5822650
+Exxon Mobil,UK,General Motos,FR,1953000,3611421
+Chevron,CHI,John Coulberg,SP,1954000,7207132
+Altaran,CHI,Tesla,SWI,1955000,9863140
+Nissan,SP,Nissan,UK,1956000,2578478
+Altaran,SP,Altaran,CHI,1957000,359120
+General Motos,GER,General Motos,US,1958000,662194
+Altaran,JAP,McKesson,GER,1959000,4432099
+Chevron,UK,Laurent Alexandre,SP,1960000,7171992
+Laurent Alexandre,GER,General Motos,GER,1961000,2756024
+McKesson,SP,McKesson,SPA,1962000,2104618
+McKesson,ITA,Renault,SP,1963000,8194446
+Walmart,SWI,Laurent Alexandre,SPA,1964000,1833381
+Activision Blizard,FR,Laurent Alexandre,SPA,1965000,370459
+General Motos,JAP,Renault,SPA,1966000,2122461
+John Coulberg,UK,ConocoPhillips,FR,1967000,4362027
+Elon Musk,US,Laurent Alexandre,JAP,1968000,6544363
+John Coulberg,JAP,Tesla,UK,1969000,6385846
+Renault,ITA,Laurent Alexandre,ITA,1970000,1703199
+John Coulberg,SPA,McKesson,US,1971000,7131427
+Renault,SPA,ConocoPhillips,FR,1972000,5907427
+John Coulberg,GER,Altaran,SP,1973000,3492703
+Elon Musk,SPA,Tesla,UK,1974000,5037644
+General Motos,CHI,McKesson,FR,1975000,4789181
+Laurent Alexandre,US,Nissan,CHI,1976000,535050
+Altaran,JAP,Laurent Alexandre,ITA,1977000,5543643
+Nissan,SP,Elon Musk,US,1978000,2307175
+Laurent Alexandre,SPA,Altaran,SWI,1979000,6916518
+ConocoPhillips,JAP,Altaran,ITA,1980000,2806833
+Activision Blizard,US,Chevron,UK,1981000,7154411
+Activision Blizard,CHI,Chevron,SWI,1982000,5443624
+Nissan,FR,Renault,SPA,1983000,1631678
+ConocoPhillips,UK,General Motos,GER,1984000,9518842
+ConocoPhillips,GER,Chevron,SWI,1985000,3951608
+Activision Blizard,SWI,Exxon Mobil,SWI,1986000,3418874
+Nissan,UK,ConocoPhillips,SPA,1987000,7391538
+ConocoPhillips,US,ConocoPhillips,FR,1988000,9571587
+Elon Musk,UK,Nissan,SP,1989000,5556376
+Chevron,CHI,John Coulberg,SPA,1990000,4632588
+McKesson,US,McKesson,ITA,1991000,4520191
+Renault,SP,Renault,SWI,1992000,3387493
+Nissan,GER,Chevron,ITA,1993000,3376645
+Elon Musk,US,General Motos,FR,1994000,4396639
+Chevron,UK,John Coulberg,GER,1995000,2107542
+Elon Musk,UK,Tesla,SWI,1996000,5764857
+Chevron,JAP,General Motos,SPA,1997000,1413829
+Renault,UK,Exxon Mobil,CHI,1998000,7946335
+General Motos,UK,General Motos,JAP,1999000,4162543
+Activision Blizard,FR,General Motos,UK,2000000,6860631
+Renault,US,Activision Blizard,SWI,2001000,7027319
+Laurent Alexandre,FR,Altaran,ITA,2002000,2211575
+John Coulberg,GER,John Coulberg,GER,2003000,8111713
+Nissan,UK,Nissan,UK,2004000,5009969
+Elon Musk,US,Chevron,UK,2005000,21702
+Activision Blizard,ITA,Elon Musk,SWI,2006000,9095673
+Exxon Mobil,CHI,Chevron,FR,2007000,4779285
+Chevron,CHI,Nissan,SP,2008000,6355291
+Activision Blizard,CHI,Laurent Alexandre,UK,2009000,9588394
+Chevron,UK,General Motos,GER,2010000,6751949
+Activision Blizard,SWI,Walmart,SPA,2011000,9797259
+Nissan,FR,Walmart,FR,2012000,4814333
+Nissan,SPA,Laurent Alexandre,UK,2013000,4444884
+Tesla,US,John Coulberg,JAP,2014000,2471854
+Tesla,GER,Exxon Mobil,UK,2015000,7149508
+ConocoPhillips,CHI,John Coulberg,UK,2016000,9211608
+Activision Blizard,SPA,Renault,US,2017000,3873095
+Walmart,CHI,Laurent Alexandre,SWI,2018000,9277407
+Nissan,GER,Exxon Mobil,SP,2019000,9056885
+Renault,SPA,Tesla,FR,2020000,9429002
+ConocoPhillips,FR,Renault,US,2021000,2877220
+McKesson,JAP,Chevron,GER,2022000,1326164
+General Motos,CHI,McKesson,SWI,2023000,5232725
+Renault,US,John Coulberg,FR,2024000,2639843
+John Coulberg,US,Elon Musk,GER,2025000,6111362
+Renault,UK,Laurent Alexandre,SWI,2026000,501371
+Exxon Mobil,SPA,Altaran,CHI,2027000,54569
+Laurent Alexandre,ITA,Walmart,ITA,2028000,7584159
+Chevron,US,Elon Musk,GER,2029000,9037736
+John Coulberg,GER,Walmart,UK,2030000,9487297
+Elon Musk,FR,Tesla,SWI,2031000,5987314
+John Coulberg,SP,Nissan,GER,2032000,7227972
+General Motos,FR,John Coulberg,UK,2033000,6391178
+General Motos,UK,Altaran,SPA,2034000,9602158
+John Coulberg,SPA,Activision Blizard,ITA,2035000,9717112
+John Coulberg,SPA,McKesson,US,2036000,6520371
+McKesson,JAP,Exxon Mobil,SP,2037000,888828
+General Motos,ITA,John Coulberg,US,2038000,6061972
+Exxon Mobil,GER,Exxon Mobil,JAP,2039000,4133178
+ConocoPhillips,US,Chevron,US,2040000,8353333
+Altaran,UK,Renault,SP,2041000,5865658
+John Coulberg,GER,Elon Musk,FR,2042000,4956625
+Walmart,ITA,Chevron,ITA,2043000,9158868
+Laurent Alexandre,SPA,Nissan,ITA,2044000,7234250
+Tesla,CHI,Activision Blizard,UK,2045000,7438183
+Activision Blizard,UK,Activision Blizard,UK,2046000,9031415
+Exxon Mobil,CHI,Chevron,ITA,2047000,2667693
+Laurent Alexandre,FR,McKesson,JAP,2048000,958825
+Walmart,US,Renault,ITA,2049000,8139595
+McKesson,JAP,Nissan,SPA,2050000,8230242
+General Motos,UK,Altaran,GER,2051000,6530843
+Chevron,SPA,Chevron,ITA,2052000,7030007
+McKesson,FR,Exxon Mobil,GER,2053000,4952369
+Activision Blizard,JAP,Tesla,CHI,2054000,8949655
+Laurent Alexandre,GER,John Coulberg,SP,2055000,501043
+General Motos,GER,Elon Musk,JAP,2056000,7077521
+John Coulberg,SWI,Altaran,GER,2057000,4723818
+Altaran,US,General Motos,SP,2058000,5834113
+Exxon Mobil,SPA,John Coulberg,SP,2059000,9168354
+Altaran,US,General Motos,CHI,2060000,7867142
+Renault,SWI,Altaran,FR,2061000,409348
+Walmart,SP,Laurent Alexandre,FR,2062000,7662692
+Activision Blizard,SWI,John Coulberg,CHI,2063000,6543490
+Laurent Alexandre,SP,Renault,ITA,2064000,5687528
+Laurent Alexandre,FR,Elon Musk,GER,2065000,6041246
+John Coulberg,FR,McKesson,FR,2066000,3111479
+Nissan,CHI,Activision Blizard,SWI,2067000,9912828
+Nissan,UK,Exxon Mobil,ITA,2068000,7482398
+Renault,US,Altaran,JAP,2069000,7497452
+Walmart,SP,Tesla,SP,2070000,3023989
+Altaran,SP,McKesson,UK,2071000,7331639
+Elon Musk,FR,Nissan,FR,2072000,516992
+Chevron,GER,ConocoPhillips,CHI,2073000,2576017
+Walmart,SP,Elon Musk,FR,2074000,7214890
+McKesson,GER,ConocoPhillips,FR,2075000,4308247
+Tesla,SPA,Walmart,JAP,2076000,9555311
+McKesson,SPA,ConocoPhillips,US,2077000,2435746
+Tesla,SWI,John Coulberg,ITA,2078000,5179090
+Laurent Alexandre,SP,McKesson,JAP,2079000,8159519
+Tesla,JAP,Renault,GER,2080000,6621372
+McKesson,GER,Chevron,SP,2081000,6099762
+Elon Musk,SPA,Altaran,CHI,2082000,3676194
+General Motos,UK,Activision Blizard,US,2083000,6220750
+Nissan,SP,John Coulberg,GER,2084000,5369616
+Nissan,UK,General Motos,SWI,2085000,7721795
+McKesson,SP,Elon Musk,UK,2086000,5438142
+Nissan,JAP,Exxon Mobil,UK,2087000,4162880
+Exxon Mobil,UK,Tesla,UK,2088000,8268582
+McKesson,GER,Laurent Alexandre,SP,2089000,978188
+General Motos,FR,Altaran,SPA,2090000,1530011
+McKesson,SP,Elon Musk,FR,2091000,2555830
+Laurent Alexandre,FR,Chevron,SWI,2092000,1884851
+John Coulberg,SP,Renault,CHI,2093000,5708038
+General Motos,GER,Renault,SWI,2094000,4270534
+Activision Blizard,SWI,Altaran,SPA,2095000,7250909
+Nissan,US,Nissan,UK,2096000,8625504
+Activision Blizard,SPA,Nissan,CHI,2097000,2517634
+Renault,UK,Nissan,SPA,2098000,5012350
+Elon Musk,ITA,Activision Blizard,JAP,2099000,4645176
+Laurent Alexandre,SP,Renault,UK,2100000,6674819
+Altaran,GER,Tesla,UK,2101000,1224539
+John Coulberg,GER,Elon Musk,GER,2102000,1096397
+Walmart,SPA,Tesla,CHI,2103000,2502034
+John Coulberg,UK,Laurent Alexandre,UK,2104000,3704630
+Chevron,UK,Activision Blizard,FR,2105000,4176504
+Chevron,US,ConocoPhillips,ITA,2106000,997080
+Walmart,JAP,Elon Musk,SWI,2107000,6696577
+McKesson,CHI,Laurent Alexandre,UK,2108000,772165
+Elon Musk,FR,Exxon Mobil,UK,2109000,5843490
+Exxon Mobil,SP,Chevron,ITA,2110000,7037045
+Activision Blizard,US,Exxon Mobil,US,2111000,9703667
+Elon Musk,GER,Altaran,ITA,2112000,3317115
+Exxon Mobil,FR,Walmart,CHI,2113000,5157996
+Nissan,SWI,ConocoPhillips,SP,2114000,7847980
+Exxon Mobil,ITA,Tesla,SPA,2115000,4790379
+Chevron,GER,Walmart,SP,2116000,7030657
+Exxon Mobil,SP,Nissan,ITA,2117000,7313499
+Activision Blizard,SPA,Elon Musk,FR,2118000,2301323
+McKesson,UK,McKesson,FR,2119000,7357104
+McKesson,JAP,Nissan,SPA,2120000,1854864
+ConocoPhillips,FR,Walmart,FR,2121000,9213563
+Altaran,US,Activision Blizard,JAP,2122000,817019
+Chevron,GER,John Coulberg,ITA,2123000,9790217
+Renault,GER,Tesla,JAP,2124000,6439136
+Exxon Mobil,SP,Elon Musk,FR,2125000,4535546
+Laurent Alexandre,CHI,General Motos,JAP,2126000,2351284
+Chevron,FR,Altaran,GER,2127000,8517974
+Elon Musk,JAP,Elon Musk,SPA,2128000,3051499
+Tesla,ITA,Exxon Mobil,SP,2129000,220322
+Walmart,SP,Walmart,ITA,2130000,4697114
+Laurent Alexandre,CHI,McKesson,FR,2131000,5018250
+Walmart,GER,McKesson,FR,2132000,1890878
+Nissan,JAP,Laurent Alexandre,SPA,2133000,3956364
+Renault,SP,Laurent Alexandre,SPA,2134000,8175496
+Exxon Mobil,FR,John Coulberg,GER,2135000,1287293
+Chevron,SPA,Elon Musk,JAP,2136000,1605605
+McKesson,SPA,John Coulberg,FR,2137000,2468178
+McKesson,UK,Activision Blizard,ITA,2138000,3168303
+Chevron,JAP,Nissan,GER,2139000,8891378
+General Motos,SWI,Walmart,ITA,2140000,4012627
+Laurent Alexandre,SPA,Tesla,SWI,2141000,1663642
+McKesson,UK,ConocoPhillips,CHI,2142000,8004492
+Altaran,JAP,McKesson,US,2143000,4083625
+Laurent Alexandre,UK,Tesla,US,2144000,8036016
+Activision Blizard,ITA,Exxon Mobil,SP,2145000,8750873
+Nissan,FR,Renault,ITA,2146000,5435151
+John Coulberg,UK,Altaran,GER,2147000,6032543
+Nissan,UK,John Coulberg,UK,2148000,945948
+Nissan,UK,Chevron,SWI,2149000,640563
+Altaran,SWI,Nissan,SPA,2150000,4041244
+Activision Blizard,CHI,Altaran,SP,2151000,4322265
+Exxon Mobil,US,Exxon Mobil,FR,2152000,8632837
+Activision Blizard,JAP,Altaran,US,2153000,6161396
+Walmart,US,Activision Blizard,SWI,2154000,9289068
+Elon Musk,SWI,Exxon Mobil,FR,2155000,5686721
+Elon Musk,ITA,Laurent Alexandre,FR,2156000,3464158
+Altaran,UK,General Motos,ITA,2157000,7076587
+Tesla,FR,John Coulberg,SWI,2158000,2446801
+Chevron,SWI,John Coulberg,US,2159000,8934291
+Altaran,GER,Chevron,JAP,2160000,4590786
+Activision Blizard,US,Tesla,SP,2161000,8213559
+Renault,SPA,Altaran,SP,2162000,5663434
+Nissan,GER,Elon Musk,ITA,2163000,7923606
+Activision Blizard,UK,Elon Musk,SPA,2164000,7950743
+Altaran,SPA,Elon Musk,SP,2165000,5454691
+Altaran,SWI,Nissan,GER,2166000,3624509
+Walmart,CHI,Tesla,UK,2167000,1122328
+Walmart,JAP,Walmart,JAP,2168000,4753232
+Altaran,SPA,Chevron,SPA,2169000,2960868
+Renault,CHI,Elon Musk,JAP,2170000,4642103
+Tesla,UK,Activision Blizard,US,2171000,1845072
+McKesson,UK,General Motos,SWI,2172000,2722826
+Elon Musk,FR,Tesla,SPA,2173000,1901517
+Chevron,CHI,Chevron,FR,2174000,7444812
+Elon Musk,SWI,Renault,FR,2175000,4007101
+General Motos,SPA,Altaran,FR,2176000,1249488
+Activision Blizard,UK,Renault,US,2177000,1662223
+ConocoPhillips,FR,McKesson,FR,2178000,1430398
+John Coulberg,UK,John Coulberg,UK,2179000,793389
+Activision Blizard,SP,General Motos,JAP,2180000,9910095
+Walmart,ITA,Nissan,SWI,2181000,3255737
+Walmart,SP,McKesson,JAP,2182000,4834915
+Chevron,US,Nissan,JAP,2183000,1073453
+General Motos,CHI,Laurent Alexandre,ITA,2184000,5785078
+Altaran,FR,Renault,SP,2185000,1647791
+Exxon Mobil,SWI,Walmart,FR,2186000,1958544
+Nissan,SPA,Walmart,UK,2187000,6682689
+ConocoPhillips,US,Walmart,FR,2188000,2489217
+Altaran,UK,Altaran,JAP,2189000,1773295
+Laurent Alexandre,SPA,Tesla,JAP,2190000,3870682
+Tesla,FR,Activision Blizard,SP,2191000,4751941
+Renault,ITA,Altaran,FR,2192000,7448774
+Laurent Alexandre,US,Exxon Mobil,UK,2193000,472078
+Walmart,US,Laurent Alexandre,SPA,2194000,9039000
+ConocoPhillips,JAP,Laurent Alexandre,JAP,2195000,2321773
+John Coulberg,JAP,Tesla,SP,2196000,1548511
+Activision Blizard,UK,Chevron,ITA,2197000,9456618
+Walmart,SWI,Altaran,FR,2198000,5337601
+Nissan,ITA,ConocoPhillips,US,2199000,9260731
+Renault,SWI,General Motos,SWI,2200000,8528077
+McKesson,UK,John Coulberg,UK,2201000,3263542
+Activision Blizard,SPA,Activision Blizard,JAP,2202000,7874530
+Tesla,SPA,Nissan,UK,2203000,8503700
+Activision Blizard,GER,John Coulberg,ITA,2204000,3695111
+John Coulberg,SP,Nissan,FR,2205000,9709440
+Renault,SPA,ConocoPhillips,US,2206000,5988283
+General Motos,JAP,John Coulberg,FR,2207000,2104447
+McKesson,SP,Altaran,GER,2208000,8965199
+Altaran,GER,Renault,SWI,2209000,8436501
+Altaran,CHI,General Motos,JAP,2210000,8450269
+Renault,GER,McKesson,SWI,2211000,7606813
+Altaran,UK,Chevron,US,2212000,5323647
+Tesla,JAP,Activision Blizard,UK,2213000,2714497
+Renault,US,McKesson,SPA,2214000,7575232
+Elon Musk,US,Walmart,UK,2215000,584126
+ConocoPhillips,US,Chevron,FR,2216000,1547060
+Nissan,SPA,ConocoPhillips,SWI,2217000,9924002
+Nissan,CHI,Nissan,SWI,2218000,6812420
+Tesla,CHI,Walmart,FR,2219000,8513679
+Tesla,GER,ConocoPhillips,JAP,2220000,3006665
+Nissan,JAP,Exxon Mobil,ITA,2221000,897560
+Exxon Mobil,SPA,Walmart,GER,2222000,90293
+ConocoPhillips,US,Chevron,ITA,2223000,4661323
+Altaran,GER,Tesla,GER,2224000,2834501
+McKesson,SP,Chevron,GER,2225000,6992651
+Exxon Mobil,CHI,Altaran,US,2226000,8313518
+John Coulberg,SPA,ConocoPhillips,JAP,2227000,375345
+Activision Blizard,SP,General Motos,UK,2228000,8046770
+Nissan,FR,Renault,FR,2229000,7345795
+Walmart,SPA,John Coulberg,SPA,2230000,3643624
+Activision Blizard,UK,McKesson,FR,2231000,4363552
+Exxon Mobil,SWI,Tesla,FR,2232000,5341589
+ConocoPhillips,GER,Activision Blizard,US,2233000,6645671
+Chevron,CHI,General Motos,UK,2234000,5028279
+Walmart,SPA,Laurent Alexandre,GER,2235000,1367854
+Renault,FR,Elon Musk,GER,2236000,5849215
+Chevron,SPA,Tesla,US,2237000,2602320
+McKesson,ITA,Elon Musk,SWI,2238000,3633483
+Activision Blizard,SWI,Tesla,SP,2239000,1555430
+General Motos,UK,Nissan,FR,2240000,1857459
+Elon Musk,ITA,Nissan,SWI,2241000,572554
+General Motos,US,ConocoPhillips,JAP,2242000,4020105
+General Motos,GER,ConocoPhillips,SWI,2243000,5400609
+Nissan,GER,McKesson,SP,2244000,8486498
+Nissan,ITA,Tesla,SWI,2245000,6692312
+ConocoPhillips,CHI,General Motos,UK,2246000,3895645
+Activision Blizard,SPA,Walmart,FR,2247000,7855017
+Tesla,ITA,ConocoPhillips,SWI,2248000,3461882
+Chevron,US,Elon Musk,SWI,2249000,8453477
+Renault,CHI,Tesla,UK,2250000,7356554
+General Motos,SPA,Walmart,FR,2251000,3369944
+Tesla,SP,General Motos,SP,2252000,7904970
+Tesla,SPA,Nissan,SPA,2253000,1258622
+Exxon Mobil,FR,Elon Musk,CHI,2254000,8208760
+ConocoPhillips,CHI,McKesson,CHI,2255000,9362989
+Chevron,JAP,Elon Musk,ITA,2256000,3597455
+General Motos,JAP,Walmart,SP,2257000,3580190
+Laurent Alexandre,JAP,ConocoPhillips,US,2258000,6538785
+Tesla,SP,Renault,SP,2259000,6914112
+Laurent Alexandre,UK,Altaran,JAP,2260000,3707175
+Elon Musk,US,Laurent Alexandre,SP,2261000,289895
+McKesson,SP,Walmart,SPA,2262000,7195385
+Activision Blizard,ITA,Elon Musk,SPA,2263000,9135623
+Renault,SPA,General Motos,JAP,2264000,7931712
+Nissan,GER,Laurent Alexandre,ITA,2265000,7095324
+Elon Musk,ITA,Elon Musk,CHI,2266000,4451519
+ConocoPhillips,SWI,Exxon Mobil,SPA,2267000,9109084
+General Motos,UK,Altaran,US,2268000,4400321
+ConocoPhillips,SP,Tesla,GER,2269000,2650400
+Elon Musk,UK,General Motos,UK,2270000,7916464
+McKesson,GER,Elon Musk,SWI,2271000,7376911
+General Motos,SPA,Tesla,GER,2272000,6964290
+Elon Musk,UK,Activision Blizard,ITA,2273000,4734816
+Tesla,JAP,Exxon Mobil,ITA,2274000,7316726
+Laurent Alexandre,JAP,General Motos,CHI,2275000,4545306
+John Coulberg,SWI,Exxon Mobil,ITA,2276000,284322
+Laurent Alexandre,JAP,Altaran,JAP,2277000,1687592
+Elon Musk,US,Laurent Alexandre,SPA,2278000,3971522
+Tesla,UK,Renault,SPA,2279000,8492940
+Activision Blizard,JAP,Exxon Mobil,UK,2280000,720993
+Exxon Mobil,UK,Laurent Alexandre,SP,2281000,3915568
+Laurent Alexandre,ITA,Walmart,CHI,2282000,2727194
+Laurent Alexandre,CHI,ConocoPhillips,FR,2283000,7217051
+Walmart,GER,Renault,SPA,2284000,5384809
+General Motos,GER,Activision Blizard,SP,2285000,9738904
+Laurent Alexandre,ITA,Elon Musk,SP,2286000,1579566
+McKesson,SPA,Elon Musk,SP,2287000,6187110
+Nissan,ITA,Walmart,SPA,2288000,9206400
+Renault,FR,General Motos,ITA,2289000,7099404
+Laurent Alexandre,GER,ConocoPhillips,FR,2290000,6529075
+Activision Blizard,SP,McKesson,SPA,2291000,9827281
+General Motos,JAP,Chevron,UK,2292000,518701
+Laurent Alexandre,US,Elon Musk,UK,2293000,8427541
+General Motos,CHI,McKesson,SWI,2294000,6704869
+Laurent Alexandre,UK,Laurent Alexandre,SPA,2295000,2811812
+Walmart,US,Exxon Mobil,FR,2296000,1111503
+Exxon Mobil,CHI,McKesson,ITA,2297000,3380962
+Nissan,FR,Walmart,CHI,2298000,8380937
+McKesson,CHI,Chevron,FR,2299000,3430038
+Chevron,UK,Activision Blizard,JAP,2300000,9977250
+General Motos,FR,Tesla,JAP,2301000,1265993
+John Coulberg,SWI,John Coulberg,JAP,2302000,1742984
+Laurent Alexandre,CHI,ConocoPhillips,ITA,2303000,2436994
+John Coulberg,SPA,McKesson,FR,2304000,2479006
+Chevron,SPA,Tesla,GER,2305000,4308727
+Activision Blizard,GER,Walmart,UK,2306000,8714095
+ConocoPhillips,UK,McKesson,ITA,2307000,1967956
+Elon Musk,UK,Nissan,GER,2308000,8410224
+Activision Blizard,GER,Walmart,CHI,2309000,6228348
+Laurent Alexandre,SP,Tesla,SP,2310000,7440499
+Altaran,CHI,Nissan,FR,2311000,7138430
+Tesla,CHI,Walmart,ITA,2312000,8902538
+Laurent Alexandre,UK,Elon Musk,SP,2313000,4692027
+Laurent Alexandre,UK,Chevron,US,2314000,9285493
+Altaran,ITA,Chevron,US,2315000,5762657
+Tesla,FR,Renault,SP,2316000,4344245
+Chevron,JAP,Chevron,JAP,2317000,3165391
+Renault,JAP,Exxon Mobil,ITA,2318000,7964669
+Activision Blizard,SPA,Activision Blizard,SWI,2319000,8945398
+Tesla,SWI,Exxon Mobil,SWI,2320000,2828758
+Walmart,GER,Laurent Alexandre,JAP,2321000,3078435
+Altaran,CHI,Nissan,US,2322000,9223209
+ConocoPhillips,SWI,Laurent Alexandre,CHI,2323000,6346636
+Renault,GER,Altaran,CHI,2324000,5172113
+ConocoPhillips,JAP,Chevron,ITA,2325000,9398699
+Altaran,CHI,John Coulberg,CHI,2326000,2055692
+General Motos,GER,Elon Musk,ITA,2327000,4352796
+Laurent Alexandre,SPA,ConocoPhillips,US,2328000,7059644
+Elon Musk,SPA,Exxon Mobil,US,2329000,4342041
+General Motos,ITA,Chevron,FR,2330000,4729418
+Renault,GER,Altaran,SWI,2331000,7987052
+Nissan,SP,Nissan,US,2332000,7233683
+Altaran,SPA,Tesla,JAP,2333000,896109
+Elon Musk,UK,Renault,SWI,2334000,9263987
+John Coulberg,CHI,Exxon Mobil,FR,2335000,3692815
+Tesla,UK,General Motos,FR,2336000,4137185
+Activision Blizard,SWI,Tesla,ITA,2337000,4825218
+General Motos,CHI,Nissan,ITA,2338000,6892129
+Altaran,US,McKesson,SWI,2339000,9860340
+Tesla,SP,Walmart,SWI,2340000,8084159
+Tesla,GER,ConocoPhillips,UK,2341000,300375
+Laurent Alexandre,JAP,McKesson,UK,2342000,6537742
+Chevron,ITA,Walmart,SP,2343000,7022918
+McKesson,SP,Chevron,JAP,2344000,474440
+Elon Musk,JAP,General Motos,SWI,2345000,4762777
+Elon Musk,SWI,General Motos,GER,2346000,4868510
+Nissan,SWI,John Coulberg,FR,2347000,6388557
+John Coulberg,FR,ConocoPhillips,SP,2348000,8817173
+Altaran,UK,McKesson,SPA,2349000,1344940
+Chevron,JAP,McKesson,UK,2350000,560361
+Tesla,JAP,Walmart,ITA,2351000,7556116
+Exxon Mobil,CHI,McKesson,ITA,2352000,2727342
+Altaran,CHI,Renault,SPA,2353000,7436576
+Altaran,US,Altaran,GER,2354000,3366152
+Walmart,GER,Nissan,JAP,2355000,4344827
+Nissan,GER,John Coulberg,ITA,2356000,4895982
+ConocoPhillips,SP,ConocoPhillips,SPA,2357000,2519677
+McKesson,GER,General Motos,SPA,2358000,8044055
+Exxon Mobil,JAP,John Coulberg,GER,2359000,1895343
+Tesla,SP,Walmart,JAP,2360000,8892617
+Laurent Alexandre,SP,Tesla,SWI,2361000,3211543
+Laurent Alexandre,JAP,Altaran,FR,2362000,7185992
+Elon Musk,FR,Renault,UK,2363000,7966597
+Elon Musk,FR,Nissan,CHI,2364000,8048347
+Laurent Alexandre,UK,John Coulberg,JAP,2365000,1180432
+Chevron,CHI,General Motos,ITA,2366000,9256379
+Nissan,SWI,John Coulberg,GER,2367000,5543258
+John Coulberg,UK,Walmart,SWI,2368000,6816579
+Exxon Mobil,UK,Walmart,JAP,2369000,8112942
+Tesla,FR,Tesla,SWI,2370000,6345681
+Elon Musk,GER,McKesson,ITA,2371000,9117033
+Altaran,US,Nissan,CHI,2372000,3278984
+Walmart,CHI,Laurent Alexandre,FR,2373000,299433
+Renault,UK,McKesson,GER,2374000,6229071
+McKesson,CHI,Tesla,SP,2375000,406046
+Nissan,US,Nissan,FR,2376000,1151062
+Chevron,FR,John Coulberg,SPA,2377000,7479850
+Nissan,CHI,McKesson,ITA,2378000,1370635
+Nissan,SPA,Tesla,ITA,2379000,1792375
+John Coulberg,FR,Nissan,SWI,2380000,6194149
+General Motos,SPA,Renault,SPA,2381000,6564742
+ConocoPhillips,SWI,Activision Blizard,SWI,2382000,488789
+Altaran,UK,Exxon Mobil,ITA,2383000,5792429
+Chevron,SWI,Activision Blizard,SPA,2384000,1595961
+Activision Blizard,GER,Tesla,JAP,2385000,8163709
+Chevron,SWI,Walmart,FR,2386000,6625610
+Exxon Mobil,SP,Activision Blizard,JAP,2387000,6736638
+Activision Blizard,SWI,Walmart,UK,2388000,6801313
+Laurent Alexandre,SPA,ConocoPhillips,ITA,2389000,7902051
+McKesson,UK,John Coulberg,ITA,2390000,3771621
+Tesla,SPA,ConocoPhillips,SWI,2391000,648683
+Walmart,UK,Nissan,US,2392000,6720717
+ConocoPhillips,JAP,Exxon Mobil,SWI,2393000,4023397
+McKesson,SP,Tesla,GER,2394000,6647989
+Chevron,US,Walmart,CHI,2395000,2852487
+Laurent Alexandre,ITA,Nissan,GER,2396000,2742710
+McKesson,SWI,Nissan,SPA,2397000,9680957
+McKesson,SWI,Laurent Alexandre,FR,2398000,295444
+John Coulberg,SP,Activision Blizard,US,2399000,1156511
+Walmart,JAP,Tesla,FR,2400000,6497385
+Activision Blizard,US,ConocoPhillips,FR,2401000,6810858
+General Motos,ITA,Renault,ITA,2402000,3194734
+Nissan,US,Nissan,ITA,2403000,7917306
+Altaran,SP,Chevron,UK,2404000,7501960
+McKesson,US,Elon Musk,UK,2405000,1477927
+Renault,GER,Chevron,CHI,2406000,9357983
+Chevron,US,Exxon Mobil,ITA,2407000,9287778
+General Motos,SWI,Activision Blizard,ITA,2408000,904069
+Activision Blizard,JAP,Nissan,CHI,2409000,9819921
+Tesla,US,Activision Blizard,SPA,2410000,641767
+Renault,GER,John Coulberg,ITA,2411000,7065669
+Nissan,GER,Altaran,ITA,2412000,5049883
+Walmart,UK,Renault,GER,2413000,4890410
+General Motos,ITA,John Coulberg,GER,2414000,9181602
+Walmart,JAP,Exxon Mobil,US,2415000,4758894
+Elon Musk,CHI,Nissan,GER,2416000,150169
+Elon Musk,JAP,General Motos,SP,2417000,5181926
+Exxon Mobil,ITA,General Motos,UK,2418000,6961649
+Laurent Alexandre,JAP,Altaran,SPA,2419000,5110166
+Walmart,GER,Elon Musk,UK,2420000,2727920
+McKesson,FR,Chevron,SWI,2421000,1009184
+Exxon Mobil,GER,John Coulberg,SWI,2422000,5499391
+ConocoPhillips,SPA,Chevron,UK,2423000,9959015
+John Coulberg,JAP,Elon Musk,GER,2424000,7147310
+Altaran,GER,Laurent Alexandre,CHI,2425000,1534837
+Nissan,CHI,Exxon Mobil,SWI,2426000,8115206
+John Coulberg,SP,Altaran,FR,2427000,1201805
+Tesla,SP,Renault,SP,2428000,6479743
+ConocoPhillips,GER,Laurent Alexandre,GER,2429000,585765
+Tesla,SPA,Chevron,SP,2430000,7524212
+Nissan,FR,John Coulberg,US,2431000,8673721
+General Motos,ITA,Nissan,SPA,2432000,8668468
+John Coulberg,JAP,Altaran,UK,2433000,7767989
+Exxon Mobil,SPA,Walmart,GER,2434000,7378223
+Chevron,CHI,McKesson,SWI,2435000,5047024
+Laurent Alexandre,FR,John Coulberg,SWI,2436000,7181230
+John Coulberg,JAP,Tesla,JAP,2437000,7190660
+Altaran,SWI,Elon Musk,UK,2438000,6088964
+McKesson,SWI,Walmart,SWI,2439000,2166505
+Laurent Alexandre,CHI,Chevron,GER,2440000,5777883
+John Coulberg,US,John Coulberg,SWI,2441000,3831947
+Elon Musk,SWI,Nissan,SPA,2442000,852484
+Laurent Alexandre,UK,General Motos,SP,2443000,9834467
+ConocoPhillips,SPA,Nissan,UK,2444000,8294985
+Altaran,SP,Laurent Alexandre,GER,2445000,393450
+Elon Musk,US,Altaran,SP,2446000,2450837
+John Coulberg,JAP,Elon Musk,UK,2447000,8595359
+Elon Musk,FR,Walmart,US,2448000,7778286
+Chevron,US,Walmart,SP,2449000,8238853
+Laurent Alexandre,UK,Tesla,FR,2450000,5444856
+Walmart,SWI,Nissan,SWI,2451000,5051780
+General Motos,US,Nissan,US,2452000,1219660
+John Coulberg,JAP,Tesla,FR,2453000,6061335
+Altaran,SPA,ConocoPhillips,GER,2454000,8222045
+Chevron,CHI,Laurent Alexandre,UK,2455000,4971768
+Renault,CHI,Laurent Alexandre,FR,2456000,7321453
+Activision Blizard,CHI,Nissan,ITA,2457000,5205165
+ConocoPhillips,SPA,Activision Blizard,GER,2458000,9932613
+McKesson,JAP,ConocoPhillips,UK,2459000,1210948
+Tesla,SP,McKesson,SWI,2460000,4880185
+Elon Musk,GER,Nissan,JAP,2461000,2862008
+General Motos,US,General Motos,ITA,2462000,6245036
+ConocoPhillips,CHI,McKesson,SWI,2463000,3475369
+ConocoPhillips,FR,Altaran,ITA,2464000,3215604
+Nissan,ITA,Walmart,SWI,2465000,9446170
+McKesson,JAP,Altaran,SP,2466000,4686980
+Altaran,SPA,Exxon Mobil,SP,2467000,4388468
+Exxon Mobil,CHI,McKesson,JAP,2468000,9579750
+Altaran,CHI,Altaran,US,2469000,6917208
+Elon Musk,CHI,Renault,GER,2470000,3767388
+Nissan,JAP,McKesson,US,2471000,2989896
+Elon Musk,SPA,Chevron,US,2472000,1404738
+Laurent Alexandre,SPA,Elon Musk,SWI,2473000,5709531
+McKesson,US,Altaran,UK,2474000,472508
+McKesson,SP,Altaran,CHI,2475000,9667340
+Nissan,US,Altaran,SP,2476000,3313814
+Nissan,GER,General Motos,SWI,2477000,6107977
+McKesson,UK,Activision Blizard,UK,2478000,3057071
+Elon Musk,GER,Exxon Mobil,CHI,2479000,2158733
+Exxon Mobil,UK,Chevron,GER,2480000,1285801
+Nissan,FR,John Coulberg,CHI,2481000,921139
+Walmart,SWI,Laurent Alexandre,CHI,2482000,6692741
+Activision Blizard,JAP,Laurent Alexandre,JAP,2483000,6662974
+Tesla,ITA,Exxon Mobil,GER,2484000,9091869
+Nissan,GER,ConocoPhillips,JAP,2485000,3228940
+Activision Blizard,UK,Exxon Mobil,SPA,2486000,8816579
+Renault,UK,General Motos,US,2487000,1216524
+Elon Musk,ITA,Activision Blizard,UK,2488000,2952404
+Exxon Mobil,FR,Altaran,SPA,2489000,9510808
+Altaran,GER,John Coulberg,SWI,2490000,2546630
+Laurent Alexandre,SWI,Chevron,FR,2491000,6903511
+Nissan,CHI,General Motos,GER,2492000,7774702
+McKesson,CHI,Renault,US,2493000,6065597
+McKesson,US,Altaran,UK,2494000,1248945
+Laurent Alexandre,FR,Renault,SP,2495000,239500
+Tesla,UK,Exxon Mobil,ITA,2496000,5667045
+Elon Musk,ITA,Chevron,CHI,2497000,1505094
+McKesson,FR,Activision Blizard,SPA,2498000,1722739
+ConocoPhillips,ITA,Chevron,FR,2499000,9584974
+John Coulberg,GER,Chevron,CHI,2500000,8870359
+Chevron,SP,General Motos,SWI,2501000,4347543
+Renault,FR,Renault,GER,2502000,9142278
+ConocoPhillips,JAP,Walmart,UK,2503000,6842942
+Chevron,SP,Nissan,GER,2504000,318214
+Renault,GER,General Motos,US,2505000,1527318
+Tesla,SP,Activision Blizard,SWI,2506000,4235259
+General Motos,FR,Chevron,FR,2507000,4949987
+General Motos,SPA,Elon Musk,ITA,2508000,5848473
+Tesla,SWI,Altaran,SPA,2509000,1277191
+Tesla,CHI,Nissan,SPA,2510000,2962241
+Laurent Alexandre,GER,Nissan,US,2511000,9145866
+Laurent Alexandre,ITA,McKesson,FR,2512000,4519785
+General Motos,SWI,General Motos,US,2513000,1014575
+Exxon Mobil,CHI,Elon Musk,SWI,2514000,8576169
+Chevron,UK,Altaran,GER,2515000,9493741
+Nissan,GER,McKesson,CHI,2516000,9972593
+ConocoPhillips,GER,Activision Blizard,UK,2517000,1406245
+Altaran,UK,John Coulberg,SP,2518000,9415243
+Walmart,GER,ConocoPhillips,FR,2519000,9143451
+Tesla,CHI,John Coulberg,SP,2520000,7499618
+Renault,UK,Tesla,SP,2521000,7025341
+Renault,GER,ConocoPhillips,FR,2522000,4238346
+Activision Blizard,SWI,Chevron,US,2523000,4579430
+Walmart,CHI,Elon Musk,SP,2524000,5323865
+Tesla,SWI,Exxon Mobil,GER,2525000,7881666
+Laurent Alexandre,JAP,Renault,GER,2526000,7622896
+John Coulberg,SPA,Chevron,US,2527000,5501911
+Elon Musk,US,ConocoPhillips,UK,2528000,2726227
+Chevron,SPA,Tesla,SWI,2529000,5268851
+Tesla,SP,Altaran,SWI,2530000,9394618
+Walmart,FR,Nissan,JAP,2531000,2670085
+Activision Blizard,SWI,Activision Blizard,US,2532000,903787
+Exxon Mobil,SWI,Exxon Mobil,SWI,2533000,3827370
+Renault,JAP,Activision Blizard,SP,2534000,1167921
+McKesson,SWI,Walmart,GER,2535000,7367325
+General Motos,SPA,Altaran,FR,2536000,6806846
+Activision Blizard,CHI,Chevron,SP,2537000,1354962
+Walmart,JAP,Tesla,SWI,2538000,5743602
+Renault,SP,McKesson,SP,2539000,8330379
+Laurent Alexandre,US,Nissan,SPA,2540000,3705908
+Altaran,FR,ConocoPhillips,SP,2541000,2484300
+General Motos,FR,Chevron,JAP,2542000,6544569
+Tesla,SPA,McKesson,SPA,2543000,6024220
+General Motos,SPA,Nissan,US,2544000,8954280
+Tesla,US,Laurent Alexandre,SWI,2545000,5089165
+Exxon Mobil,US,General Motos,SP,2546000,4691025
+Chevron,FR,Chevron,FR,2547000,4255458
+Exxon Mobil,SP,Activision Blizard,GER,2548000,5106763
+Exxon Mobil,ITA,John Coulberg,UK,2549000,1174048
+Chevron,US,General Motos,SP,2550000,1649393
+Chevron,SP,General Motos,JAP,2551000,4671501
+Activision Blizard,JAP,Altaran,ITA,2552000,6662686
+Laurent Alexandre,SWI,Renault,SP,2553000,3705774
+Altaran,CHI,Nissan,GER,2554000,3505062
+Walmart,ITA,Activision Blizard,SWI,2555000,9696495
+Exxon Mobil,JAP,John Coulberg,UK,2556000,8607969
+Tesla,SP,Walmart,SP,2557000,847549
+Elon Musk,FR,Nissan,ITA,2558000,9782934
+Renault,US,Activision Blizard,CHI,2559000,6510641
+Walmart,SPA,Elon Musk,GER,2560000,9192464
+Nissan,UK,ConocoPhillips,SPA,2561000,6780672
+Exxon Mobil,UK,General Motos,FR,2562000,2287176
+General Motos,SWI,Altaran,GER,2563000,3424461
+Chevron,US,Chevron,SWI,2564000,4358159
+Exxon Mobil,SPA,Elon Musk,SPA,2565000,5479883
+Nissan,SPA,Walmart,SPA,2566000,7341988
+ConocoPhillips,SPA,Altaran,FR,2567000,9806093
+Activision Blizard,SWI,Exxon Mobil,SPA,2568000,7666065
+Activision Blizard,CHI,Tesla,SWI,2569000,7014429
+Renault,JAP,Altaran,SWI,2570000,6371263
+John Coulberg,ITA,Activision Blizard,ITA,2571000,6564947
+Laurent Alexandre,JAP,Activision Blizard,US,2572000,2930374
+ConocoPhillips,SWI,Exxon Mobil,FR,2573000,9856189
+McKesson,FR,Nissan,SPA,2574000,9031056
+General Motos,GER,ConocoPhillips,US,2575000,7354139
+McKesson,US,ConocoPhillips,CHI,2576000,9862216
+John Coulberg,SP,General Motos,SPA,2577000,9173126
+ConocoPhillips,SWI,Chevron,SWI,2578000,4666489
+Chevron,SWI,Altaran,SP,2579000,5880233
+Elon Musk,US,Tesla,SWI,2580000,7198342
+Walmart,SWI,Elon Musk,FR,2581000,1897013
+John Coulberg,SP,John Coulberg,UK,2582000,2794859
+Renault,JAP,Tesla,UK,2583000,5415885
+Walmart,JAP,ConocoPhillips,GER,2584000,841972
+Activision Blizard,JAP,McKesson,GER,2585000,8602718
+Chevron,SPA,Renault,UK,2586000,4065749
+Laurent Alexandre,SWI,John Coulberg,SP,2587000,9436307
+General Motos,FR,McKesson,SP,2588000,3004869
+John Coulberg,JAP,General Motos,SP,2589000,9850004
+Elon Musk,FR,Altaran,UK,2590000,9176064
+John Coulberg,GER,Nissan,FR,2591000,5555092
+General Motos,CHI,McKesson,UK,2592000,2500645
+McKesson,ITA,McKesson,GER,2593000,701821
+Tesla,ITA,Renault,SWI,2594000,7257918
+ConocoPhillips,US,Laurent Alexandre,SWI,2595000,9941460
+McKesson,CHI,John Coulberg,US,2596000,1480405
+Altaran,SWI,Activision Blizard,ITA,2597000,663641
+Exxon Mobil,SWI,Renault,SP,2598000,1829492
+Nissan,FR,Chevron,ITA,2599000,5473676
+John Coulberg,ITA,John Coulberg,SWI,2600000,2121489
+Chevron,SP,Altaran,SPA,2601000,2836021
+Nissan,US,Tesla,US,2602000,9817835
+Elon Musk,US,Laurent Alexandre,GER,2603000,8952687
+Laurent Alexandre,GER,Activision Blizard,SWI,2604000,3448053
+ConocoPhillips,SP,Exxon Mobil,ITA,2605000,6796272
+Chevron,CHI,Walmart,CHI,2606000,9772084
+General Motos,SPA,Nissan,FR,2607000,4238533
+Tesla,SPA,Activision Blizard,SWI,2608000,1497563
+Exxon Mobil,FR,Renault,FR,2609000,9828234
+Tesla,JAP,Activision Blizard,FR,2610000,7011074
+Laurent Alexandre,FR,Tesla,SP,2611000,6856286
+Elon Musk,FR,Chevron,ITA,2612000,9549930
+Exxon Mobil,US,ConocoPhillips,UK,2613000,599597
+Tesla,GER,McKesson,SP,2614000,6738153
+Laurent Alexandre,GER,Walmart,GER,2615000,6555992
+Renault,ITA,Renault,SWI,2616000,518328
+Tesla,GER,Nissan,SPA,2617000,7216943
+Laurent Alexandre,CHI,Tesla,CHI,2618000,5202440
+Walmart,FR,Laurent Alexandre,GER,2619000,2806777
+Tesla,GER,Activision Blizard,ITA,2620000,9999997
+Altaran,CHI,Altaran,FR,2621000,5535574
+Nissan,CHI,Altaran,FR,2622000,8388095
+McKesson,JAP,Tesla,SP,2623000,3128662
+Activision Blizard,JAP,Laurent Alexandre,FR,2624000,706770
+McKesson,FR,John Coulberg,ITA,2625000,8648815
+Walmart,US,General Motos,SWI,2626000,2240983
+Activision Blizard,FR,John Coulberg,US,2627000,3986996
+ConocoPhillips,UK,General Motos,SWI,2628000,3960795
+General Motos,US,Activision Blizard,GER,2629000,1097350
+Altaran,FR,ConocoPhillips,SP,2630000,1503018
+Elon Musk,UK,Activision Blizard,SP,2631000,747819
+John Coulberg,SP,McKesson,SWI,2632000,443866
+Activision Blizard,SP,Exxon Mobil,CHI,2633000,3381349
+Elon Musk,UK,General Motos,US,2634000,1736056
+Walmart,UK,Tesla,JAP,2635000,314737
+Elon Musk,SP,Exxon Mobil,GER,2636000,6390802
+Exxon Mobil,UK,Renault,CHI,2637000,6171492
+Chevron,GER,Nissan,GER,2638000,5487481
+Nissan,ITA,John Coulberg,SP,2639000,1437385
+Walmart,JAP,Chevron,SPA,2640000,4015459
+Elon Musk,SP,General Motos,FR,2641000,8716673
+Altaran,SWI,Chevron,SP,2642000,1838640
+Renault,ITA,General Motos,GER,2643000,9088099
+General Motos,CHI,Elon Musk,SPA,2644000,6164512
+Chevron,JAP,McKesson,FR,2645000,1065640
+ConocoPhillips,JAP,John Coulberg,UK,2646000,4917868
+Altaran,SWI,Tesla,ITA,2647000,8093337
+Renault,JAP,Renault,GER,2648000,1762548
+Altaran,JAP,ConocoPhillips,GER,2649000,91666
+General Motos,ITA,Laurent Alexandre,UK,2650000,6346552
+Chevron,US,Walmart,FR,2651000,6596748
+Renault,GER,Nissan,SPA,2652000,6130832
+Renault,SPA,Nissan,US,2653000,2767561
+Renault,CHI,Activision Blizard,FR,2654000,7754736
+Tesla,SP,John Coulberg,GER,2655000,8732361
+Laurent Alexandre,FR,Elon Musk,SP,2656000,7879737
+McKesson,ITA,General Motos,SPA,2657000,4686739
+Chevron,SP,Chevron,SPA,2658000,3648050
+Renault,US,Tesla,US,2659000,5710860
+Chevron,SWI,Nissan,GER,2660000,5537474
+Walmart,JAP,Elon Musk,FR,2661000,202886
+Exxon Mobil,JAP,Tesla,SWI,2662000,8206739
+Laurent Alexandre,SP,ConocoPhillips,GER,2663000,636842
+Exxon Mobil,CHI,General Motos,JAP,2664000,7306760
+Chevron,CHI,Altaran,UK,2665000,2319445
+Activision Blizard,ITA,Altaran,ITA,2666000,4883188
+General Motos,UK,Elon Musk,SWI,2667000,4649056
+Exxon Mobil,JAP,Tesla,ITA,2668000,3549942
+Tesla,SP,Exxon Mobil,SPA,2669000,7522170
+Exxon Mobil,US,Renault,ITA,2670000,7418995
+Elon Musk,SWI,ConocoPhillips,CHI,2671000,5798874
+Chevron,JAP,Exxon Mobil,US,2672000,2915440
+Elon Musk,SPA,Laurent Alexandre,SP,2673000,5394531
+Altaran,SPA,Renault,US,2674000,2510388
+Elon Musk,US,Nissan,SWI,2675000,5752809
+John Coulberg,SWI,Renault,JAP,2676000,3085577
+McKesson,ITA,Renault,CHI,2677000,2928342
+Exxon Mobil,JAP,Laurent Alexandre,SWI,2678000,2198436
+Walmart,FR,ConocoPhillips,JAP,2679000,2170525
+Walmart,SP,General Motos,SPA,2680000,817901
+General Motos,ITA,McKesson,SPA,2681000,4570715
+ConocoPhillips,SWI,Exxon Mobil,SP,2682000,6509550
+Walmart,SP,Chevron,FR,2683000,4523714
+Exxon Mobil,SPA,John Coulberg,US,2684000,2135171
+Elon Musk,SPA,Tesla,US,2685000,4525097
+Activision Blizard,SP,ConocoPhillips,FR,2686000,6204079
+Elon Musk,SWI,Chevron,CHI,2687000,5075674
+ConocoPhillips,FR,Elon Musk,CHI,2688000,5421564
+Altaran,GER,John Coulberg,FR,2689000,60905
+Elon Musk,JAP,Renault,UK,2690000,611809
+Nissan,SPA,McKesson,FR,2691000,3612377
+Renault,CHI,Exxon Mobil,SPA,2692000,4515947
+Exxon Mobil,CHI,ConocoPhillips,GER,2693000,7855784
+John Coulberg,FR,Laurent Alexandre,FR,2694000,544996
+John Coulberg,ITA,Exxon Mobil,GER,2695000,7914152
+Exxon Mobil,JAP,McKesson,SPA,2696000,4603928
+Renault,UK,Altaran,FR,2697000,8146770
+ConocoPhillips,UK,ConocoPhillips,CHI,2698000,964173
+Renault,JAP,McKesson,ITA,2699000,1556112
+Walmart,GER,ConocoPhillips,UK,2700000,4055483
+Tesla,FR,Elon Musk,US,2701000,3972161
+ConocoPhillips,CHI,Laurent Alexandre,SPA,2702000,7774840
+Tesla,JAP,Altaran,SP,2703000,6231563
+General Motos,ITA,Nissan,ITA,2704000,8114882
+Laurent Alexandre,JAP,Activision Blizard,CHI,2705000,4306473
+John Coulberg,SPA,Altaran,SPA,2706000,5259963
+Exxon Mobil,US,Renault,US,2707000,7110791
+Nissan,SP,ConocoPhillips,CHI,2708000,4064149
+Activision Blizard,SWI,Exxon Mobil,SWI,2709000,6873237
+Tesla,GER,Renault,SPA,2710000,8211595
+Nissan,JAP,Exxon Mobil,SPA,2711000,1154210
+Altaran,CHI,Nissan,SWI,2712000,1049035
+Activision Blizard,GER,Altaran,SP,2713000,3715739
+Altaran,JAP,Laurent Alexandre,FR,2714000,3782366
+Nissan,JAP,Activision Blizard,SWI,2715000,1188497
+Elon Musk,FR,Tesla,CHI,2716000,4754852
+Chevron,SPA,Laurent Alexandre,US,2717000,2181274
+Altaran,US,Nissan,CHI,2718000,2154803
+Elon Musk,CHI,General Motos,SP,2719000,8976885
+Elon Musk,US,McKesson,UK,2720000,7740833
+Walmart,GER,Tesla,SPA,2721000,8329784
+General Motos,US,Exxon Mobil,SPA,2722000,5361698
+Altaran,SPA,McKesson,ITA,2723000,5525914
+McKesson,SPA,ConocoPhillips,US,2724000,1458821
+Chevron,UK,Chevron,SPA,2725000,6055321
+John Coulberg,FR,ConocoPhillips,SPA,2726000,3384792
+McKesson,JAP,John Coulberg,SPA,2727000,9955260
+Nissan,FR,Renault,US,2728000,6826140
+Nissan,ITA,Exxon Mobil,SWI,2729000,252103
+Chevron,GER,Chevron,SPA,2730000,7963068
+Altaran,GER,ConocoPhillips,CHI,2731000,7801077
+Laurent Alexandre,FR,McKesson,GER,2732000,3333971
+Chevron,UK,ConocoPhillips,FR,2733000,4294613
+Tesla,SPA,Altaran,ITA,2734000,1196847
+Chevron,ITA,ConocoPhillips,JAP,2735000,8887568
+Nissan,JAP,Exxon Mobil,CHI,2736000,5406221
+McKesson,UK,General Motos,JAP,2737000,3733439
+Laurent Alexandre,SWI,Activision Blizard,SPA,2738000,3722646
+Tesla,UK,General Motos,JAP,2739000,7686518
+Exxon Mobil,ITA,Nissan,UK,2740000,8921405
+Exxon Mobil,SPA,McKesson,SP,2741000,779420
+John Coulberg,SPA,Activision Blizard,UK,2742000,5527793
+Exxon Mobil,GER,McKesson,GER,2743000,7048530
+McKesson,SP,Laurent Alexandre,SP,2744000,315312
+Exxon Mobil,US,Chevron,CHI,2745000,5170943
+John Coulberg,JAP,John Coulberg,UK,2746000,6504224
+Walmart,SP,Tesla,US,2747000,2276475
+Renault,SP,Walmart,ITA,2748000,4400276
+ConocoPhillips,ITA,John Coulberg,UK,2749000,9344365
+Exxon Mobil,SPA,Elon Musk,JAP,2750000,2770477
+Walmart,JAP,John Coulberg,CHI,2751000,6682188
+John Coulberg,ITA,Chevron,FR,2752000,14461
+Altaran,SWI,Renault,UK,2753000,8189180
+General Motos,SP,Walmart,GER,2754000,6599287
+Altaran,SP,Walmart,FR,2755000,8486048
+Exxon Mobil,GER,Renault,FR,2756000,6203226
+Altaran,UK,General Motos,JAP,2757000,8029347
+Altaran,SWI,Altaran,ITA,2758000,1045563
+Chevron,US,Chevron,CHI,2759000,7228020
+McKesson,SWI,Chevron,UK,2760000,7242646
+Exxon Mobil,SP,John Coulberg,US,2761000,268785
+Activision Blizard,FR,Exxon Mobil,FR,2762000,8411004
+Renault,JAP,ConocoPhillips,SP,2763000,6700613
+Exxon Mobil,UK,Laurent Alexandre,JAP,2764000,5598908
+McKesson,SWI,Exxon Mobil,GER,2765000,4699784
+Tesla,UK,McKesson,SP,2766000,8809866
+John Coulberg,US,McKesson,JAP,2767000,8624950
+McKesson,UK,Altaran,GER,2768000,5172140
+Activision Blizard,SP,Elon Musk,ITA,2769000,1938969
+McKesson,JAP,Altaran,SPA,2770000,1375533
+Activision Blizard,SPA,Nissan,JAP,2771000,2749909
+Exxon Mobil,UK,Exxon Mobil,JAP,2772000,5276305
+Elon Musk,GER,Laurent Alexandre,SPA,2773000,6852516
+Laurent Alexandre,UK,Nissan,ITA,2774000,6742473
+Elon Musk,US,General Motos,FR,2775000,8098337
+John Coulberg,UK,Tesla,FR,2776000,5339267
+Renault,SP,Laurent Alexandre,JAP,2777000,9576062
+McKesson,SWI,John Coulberg,CHI,2778000,743490
+John Coulberg,CHI,Tesla,ITA,2779000,4117382
+Exxon Mobil,FR,Activision Blizard,CHI,2780000,8998651
+Chevron,ITA,Tesla,ITA,2781000,3385776
+Renault,JAP,John Coulberg,FR,2782000,3070543
+Altaran,SWI,McKesson,SP,2783000,2920000
+Elon Musk,US,Exxon Mobil,JAP,2784000,4690646
+General Motos,GER,John Coulberg,JAP,2785000,8899298
+John Coulberg,UK,Activision Blizard,CHI,2786000,6795968
+Renault,SP,General Motos,SPA,2787000,5169697
+McKesson,GER,Walmart,ITA,2788000,7730601
+Renault,SWI,ConocoPhillips,ITA,2789000,5568649
+Laurent Alexandre,SPA,General Motos,SP,2790000,7634845
+Altaran,JAP,Laurent Alexandre,SPA,2791000,8812507
+Laurent Alexandre,SP,Activision Blizard,US,2792000,6702289
+Chevron,SWI,Nissan,US,2793000,8457925
+Activision Blizard,SPA,Exxon Mobil,GER,2794000,1053106
+Activision Blizard,SP,ConocoPhillips,JAP,2795000,1095481
+Altaran,ITA,General Motos,GER,2796000,3820977
+Exxon Mobil,GER,Nissan,JAP,2797000,6674335
+Renault,CHI,Nissan,SWI,2798000,6668802
+Walmart,GER,Exxon Mobil,UK,2799000,6226683
+Laurent Alexandre,UK,Walmart,JAP,2800000,1707536
+McKesson,ITA,John Coulberg,JAP,2801000,3242484
+Tesla,US,Elon Musk,JAP,2802000,9897619
+Renault,UK,John Coulberg,JAP,2803000,5009543
+Activision Blizard,FR,Walmart,US,2804000,5019919
+ConocoPhillips,SWI,Nissan,US,2805000,4353663
+Activision Blizard,SP,Activision Blizard,UK,2806000,3732023
+General Motos,GER,McKesson,ITA,2807000,4908209
+John Coulberg,SWI,Laurent Alexandre,GER,2808000,6554730
+Altaran,GER,Activision Blizard,SWI,2809000,9950352
+Laurent Alexandre,SP,McKesson,US,2810000,2547270
+Exxon Mobil,FR,Altaran,CHI,2811000,8934384
+Tesla,FR,General Motos,SPA,2812000,1978565
+General Motos,JAP,Nissan,FR,2813000,2099248
+Chevron,FR,ConocoPhillips,FR,2814000,4361308
+ConocoPhillips,JAP,Walmart,US,2815000,753036
+John Coulberg,FR,Elon Musk,CHI,2816000,5779245
+Exxon Mobil,SP,Walmart,US,2817000,3027519
+Activision Blizard,ITA,Exxon Mobil,JAP,2818000,7340667
+Chevron,SWI,Nissan,SP,2819000,5664113
+Elon Musk,GER,Laurent Alexandre,SP,2820000,5079858
+Chevron,SP,Renault,SP,2821000,3026988
+Walmart,CHI,Nissan,CHI,2822000,5025707
+Elon Musk,JAP,Activision Blizard,UK,2823000,1895417
+Elon Musk,FR,ConocoPhillips,FR,2824000,2514617
+Tesla,UK,John Coulberg,UK,2825000,6327700
+Nissan,SP,Renault,FR,2826000,175805
+Elon Musk,GER,Chevron,SP,2827000,9067795
+Nissan,CHI,Renault,UK,2828000,9476160
+McKesson,US,Renault,SWI,2829000,9567898
+Exxon Mobil,SWI,Exxon Mobil,GER,2830000,5719192
+Altaran,FR,Activision Blizard,ITA,2831000,589582
+John Coulberg,UK,Chevron,CHI,2832000,6900072
+Tesla,SWI,McKesson,US,2833000,846311
+Activision Blizard,US,John Coulberg,SP,2834000,7940496
+Walmart,UK,Renault,CHI,2835000,2132413
+Elon Musk,FR,McKesson,UK,2836000,9443049
+Walmart,SPA,ConocoPhillips,UK,2837000,8951369
+Renault,SWI,Nissan,CHI,2838000,2708785
+Altaran,SPA,Activision Blizard,ITA,2839000,3491772
+Altaran,UK,Renault,US,2840000,9467142
+Nissan,GER,John Coulberg,GER,2841000,9733460
+Laurent Alexandre,FR,Tesla,FR,2842000,9921182
+Activision Blizard,UK,General Motos,CHI,2843000,1868622
+Exxon Mobil,US,John Coulberg,ITA,2844000,5122700
+General Motos,FR,Altaran,SWI,2845000,7799651
+John Coulberg,ITA,Chevron,JAP,2846000,8312004
+Altaran,GER,General Motos,GER,2847000,3316823
+McKesson,SWI,ConocoPhillips,UK,2848000,6037644
+Altaran,FR,Exxon Mobil,CHI,2849000,604462
+Renault,ITA,ConocoPhillips,GER,2850000,1829665
+Nissan,SPA,Altaran,CHI,2851000,6528913
+Nissan,UK,John Coulberg,CHI,2852000,3426386
+Nissan,SP,Renault,SPA,2853000,1628174
+Chevron,FR,Chevron,JAP,2854000,4427218
+Altaran,SWI,John Coulberg,GER,2855000,6942954
+John Coulberg,US,Nissan,SP,2856000,3044038
+Nissan,SPA,Exxon Mobil,SP,2857000,8075880
+Elon Musk,SWI,General Motos,JAP,2858000,5047988
+Nissan,CHI,Renault,SPA,2859000,7966
+Elon Musk,ITA,Tesla,SP,2860000,600559
+Exxon Mobil,JAP,Laurent Alexandre,SWI,2861000,7542385
+ConocoPhillips,SP,Chevron,SP,2862000,4288203
+ConocoPhillips,JAP,Elon Musk,JAP,2863000,2228823
+Walmart,CHI,Activision Blizard,US,2864000,5669131
+Activision Blizard,UK,Chevron,JAP,2865000,188363
+McKesson,ITA,Walmart,SWI,2866000,4856227
+ConocoPhillips,US,Nissan,CHI,2867000,4306460
+ConocoPhillips,US,Altaran,SWI,2868000,4639286
+Altaran,CHI,Elon Musk,ITA,2869000,1417284
+Activision Blizard,UK,Exxon Mobil,CHI,2870000,9330726
+General Motos,CHI,Exxon Mobil,CHI,2871000,7488019
+General Motos,CHI,Walmart,JAP,2872000,5200020
+Laurent Alexandre,FR,Activision Blizard,CHI,2873000,2916154
+Nissan,GER,ConocoPhillips,CHI,2874000,9504691
+McKesson,GER,Laurent Alexandre,SWI,2875000,7580928
+Nissan,ITA,Renault,FR,2876000,6517448
+Altaran,JAP,Exxon Mobil,FR,2877000,3503112
+Elon Musk,US,Tesla,US,2878000,6833418
+Altaran,JAP,Elon Musk,GER,2879000,4794659
+Walmart,GER,Nissan,SPA,2880000,5845404
+Exxon Mobil,UK,Renault,SP,2881000,7211663
+ConocoPhillips,ITA,Chevron,CHI,2882000,7135436
+Elon Musk,US,Chevron,US,2883000,1315759
+ConocoPhillips,JAP,Walmart,UK,2884000,838483
+John Coulberg,UK,John Coulberg,US,2885000,8047169
+Nissan,CHI,Nissan,SP,2886000,5207803
+Laurent Alexandre,US,Chevron,ITA,2887000,1012280
+Tesla,SP,Elon Musk,SP,2888000,1821812
+Renault,SPA,Nissan,FR,2889000,6155801
+Laurent Alexandre,ITA,Exxon Mobil,UK,2890000,3397995
+Activision Blizard,SPA,Activision Blizard,JAP,2891000,1191311
+Exxon Mobil,CHI,John Coulberg,SPA,2892000,3586461
+John Coulberg,ITA,Laurent Alexandre,SP,2893000,7195104
+McKesson,CHI,Elon Musk,CHI,2894000,691056
+Nissan,SPA,Chevron,GER,2895000,8196554
+General Motos,ITA,Activision Blizard,FR,2896000,7856505
+Nissan,JAP,Nissan,ITA,2897000,5135473
+Elon Musk,SP,Altaran,CHI,2898000,3925173
+Elon Musk,SP,Chevron,SWI,2899000,5795021
+John Coulberg,FR,John Coulberg,GER,2900000,8154172
+Walmart,ITA,Chevron,ITA,2901000,6087079
+Elon Musk,UK,Renault,UK,2902000,5198265
+Renault,CHI,Elon Musk,SWI,2903000,3756043
+Elon Musk,CHI,Exxon Mobil,GER,2904000,7802822
+Altaran,UK,General Motos,SP,2905000,1667568
+Nissan,FR,Nissan,US,2906000,3569906
+ConocoPhillips,GER,Chevron,SWI,2907000,7624160
+Renault,JAP,Exxon Mobil,FR,2908000,7618154
+Walmart,SWI,Laurent Alexandre,SPA,2909000,2425976
+Chevron,SP,Chevron,ITA,2910000,276299
+Laurent Alexandre,SWI,Walmart,UK,2911000,1034214
+Renault,ITA,Activision Blizard,UK,2912000,4339753
+Walmart,SPA,Nissan,ITA,2913000,6892418
+Laurent Alexandre,SWI,Tesla,GER,2914000,6443171
+Elon Musk,CHI,ConocoPhillips,SPA,2915000,5402600
+Nissan,UK,Nissan,JAP,2916000,3301428
+ConocoPhillips,ITA,General Motos,JAP,2917000,1708553
+General Motos,JAP,Walmart,CHI,2918000,3749574
+Chevron,US,Activision Blizard,US,2919000,9535377
+McKesson,FR,Renault,ITA,2920000,3247578
+Laurent Alexandre,US,General Motos,SWI,2921000,5541138
+Renault,UK,Laurent Alexandre,GER,2922000,6376747
+John Coulberg,ITA,Exxon Mobil,SP,2923000,2297410
+Chevron,GER,Chevron,FR,2924000,6077773
+Exxon Mobil,SPA,Activision Blizard,JAP,2925000,2061083
+Tesla,FR,Tesla,GER,2926000,7514953
+McKesson,SPA,General Motos,US,2927000,512410
+Altaran,JAP,John Coulberg,JAP,2928000,5753353
+Chevron,JAP,John Coulberg,UK,2929000,3157929
+Laurent Alexandre,UK,Renault,SPA,2930000,6962638
+Tesla,ITA,Nissan,SWI,2931000,9119192
+General Motos,SP,Renault,SP,2932000,6763546
+Exxon Mobil,FR,Nissan,US,2933000,8111720
+Activision Blizard,US,Laurent Alexandre,US,2934000,697358
+General Motos,SP,Nissan,SPA,2935000,8825383
+Activision Blizard,ITA,Exxon Mobil,CHI,2936000,6586743
+Exxon Mobil,ITA,Walmart,GER,2937000,6415673
+Altaran,SP,ConocoPhillips,FR,2938000,703047
+Chevron,SPA,Nissan,ITA,2939000,1893618
+Altaran,JAP,McKesson,GER,2940000,7983207
+Nissan,CHI,Elon Musk,ITA,2941000,2540231
+McKesson,SPA,John Coulberg,ITA,2942000,8340551
+Activision Blizard,FR,Nissan,UK,2943000,2403326
+Exxon Mobil,ITA,Chevron,SWI,2944000,9189486
+John Coulberg,FR,Tesla,SP,2945000,3030325
+Activision Blizard,CHI,Tesla,ITA,2946000,5806758
+Nissan,SPA,McKesson,UK,2947000,2911255
+ConocoPhillips,JAP,Chevron,FR,2948000,1004457
+ConocoPhillips,UK,John Coulberg,SPA,2949000,2102639
+Activision Blizard,GER,General Motos,ITA,2950000,8147441
+John Coulberg,GER,McKesson,GER,2951000,1643766
+Renault,SWI,Activision Blizard,GER,2952000,6595755
+Exxon Mobil,FR,Tesla,FR,2953000,9796353
+Activision Blizard,GER,General Motos,SWI,2954000,8423764
+Renault,CHI,Tesla,SWI,2955000,6630266
+Altaran,JAP,Activision Blizard,JAP,2956000,1112181
+Exxon Mobil,GER,Laurent Alexandre,UK,2957000,9466050
+Laurent Alexandre,FR,Laurent Alexandre,JAP,2958000,4158356
+Walmart,CHI,McKesson,ITA,2959000,1616135
+John Coulberg,JAP,John Coulberg,SWI,2960000,7825701
+Exxon Mobil,SWI,Exxon Mobil,SPA,2961000,3651256
+Altaran,UK,Tesla,CHI,2962000,2246175
+Renault,ITA,Renault,ITA,2963000,179831
+General Motos,SP,Exxon Mobil,JAP,2964000,4957478
+ConocoPhillips,JAP,John Coulberg,ITA,2965000,377068
+John Coulberg,JAP,Chevron,UK,2966000,3411882
+Altaran,FR,ConocoPhillips,UK,2967000,8242446
+Chevron,FR,Renault,FR,2968000,9744640
+Renault,GER,Elon Musk,US,2969000,2064058
+General Motos,FR,McKesson,FR,2970000,1194452
+Altaran,UK,Elon Musk,SPA,2971000,8659858
+Elon Musk,CHI,John Coulberg,UK,2972000,3699136
+Tesla,CHI,Elon Musk,CHI,2973000,1224820
+ConocoPhillips,CHI,Altaran,GER,2974000,6257965
+Walmart,GER,McKesson,SPA,2975000,2022037
+Tesla,FR,Elon Musk,UK,2976000,4760747
+Chevron,CHI,Exxon Mobil,GER,2977000,9082809
+John Coulberg,JAP,General Motos,UK,2978000,1552991
+Laurent Alexandre,FR,McKesson,UK,2979000,2992875
+McKesson,ITA,Activision Blizard,SWI,2980000,3834091
+General Motos,CHI,Laurent Alexandre,FR,2981000,7157084
+Exxon Mobil,UK,Chevron,CHI,2982000,3869060
+McKesson,GER,Renault,FR,2983000,7115848
+Walmart,SWI,Renault,CHI,2984000,5029336
+Activision Blizard,SWI,Nissan,CHI,2985000,7771649
+Renault,SWI,Walmart,CHI,2986000,2576016
+Chevron,SP,Altaran,FR,2987000,7743141
+Renault,GER,McKesson,UK,2988000,8498011
+McKesson,SPA,Tesla,ITA,2989000,3150408
+Walmart,CHI,Tesla,SPA,2990000,7482349
+Nissan,ITA,Tesla,US,2991000,7967215
+General Motos,GER,Altaran,US,2992000,7321814
+Exxon Mobil,SP,General Motos,SP,2993000,3227199
+McKesson,SP,Renault,FR,2994000,7794288
+Activision Blizard,UK,Nissan,US,2995000,7993110
+Walmart,FR,ConocoPhillips,US,2996000,4965626
+Chevron,UK,McKesson,SPA,2997000,5732978
+McKesson,CHI,Walmart,ITA,2998000,2955438
+Nissan,US,Activision Blizard,FR,2999000,3422587

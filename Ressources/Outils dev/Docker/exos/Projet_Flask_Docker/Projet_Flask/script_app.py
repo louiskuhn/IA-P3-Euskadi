@@ -252,7 +252,7 @@ def predict_from_dataurl():
     pred2 = np.argmax(pred_probas)
     
     preds = {'rf': str(pred), 'cnn': str(pred2)}
-
+    print(preds)
     return json.dumps(preds)
 
 ########### Version avec upload d'image
