@@ -2,7 +2,7 @@
 
 ## Les tests
 
-Pourquoi les tests ? Parce que si le programme fonctionne pas, ben ça marche pas. Ok mais quand on code on fait des tests au fur et à mesure pour vérifier que ça fait pas n'importe quoi donc pourquoi les tests ? Parce que les développeurs aiment automatiser toutce qui peut l'être. Et accessoirement car quand on teste un programme au fil de l'eau, on s'assure pas nécessairement que les différentes briques fonctionneront entre elles.
+Pourquoi les tests ? Parce que si le programme fonctionne pas, ben ça marche pas. Ok mais quand on code on fait des tests au fur et à mesure pour vérifier que ça fait pas n'importe quoi donc pourquoi les tests ? Parce que les développeurs aiment automatiser tout ce qui peut l'être. Et accessoirement car quand on teste un programme au fil de l'eau, on s'assure pas nécessairement que les différentes briques fonctionneront entre elles.
 
 L'idée c'est donc de créer un script spécifique à notre projet qui a pour seul but d'exécuter les tests automatisés (par opposition aux tests manuels exécutés "à la main").
 
