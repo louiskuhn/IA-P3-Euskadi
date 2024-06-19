@@ -77,3 +77,16 @@ def plotseasonal(res, axes ):
     res.resid.plot(ax=axes[3], legend=False)
     axes[3].set_ylabel('Residual')
 
+
+def plot_rolling_mean_and_var(series, window=10):
+    rolling_mean = series.rolling(window=window).mean()
+    plt.figure(figsize=(15,5))
+    plt.plot(rolling_mean, "g", label="Rolling mean trend")
+    plt.plot(series, "b", label="Actual values")
+    leg = plt.legend(loc='upper right')
+    
+    series_var = series.var()
+    print(series_var)
+    rolling_var = series.rolling(window=window).var()
+    plt.figure(figsize=(15,5))
+    plt.plot(rolling_var, "g", label="Rolling variance")
