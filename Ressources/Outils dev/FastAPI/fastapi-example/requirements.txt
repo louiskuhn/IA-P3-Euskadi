@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+bcrypt
+python-multipart
+pyjwt
+aiofiles
+requests
+pytest

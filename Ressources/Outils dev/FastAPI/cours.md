@@ -14,6 +14,10 @@
     - [3.4. Routeurs](#34-routeurs)
     - [3.5. Les paramètres](#35-les-paramètres)
     - [3.6. Bases de données](#36-bases-de-données)
+    - [3.7. Autres concepts](#37-autres-concepts)
+    - [3.8. Authentification](#38-authentification)
+    - [3.9. Utilisation de fichiers](#39-utilisation-de-fichiers)
+    - [3.10. Beaucoup d'autres concepts](#310-beaucoup-dautres-concepts)
 
 <!-- /TOC -->
 
@@ -22,6 +26,7 @@
 - REST : Representational State Transfer (ou transfert d'état de représentation)
 - path : endpoints qui sont exposés par l'API
 - opérations : méthodes HTTP utilisées pour manipuler les path (GET, POST, DELETE)
+- CORS : Cross-origin resource sharing
 
 ## 2. Les API et les API REST
 
@@ -177,7 +182,7 @@ Les modèles de Pydantic ne se restreignent pas aux types simples (string, int, 
 #### 3.6.1. Intro aux dépendances
 
 Idée générale :
-- autoriser à une fonction de dépendre d'une autre fonction
+- autoriser une fonction à dépendre d'une autre fonction
 - permet d'importer facilement des fonctionnalités n'importe où et donc les écrire une seule fois
 - constructeur `Depends`
 
@@ -196,7 +201,7 @@ Code python pour la création de la bdd SQLAlchemy
 from sqlalchemy import create_engine
 from sqlalchemy.orm import sessionmaker, declarative_base
     
-SQLALCHEMY_DATABASE_URL = "sqlite:///./fastapi-practice.db"
+SQLALCHEMY_DATABASE_URL = "sqlite:///./mydatabase.db"
     
 engine = create_engine(
     SQLALCHEMY_DATABASE_URL, connect_args={"check_same_thread": False}
@@ -222,22 +227,14 @@ class DbUser(Base):
 
 #### 3.6.4. Écriture dans la bdd
 
-Bdd checklist :
-- définition de la bdd      = `database.py`
-- définition des modèles    = `models.py`
-- création de la bdd        = `main.py`
-- définition des schémas     = `schemas.py`
-- fonctionnalités de l'ORM  = `db_user.py`
-- fonctionnalités de l'API  = `user.py`
-
-Récap du processus pour la partie BDD :
-1. import des librairies sqlalchemy et bcrypt
-2. Définition de la bdd dans `database.py` et création de la bdd dans `main.py`
-3. Définition des modèles (tables) de la bdd dans `models.py`
-4. Définition des fonctionnalités de l'ORM pour écrire dans la bdd dans le script `db_user.py`
-5. Définition des schémas dans `schemas.py` :
+Processus pour la partie BDD :
+1. import des librairies `sqlalchemy` et `bcrypt`
+2. Définition de la bdd dans `database.py` et des modèles (tables) de la bdd dans `models.py`
+3. Création de la bdd dans `main.py` 
+4. Définition des schémas dans `schemas.py` :
     - données depuis l'utilisateur : `UserBase`
     - réponse à l'utilisateur : `UserDisplay`
+5. Définition des fonctionnalités de l'ORM pour écrire dans la bdd dans le script `db_user.py`
 6. Définition des fonctionnalités de l'API dans `user.py`
 7. Sur le même mode, on définit toutes les opérations CRUD (create, read, update, delete)
 
@@ -263,22 +260,17 @@ Récap du processus pour la partie BDD :
 #### 3.6.6. Mise à  jour et suppression
 
 - mise à jour (UPDATE):
+
     ```python
     user = db.query(DbUser).filter(DbUser.id == id)
     user.update({DbUser.username: request.username, ... })
     db.commit()
     ```
 
-- suppression (DELETE):
-    ```python
-    user = db.query(DbUser).filter(DbUser.id == id).first()
-    db.delete(user)
-    db.commit()
-    ```
-    
 #### 3.6.7. Relations
 
 Pour une relation user - articles définie comme suit :
+
 <img src="imgs/db_relations.png"/>
 
 - définition de la relation dans les modèles 
@@ -302,3 +294,90 @@ class ArticleDisplay(BaseModel):
   user: User
   ...
 ```
+
+### 3.7. Autres concepts
+
+#### 3.7.1. Gestion des erreurs
+
+- pour notifier le client
+- lever une exception n'importe où dans le code l'arrête
+- contient un status code et un message
+- possibilité de définir ses propres exceptions dans un fichier `exceptions.py` et ensuite la manière de gérer ces exceptions directement dans le `main.py`
+
+#### 3.7.2. Réponse custom
+
+On peut vouloir fournir une autre réponse que du JSON, par exemple :
+- pour ajouter des paramètres (headers, cookies,...)
+- pour fournir différents types de réponses (texte, xml, html, fichiers, stream)
+- pour donner des réponses différentes selon une logique interne
+- pour fournir une documentation plus fournie
+
+#### 3.7.3. Headers
+
+- ajout des headers directement dans la définition de la fonction
+- possibilité d'ajouter des headers dans la réponse également
+
+#### 3.7.4. Cookies
+
+- utilisés pour stocker des information sur le navigateur
+- accepte des str, list, dict, models, etc...
+- les cookies peuvent être récupérés d'un endpoint à l'autre
+
+#### 3.7.5. Form Data
+
+- simple et direct avec FastAPI
+- données des html `<form>...</form>` sous dans un encodage spécial `application/x-www-form-urlencoded` utilisé pour requêter une API
+- nécessité du package `python-multipart`
+
+#### 3.7.6. CORS
+
+CORS = Cross-origin resource sharing
+
+Problème : créer une application en local pour accéder à une API créée sur la même machine
+
+Un site qui tourne sur un environnement local n'est **par défaut** pas autorisé à accéder à des ressources sur la même machine, à moins d'y être explicitement autorisé, ce qu'on peut bien sûr faire, avec `CORSMiddleware` !
+
+### 3.8. Authentification
+
+- Sujet complexe lié à la sécurité. Partie importante du code d'une application, métier spécifique sur la cybersécurité et l'authentification
+- utilisation de OAuht2 avec username et password
+
+<img src="imgs/authentication.png"/>
+
+- sécuriser un endpoint
+- générer un token
+- authentification d'utilisateur
+
+### 3.9. Utilisation de fichiers
+
+- récupérer un fichier et son contenu 
+    ```python
+    def get_file(file: bytes = File(...)):
+    ```
+    - déclaré comme des champs Form
+    - sous formes de bytes
+    - stockage en mémoire
+
+- `UploadFile` :
+    ```python
+    def get_uploadfile(upload_file: UploadFile = File(...)):
+    ```
+    - plus de fonctionnalités
+    - stocké en mémoire jusqu'à une certaine taille, puis sur le disque
+    - Plus de méthodes associées
+
+- rendre des fichiers disponibles de manière statique avec `StaticFile`
+- télécharger des fichiers directement à partir d'un endpoint et d'une opération : permet d'ajouter de la sécurité et éventuellement des calculs/logiques avant de renvoyer le fichier
+
+### 3.10. Beaucoup d'autres concepts
+
+- testing :facile à mettre en place avec `requests` et `pytest`
+- déploiement, debugging, logging
+- gérer les threads en cas d'opérations longues : `async` and `await`
+- templates avec `jinja2`
+- dépendances, dépendances de classes, dépendances globales
+
+
+
+
+
